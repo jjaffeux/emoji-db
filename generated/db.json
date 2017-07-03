@@ -1,0 +1,5998 @@
+{
+  "😀": {
+    "name": "grinning",
+    "fitzpatrick_scale": false
+  },
+  "😬": {
+    "name": "grimacing",
+    "fitzpatrick_scale": false
+  },
+  "😁": {
+    "name": "grin",
+    "fitzpatrick_scale": false
+  },
+  "😂": {
+    "name": "joy",
+    "fitzpatrick_scale": false
+  },
+  "🤣": {
+    "name": "rofl",
+    "fitzpatrick_scale": false
+  },
+  "😃": {
+    "name": "smiley",
+    "fitzpatrick_scale": false
+  },
+  "😄": {
+    "name": "smile",
+    "fitzpatrick_scale": false
+  },
+  "😅": {
+    "name": "sweat_smile",
+    "fitzpatrick_scale": false
+  },
+  "😆": {
+    "name": "laughing",
+    "fitzpatrick_scale": false
+  },
+  "😇": {
+    "name": "innocent",
+    "fitzpatrick_scale": false
+  },
+  "😉": {
+    "name": "wink",
+    "fitzpatrick_scale": false
+  },
+  "😊": {
+    "name": "blush",
+    "fitzpatrick_scale": false
+  },
+  "🙂": {
+    "name": "slightly_smiling_face",
+    "fitzpatrick_scale": false
+  },
+  "🙃": {
+    "name": "upside_down_face",
+    "fitzpatrick_scale": false
+  },
+  "☺️": {
+    "name": "relaxed",
+    "fitzpatrick_scale": false
+  },
+  "😋": {
+    "name": "yum",
+    "fitzpatrick_scale": false
+  },
+  "😌": {
+    "name": "relieved",
+    "fitzpatrick_scale": false
+  },
+  "😍": {
+    "name": "heart_eyes",
+    "fitzpatrick_scale": false
+  },
+  "😘": {
+    "name": "kissing_heart",
+    "fitzpatrick_scale": false
+  },
+  "😗": {
+    "name": "kissing",
+    "fitzpatrick_scale": false
+  },
+  "😙": {
+    "name": "kissing_smiling_eyes",
+    "fitzpatrick_scale": false
+  },
+  "😚": {
+    "name": "kissing_closed_eyes",
+    "fitzpatrick_scale": false
+  },
+  "😜": {
+    "name": "stuck_out_tongue_winking_eye",
+    "fitzpatrick_scale": false
+  },
+  "😝": {
+    "name": "stuck_out_tongue_closed_eyes",
+    "fitzpatrick_scale": false
+  },
+  "😛": {
+    "name": "stuck_out_tongue",
+    "fitzpatrick_scale": false
+  },
+  "🤑": {
+    "name": "money_mouth_face",
+    "fitzpatrick_scale": false
+  },
+  "🤓": {
+    "name": "nerd_face",
+    "fitzpatrick_scale": false
+  },
+  "😎": {
+    "name": "sunglasses",
+    "fitzpatrick_scale": false
+  },
+  "🤡": {
+    "name": "clown_face",
+    "fitzpatrick_scale": false
+  },
+  "🤠": {
+    "name": "cowboy_hat_face",
+    "fitzpatrick_scale": false
+  },
+  "🤗": {
+    "name": "hugs",
+    "fitzpatrick_scale": false
+  },
+  "😏": {
+    "name": "smirk",
+    "fitzpatrick_scale": false
+  },
+  "😶": {
+    "name": "no_mouth",
+    "fitzpatrick_scale": false
+  },
+  "😐": {
+    "name": "neutral_face",
+    "fitzpatrick_scale": false
+  },
+  "😑": {
+    "name": "expressionless",
+    "fitzpatrick_scale": false
+  },
+  "😒": {
+    "name": "unamused",
+    "fitzpatrick_scale": false
+  },
+  "🙄": {
+    "name": "roll_eyes",
+    "fitzpatrick_scale": false
+  },
+  "🤔": {
+    "name": "thinking",
+    "fitzpatrick_scale": false
+  },
+  "🤥": {
+    "name": "lying_face",
+    "fitzpatrick_scale": false
+  },
+  "😳": {
+    "name": "flushed",
+    "fitzpatrick_scale": false
+  },
+  "😞": {
+    "name": "disappointed",
+    "fitzpatrick_scale": false
+  },
+  "😟": {
+    "name": "worried",
+    "fitzpatrick_scale": false
+  },
+  "😠": {
+    "name": "angry",
+    "fitzpatrick_scale": false
+  },
+  "😡": {
+    "name": "rage",
+    "fitzpatrick_scale": false
+  },
+  "😔": {
+    "name": "pensive",
+    "fitzpatrick_scale": false
+  },
+  "😕": {
+    "name": "confused",
+    "fitzpatrick_scale": false
+  },
+  "🙁": {
+    "name": "slightly_frowning_face",
+    "fitzpatrick_scale": false
+  },
+  "☹": {
+    "name": "frowning_face",
+    "fitzpatrick_scale": false
+  },
+  "😣": {
+    "name": "persevere",
+    "fitzpatrick_scale": false
+  },
+  "😖": {
+    "name": "confounded",
+    "fitzpatrick_scale": false
+  },
+  "😫": {
+    "name": "tired_face",
+    "fitzpatrick_scale": false
+  },
+  "😩": {
+    "name": "weary",
+    "fitzpatrick_scale": false
+  },
+  "😤": {
+    "name": "triumph",
+    "fitzpatrick_scale": false
+  },
+  "😮": {
+    "name": "open_mouth",
+    "fitzpatrick_scale": false
+  },
+  "😱": {
+    "name": "scream",
+    "fitzpatrick_scale": false
+  },
+  "😨": {
+    "name": "fearful",
+    "fitzpatrick_scale": false
+  },
+  "😰": {
+    "name": "cold_sweat",
+    "fitzpatrick_scale": false
+  },
+  "😯": {
+    "name": "hushed",
+    "fitzpatrick_scale": false
+  },
+  "😦": {
+    "name": "frowning",
+    "fitzpatrick_scale": false
+  },
+  "😧": {
+    "name": "anguished",
+    "fitzpatrick_scale": false
+  },
+  "😢": {
+    "name": "cry",
+    "fitzpatrick_scale": false
+  },
+  "😥": {
+    "name": "disappointed_relieved",
+    "fitzpatrick_scale": false
+  },
+  "🤤": {
+    "name": "drooling_face",
+    "fitzpatrick_scale": false
+  },
+  "😪": {
+    "name": "sleepy",
+    "fitzpatrick_scale": false
+  },
+  "😓": {
+    "name": "sweat",
+    "fitzpatrick_scale": false
+  },
+  "😭": {
+    "name": "sob",
+    "fitzpatrick_scale": false
+  },
+  "😵": {
+    "name": "dizzy_face",
+    "fitzpatrick_scale": false
+  },
+  "😲": {
+    "name": "astonished",
+    "fitzpatrick_scale": false
+  },
+  "🤐": {
+    "name": "zipper_mouth_face",
+    "fitzpatrick_scale": false
+  },
+  "🤢": {
+    "name": "nauseated_face",
+    "fitzpatrick_scale": false
+  },
+  "🤧": {
+    "name": "sneezing_face",
+    "fitzpatrick_scale": false
+  },
+  "😷": {
+    "name": "mask",
+    "fitzpatrick_scale": false
+  },
+  "🤒": {
+    "name": "face_with_thermometer",
+    "fitzpatrick_scale": false
+  },
+  "🤕": {
+    "name": "face_with_head_bandage",
+    "fitzpatrick_scale": false
+  },
+  "😴": {
+    "name": "sleeping",
+    "fitzpatrick_scale": false
+  },
+  "💤": {
+    "name": "zzz",
+    "fitzpatrick_scale": false
+  },
+  "💩": {
+    "name": "poop",
+    "fitzpatrick_scale": false
+  },
+  "😈": {
+    "name": "smiling_imp",
+    "fitzpatrick_scale": false
+  },
+  "👿": {
+    "name": "imp",
+    "fitzpatrick_scale": false
+  },
+  "👹": {
+    "name": "japanese_ogre",
+    "fitzpatrick_scale": false
+  },
+  "👺": {
+    "name": "japanese_goblin",
+    "fitzpatrick_scale": false
+  },
+  "💀": {
+    "name": "skull",
+    "fitzpatrick_scale": false
+  },
+  "👻": {
+    "name": "ghost",
+    "fitzpatrick_scale": false
+  },
+  "👽": {
+    "name": "alien",
+    "fitzpatrick_scale": false
+  },
+  "🤖": {
+    "name": "robot",
+    "fitzpatrick_scale": false
+  },
+  "😺": {
+    "name": "smiley_cat",
+    "fitzpatrick_scale": false
+  },
+  "😸": {
+    "name": "smile_cat",
+    "fitzpatrick_scale": false
+  },
+  "😹": {
+    "name": "joy_cat",
+    "fitzpatrick_scale": false
+  },
+  "😻": {
+    "name": "heart_eyes_cat",
+    "fitzpatrick_scale": false
+  },
+  "😼": {
+    "name": "smirk_cat",
+    "fitzpatrick_scale": false
+  },
+  "😽": {
+    "name": "kissing_cat",
+    "fitzpatrick_scale": false
+  },
+  "🙀": {
+    "name": "scream_cat",
+    "fitzpatrick_scale": false
+  },
+  "😿": {
+    "name": "crying_cat_face",
+    "fitzpatrick_scale": false
+  },
+  "😾": {
+    "name": "pouting_cat",
+    "fitzpatrick_scale": false
+  },
+  "🙌": {
+    "name": "raised_hands",
+    "fitzpatrick_scale": true
+  },
+  "👏": {
+    "name": "clap",
+    "fitzpatrick_scale": true
+  },
+  "👋": {
+    "name": "wave",
+    "fitzpatrick_scale": true
+  },
+  "🤙": {
+    "name": "call_me_hand",
+    "fitzpatrick_scale": true
+  },
+  "👍": {
+    "name": "+1",
+    "fitzpatrick_scale": true
+  },
+  "👎": {
+    "name": "-1",
+    "fitzpatrick_scale": true
+  },
+  "👊": {
+    "name": "facepunch",
+    "fitzpatrick_scale": true
+  },
+  "✊": {
+    "name": "fist",
+    "fitzpatrick_scale": true
+  },
+  "🤛": {
+    "name": "fist_left",
+    "fitzpatrick_scale": true
+  },
+  "🤜": {
+    "name": "fist_right",
+    "fitzpatrick_scale": true
+  },
+  "✌": {
+    "name": "v",
+    "fitzpatrick_scale": true
+  },
+  "👌": {
+    "name": "ok_hand",
+    "fitzpatrick_scale": true
+  },
+  "✋": {
+    "name": "raised_hand",
+    "fitzpatrick_scale": true
+  },
+  "🤚": {
+    "name": "raised_back_of_hand",
+    "fitzpatrick_scale": true
+  },
+  "👐": {
+    "name": "open_hands",
+    "fitzpatrick_scale": true
+  },
+  "💪": {
+    "name": "muscle",
+    "fitzpatrick_scale": true
+  },
+  "🙏": {
+    "name": "pray",
+    "fitzpatrick_scale": true
+  },
+  "🤝": {
+    "name": "handshake",
+    "fitzpatrick_scale": false
+  },
+  "☝": {
+    "name": "point_up",
+    "fitzpatrick_scale": true
+  },
+  "👆": {
+    "name": "point_up_2",
+    "fitzpatrick_scale": true
+  },
+  "👇": {
+    "name": "point_down",
+    "fitzpatrick_scale": true
+  },
+  "👈": {
+    "name": "point_left",
+    "fitzpatrick_scale": true
+  },
+  "👉": {
+    "name": "point_right",
+    "fitzpatrick_scale": true
+  },
+  "🖕": {
+    "name": "fu",
+    "fitzpatrick_scale": true
+  },
+  "🖐": {
+    "name": "raised_hand_with_fingers_splayed",
+    "fitzpatrick_scale": true
+  },
+  "🤘": {
+    "name": "metal",
+    "fitzpatrick_scale": true
+  },
+  "🤞": {
+    "name": "crossed_fingers",
+    "fitzpatrick_scale": true
+  },
+  "🖖": {
+    "name": "vulcan_salute",
+    "fitzpatrick_scale": true
+  },
+  "✍": {
+    "name": "writing_hand",
+    "fitzpatrick_scale": true
+  },
+  "🤳": {
+    "name": "selfie",
+    "fitzpatrick_scale": true
+  },
+  "💅": {
+    "name": "nail_care",
+    "fitzpatrick_scale": true
+  },
+  "👄": {
+    "name": "lips",
+    "fitzpatrick_scale": false
+  },
+  "👅": {
+    "name": "tongue",
+    "fitzpatrick_scale": false
+  },
+  "👂": {
+    "name": "ear",
+    "fitzpatrick_scale": true
+  },
+  "👃": {
+    "name": "nose",
+    "fitzpatrick_scale": true
+  },
+  "👁": {
+    "name": "eye",
+    "fitzpatrick_scale": false
+  },
+  "👀": {
+    "name": "eyes",
+    "fitzpatrick_scale": false
+  },
+  "👤": {
+    "name": "bust_in_silhouette",
+    "fitzpatrick_scale": false
+  },
+  "👥": {
+    "name": "busts_in_silhouette",
+    "fitzpatrick_scale": false
+  },
+  "🗣": {
+    "name": "speaking_head",
+    "fitzpatrick_scale": false
+  },
+  "👶": {
+    "name": "baby",
+    "fitzpatrick_scale": true
+  },
+  "👦": {
+    "name": "boy",
+    "fitzpatrick_scale": true
+  },
+  "👧": {
+    "name": "girl",
+    "fitzpatrick_scale": true
+  },
+  "👨": {
+    "name": "man",
+    "fitzpatrick_scale": true
+  },
+  "👩": {
+    "name": "woman",
+    "fitzpatrick_scale": true
+  },
+  "👱‍♀️": {
+    "name": "blonde_woman",
+    "fitzpatrick_scale": true
+  },
+  "👱": {
+    "name": "blonde_man",
+    "fitzpatrick_scale": true
+  },
+  "👴": {
+    "name": "older_man",
+    "fitzpatrick_scale": true
+  },
+  "👵": {
+    "name": "older_woman",
+    "fitzpatrick_scale": true
+  },
+  "👲": {
+    "name": "man_with_gua_pi_mao",
+    "fitzpatrick_scale": true
+  },
+  "👳‍♀️": {
+    "name": "woman_with_turban",
+    "fitzpatrick_scale": true
+  },
+  "👳": {
+    "name": "man_with_turban",
+    "fitzpatrick_scale": true
+  },
+  "👮‍♀️": {
+    "name": "policewoman",
+    "fitzpatrick_scale": true
+  },
+  "👮": {
+    "name": "policeman",
+    "fitzpatrick_scale": true
+  },
+  "👷‍♀️": {
+    "name": "construction_worker_woman",
+    "fitzpatrick_scale": true
+  },
+  "👷": {
+    "name": "construction_worker_man",
+    "fitzpatrick_scale": true
+  },
+  "💂‍♀️": {
+    "name": "guardswoman",
+    "fitzpatrick_scale": true
+  },
+  "💂": {
+    "name": "guardsman",
+    "fitzpatrick_scale": true
+  },
+  "🕵️‍♀️": {
+    "name": "female_detective",
+    "fitzpatrick_scale": false
+  },
+  "🕵": {
+    "name": "male_detective",
+    "fitzpatrick_scale": true
+  },
+  "👩‍⚕️": {
+    "name": "woman_health_worker",
+    "fitzpatrick_scale": true
+  },
+  "👨‍⚕️": {
+    "name": "man_health_worker",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🌾": {
+    "name": "woman_farmer",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🌾": {
+    "name": "man_farmer",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🍳": {
+    "name": "woman_cook",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🍳": {
+    "name": "man_cook",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🎓": {
+    "name": "woman_student",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🎓": {
+    "name": "man_student",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🎤": {
+    "name": "woman_singer",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🎤": {
+    "name": "man_singer",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🏫": {
+    "name": "woman_teacher",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🏫": {
+    "name": "man_teacher",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🏭": {
+    "name": "woman_factory_worker",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🏭": {
+    "name": "man_factory_worker",
+    "fitzpatrick_scale": true
+  },
+  "👩‍💻": {
+    "name": "woman_technologist",
+    "fitzpatrick_scale": true
+  },
+  "👨‍💻": {
+    "name": "man_technologist",
+    "fitzpatrick_scale": true
+  },
+  "👩‍💼": {
+    "name": "woman_office_worker",
+    "fitzpatrick_scale": true
+  },
+  "👨‍💼": {
+    "name": "man_office_worker",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🔧": {
+    "name": "woman_mechanic",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🔧": {
+    "name": "man_mechanic",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🔬": {
+    "name": "woman_scientist",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🔬": {
+    "name": "man_scientist",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🎨": {
+    "name": "woman_artist",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🎨": {
+    "name": "man_artist",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🚒": {
+    "name": "woman_firefighter",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🚒": {
+    "name": "man_firefighter",
+    "fitzpatrick_scale": true
+  },
+  "👩‍✈️": {
+    "name": "woman_pilot",
+    "fitzpatrick_scale": true
+  },
+  "👨‍✈️": {
+    "name": "man_pilot",
+    "fitzpatrick_scale": true
+  },
+  "👩‍🚀": {
+    "name": "woman_astronaut",
+    "fitzpatrick_scale": true
+  },
+  "👨‍🚀": {
+    "name": "man_astronaut",
+    "fitzpatrick_scale": true
+  },
+  "👩‍⚖️": {
+    "name": "woman_judge",
+    "fitzpatrick_scale": true
+  },
+  "👨‍⚖️": {
+    "name": "man_judge",
+    "fitzpatrick_scale": true
+  },
+  "🤶": {
+    "name": "mrs_claus",
+    "fitzpatrick_scale": true
+  },
+  "🎅": {
+    "name": "santa",
+    "fitzpatrick_scale": true
+  },
+  "👼": {
+    "name": "angel",
+    "fitzpatrick_scale": true
+  },
+  "🤰": {
+    "name": "pregnant_woman",
+    "fitzpatrick_scale": true
+  },
+  "👸": {
+    "name": "princess",
+    "fitzpatrick_scale": true
+  },
+  "🤴": {
+    "name": "prince",
+    "fitzpatrick_scale": true
+  },
+  "👰": {
+    "name": "bride_with_veil",
+    "fitzpatrick_scale": true
+  },
+  "🤵": {
+    "name": "man_in_tuxedo",
+    "fitzpatrick_scale": true
+  },
+  "🏃‍♀️": {
+    "name": "running_woman",
+    "fitzpatrick_scale": true
+  },
+  "🏃": {
+    "name": "running_man",
+    "fitzpatrick_scale": true
+  },
+  "🚶‍♀️": {
+    "name": "walking_woman",
+    "fitzpatrick_scale": true
+  },
+  "🚶": {
+    "name": "walking_man",
+    "fitzpatrick_scale": true
+  },
+  "💃": {
+    "name": "dancer",
+    "fitzpatrick_scale": true
+  },
+  "🕺": {
+    "name": "man_dancing",
+    "fitzpatrick_scale": true
+  },
+  "👯": {
+    "name": "dancing_women",
+    "fitzpatrick_scale": false
+  },
+  "👯‍♂️": {
+    "name": "dancing_men",
+    "fitzpatrick_scale": false
+  },
+  "👫": {
+    "name": "couple",
+    "fitzpatrick_scale": false
+  },
+  "👬": {
+    "name": "two_men_holding_hands",
+    "fitzpatrick_scale": false
+  },
+  "👭": {
+    "name": "two_women_holding_hands",
+    "fitzpatrick_scale": false
+  },
+  "🙇‍♀️": {
+    "name": "bowing_woman",
+    "fitzpatrick_scale": true
+  },
+  "🙇": {
+    "name": "bowing_man",
+    "fitzpatrick_scale": true
+  },
+  "🤦": {
+    "name": "man_facepalming",
+    "fitzpatrick_scale": true
+  },
+  "🤦‍♀️": {
+    "name": "woman_facepalming",
+    "fitzpatrick_scale": true
+  },
+  "🤷": {
+    "name": "woman_shrugging",
+    "fitzpatrick_scale": true
+  },
+  "🤷‍♂️": {
+    "name": "man_shrugging",
+    "fitzpatrick_scale": true
+  },
+  "💁": {
+    "name": "tipping_hand_woman",
+    "fitzpatrick_scale": true
+  },
+  "💁‍♂️": {
+    "name": "tipping_hand_man",
+    "fitzpatrick_scale": true
+  },
+  "🙅": {
+    "name": "no_good_woman",
+    "fitzpatrick_scale": true
+  },
+  "🙅‍♂️": {
+    "name": "no_good_man",
+    "fitzpatrick_scale": true
+  },
+  "🙆": {
+    "name": "ok_woman",
+    "fitzpatrick_scale": true
+  },
+  "🙆‍♂️": {
+    "name": "ok_man",
+    "fitzpatrick_scale": true
+  },
+  "🙋": {
+    "name": "raising_hand_woman",
+    "fitzpatrick_scale": true
+  },
+  "🙋‍♂️": {
+    "name": "raising_hand_man",
+    "fitzpatrick_scale": true
+  },
+  "🙎": {
+    "name": "pouting_woman",
+    "fitzpatrick_scale": true
+  },
+  "🙎‍♂️": {
+    "name": "pouting_man",
+    "fitzpatrick_scale": true
+  },
+  "🙍": {
+    "name": "frowning_woman",
+    "fitzpatrick_scale": true
+  },
+  "🙍‍♂️": {
+    "name": "frowning_man",
+    "fitzpatrick_scale": true
+  },
+  "💇": {
+    "name": "haircut_woman",
+    "fitzpatrick_scale": true
+  },
+  "💇‍♂️": {
+    "name": "haircut_man",
+    "fitzpatrick_scale": true
+  },
+  "💆": {
+    "name": "massage_woman",
+    "fitzpatrick_scale": true
+  },
+  "💆‍♂️": {
+    "name": "massage_man",
+    "fitzpatrick_scale": true
+  },
+  "💑": {
+    "name": "couple_with_heart_woman_man",
+    "fitzpatrick_scale": false
+  },
+  "👩‍❤️‍👩": {
+    "name": "couple_with_heart_woman_woman",
+    "fitzpatrick_scale": false
+  },
+  "👨‍❤️‍👨": {
+    "name": "couple_with_heart_man_man",
+    "fitzpatrick_scale": false
+  },
+  "💏": {
+    "name": "couplekiss_man_woman",
+    "fitzpatrick_scale": false
+  },
+  "👩‍❤️‍💋‍👩": {
+    "name": "couplekiss_woman_woman",
+    "fitzpatrick_scale": false
+  },
+  "👨‍❤️‍💋‍👨": {
+    "name": "couplekiss_man_man",
+    "fitzpatrick_scale": false
+  },
+  "👪": {
+    "name": "family_man_woman_boy",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👩‍👧": {
+    "name": "family_man_woman_girl",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👩‍👧‍👦": {
+    "name": "family_man_woman_girl_boy",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👩‍👦‍👦": {
+    "name": "family_man_woman_boy_boy",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👩‍👧‍👧": {
+    "name": "family_man_woman_girl_girl",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👩‍👦": {
+    "name": "family_woman_woman_boy",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👩‍👧": {
+    "name": "family_woman_woman_girl",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👩‍👧‍👦": {
+    "name": "family_woman_woman_girl_boy",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👩‍👦‍👦": {
+    "name": "family_woman_woman_boy_boy",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👩‍👧‍👧": {
+    "name": "family_woman_woman_girl_girl",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👨‍👦": {
+    "name": "family_man_man_boy",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👨‍👧": {
+    "name": "family_man_man_girl",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👨‍👧‍👦": {
+    "name": "family_man_man_girl_boy",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👨‍👦‍👦": {
+    "name": "family_man_man_boy_boy",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👨‍👧‍👧": {
+    "name": "family_man_man_girl_girl",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👦": {
+    "name": "family_woman_boy",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👧": {
+    "name": "family_woman_girl",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👧‍👦": {
+    "name": "family_woman_girl_boy",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👦‍👦": {
+    "name": "family_woman_boy_boy",
+    "fitzpatrick_scale": false
+  },
+  "👩‍👧‍👧": {
+    "name": "family_woman_girl_girl",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👦": {
+    "name": "family_man_boy",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👧": {
+    "name": "family_man_girl",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👧‍👦": {
+    "name": "family_man_girl_boy",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👦‍👦": {
+    "name": "family_man_boy_boy",
+    "fitzpatrick_scale": false
+  },
+  "👨‍👧‍👧": {
+    "name": "family_man_girl_girl",
+    "fitzpatrick_scale": false
+  },
+  "👚": {
+    "name": "womans_clothes",
+    "fitzpatrick_scale": false
+  },
+  "👕": {
+    "name": "tshirt",
+    "fitzpatrick_scale": false
+  },
+  "👖": {
+    "name": "jeans",
+    "fitzpatrick_scale": false
+  },
+  "👔": {
+    "name": "necktie",
+    "fitzpatrick_scale": false
+  },
+  "👗": {
+    "name": "dress",
+    "fitzpatrick_scale": false
+  },
+  "👙": {
+    "name": "bikini",
+    "fitzpatrick_scale": false
+  },
+  "👘": {
+    "name": "kimono",
+    "fitzpatrick_scale": false
+  },
+  "💄": {
+    "name": "lipstick",
+    "fitzpatrick_scale": false
+  },
+  "💋": {
+    "name": "kiss",
+    "fitzpatrick_scale": false
+  },
+  "👣": {
+    "name": "footprints",
+    "fitzpatrick_scale": false
+  },
+  "👠": {
+    "name": "high_heel",
+    "fitzpatrick_scale": false
+  },
+  "👡": {
+    "name": "sandal",
+    "fitzpatrick_scale": false
+  },
+  "👢": {
+    "name": "boot",
+    "fitzpatrick_scale": false
+  },
+  "👞": {
+    "name": "mans_shoe",
+    "fitzpatrick_scale": false
+  },
+  "👟": {
+    "name": "athletic_shoe",
+    "fitzpatrick_scale": false
+  },
+  "👒": {
+    "name": "womans_hat",
+    "fitzpatrick_scale": false
+  },
+  "🎩": {
+    "name": "tophat",
+    "fitzpatrick_scale": false
+  },
+  "⛑": {
+    "name": "rescue_worker_helmet",
+    "fitzpatrick_scale": false
+  },
+  "🎓": {
+    "name": "mortar_board",
+    "fitzpatrick_scale": false
+  },
+  "👑": {
+    "name": "crown",
+    "fitzpatrick_scale": false
+  },
+  "🎒": {
+    "name": "school_satchel",
+    "fitzpatrick_scale": false
+  },
+  "👝": {
+    "name": "pouch",
+    "fitzpatrick_scale": false
+  },
+  "👛": {
+    "name": "purse",
+    "fitzpatrick_scale": false
+  },
+  "👜": {
+    "name": "handbag",
+    "fitzpatrick_scale": false
+  },
+  "💼": {
+    "name": "briefcase",
+    "fitzpatrick_scale": false
+  },
+  "👓": {
+    "name": "eyeglasses",
+    "fitzpatrick_scale": false
+  },
+  "🕶": {
+    "name": "dark_sunglasses",
+    "fitzpatrick_scale": false
+  },
+  "💍": {
+    "name": "ring",
+    "fitzpatrick_scale": false
+  },
+  "🌂": {
+    "name": "closed_umbrella",
+    "fitzpatrick_scale": false
+  },
+  "🐶": {
+    "name": "dog",
+    "fitzpatrick_scale": false
+  },
+  "🐱": {
+    "name": "cat",
+    "fitzpatrick_scale": false
+  },
+  "🐭": {
+    "name": "mouse",
+    "fitzpatrick_scale": false
+  },
+  "🐹": {
+    "name": "hamster",
+    "fitzpatrick_scale": false
+  },
+  "🐰": {
+    "name": "rabbit",
+    "fitzpatrick_scale": false
+  },
+  "🦊": {
+    "name": "fox_face",
+    "fitzpatrick_scale": false
+  },
+  "🐻": {
+    "name": "bear",
+    "fitzpatrick_scale": false
+  },
+  "🐼": {
+    "name": "panda_face",
+    "fitzpatrick_scale": false
+  },
+  "🐨": {
+    "name": "koala",
+    "fitzpatrick_scale": false
+  },
+  "🐯": {
+    "name": "tiger",
+    "fitzpatrick_scale": false
+  },
+  "🦁": {
+    "name": "lion",
+    "fitzpatrick_scale": false
+  },
+  "🐮": {
+    "name": "cow",
+    "fitzpatrick_scale": false
+  },
+  "🐷": {
+    "name": "pig",
+    "fitzpatrick_scale": false
+  },
+  "🐽": {
+    "name": "pig_nose",
+    "fitzpatrick_scale": false
+  },
+  "🐸": {
+    "name": "frog",
+    "fitzpatrick_scale": false
+  },
+  "🦑": {
+    "name": "squid",
+    "fitzpatrick_scale": false
+  },
+  "🐙": {
+    "name": "octopus",
+    "fitzpatrick_scale": false
+  },
+  "🦐": {
+    "name": "shrimp",
+    "fitzpatrick_scale": false
+  },
+  "🐵": {
+    "name": "monkey_face",
+    "fitzpatrick_scale": false
+  },
+  "🦍": {
+    "name": "gorilla",
+    "fitzpatrick_scale": false
+  },
+  "🙈": {
+    "name": "see_no_evil",
+    "fitzpatrick_scale": false
+  },
+  "🙉": {
+    "name": "hear_no_evil",
+    "fitzpatrick_scale": false
+  },
+  "🙊": {
+    "name": "speak_no_evil",
+    "fitzpatrick_scale": false
+  },
+  "🐒": {
+    "name": "monkey",
+    "fitzpatrick_scale": false
+  },
+  "🐔": {
+    "name": "chicken",
+    "fitzpatrick_scale": false
+  },
+  "🐧": {
+    "name": "penguin",
+    "fitzpatrick_scale": false
+  },
+  "🐦": {
+    "name": "bird",
+    "fitzpatrick_scale": false
+  },
+  "🐤": {
+    "name": "baby_chick",
+    "fitzpatrick_scale": false
+  },
+  "🐣": {
+    "name": "hatching_chick",
+    "fitzpatrick_scale": false
+  },
+  "🐥": {
+    "name": "hatched_chick",
+    "fitzpatrick_scale": false
+  },
+  "🦆": {
+    "name": "duck",
+    "fitzpatrick_scale": false
+  },
+  "🦅": {
+    "name": "eagle",
+    "fitzpatrick_scale": false
+  },
+  "🦉": {
+    "name": "owl",
+    "fitzpatrick_scale": false
+  },
+  "🦇": {
+    "name": "bat",
+    "fitzpatrick_scale": false
+  },
+  "🐺": {
+    "name": "wolf",
+    "fitzpatrick_scale": false
+  },
+  "🐗": {
+    "name": "boar",
+    "fitzpatrick_scale": false
+  },
+  "🐴": {
+    "name": "horse",
+    "fitzpatrick_scale": false
+  },
+  "🦄": {
+    "name": "unicorn",
+    "fitzpatrick_scale": false
+  },
+  "🐝": {
+    "name": "honeybee",
+    "fitzpatrick_scale": false
+  },
+  "🐛": {
+    "name": "bug",
+    "fitzpatrick_scale": false
+  },
+  "🦋": {
+    "name": "butterfly",
+    "fitzpatrick_scale": false
+  },
+  "🐌": {
+    "name": "snail",
+    "fitzpatrick_scale": false
+  },
+  "🐞": {
+    "name": "beetle",
+    "fitzpatrick_scale": false
+  },
+  "🐜": {
+    "name": "ant",
+    "fitzpatrick_scale": false
+  },
+  "🕷": {
+    "name": "spider",
+    "fitzpatrick_scale": false
+  },
+  "🦂": {
+    "name": "scorpion",
+    "fitzpatrick_scale": false
+  },
+  "🦀": {
+    "name": "crab",
+    "fitzpatrick_scale": false
+  },
+  "🐍": {
+    "name": "snake",
+    "fitzpatrick_scale": false
+  },
+  "🦎": {
+    "name": "lizard",
+    "fitzpatrick_scale": false
+  },
+  "🐢": {
+    "name": "turtle",
+    "fitzpatrick_scale": false
+  },
+  "🐠": {
+    "name": "tropical_fish",
+    "fitzpatrick_scale": false
+  },
+  "🐟": {
+    "name": "fish",
+    "fitzpatrick_scale": false
+  },
+  "🐡": {
+    "name": "blowfish",
+    "fitzpatrick_scale": false
+  },
+  "🐬": {
+    "name": "dolphin",
+    "fitzpatrick_scale": false
+  },
+  "🦈": {
+    "name": "shark",
+    "fitzpatrick_scale": false
+  },
+  "🐳": {
+    "name": "whale",
+    "fitzpatrick_scale": false
+  },
+  "🐋": {
+    "name": "whale2",
+    "fitzpatrick_scale": false
+  },
+  "🐊": {
+    "name": "crocodile",
+    "fitzpatrick_scale": false
+  },
+  "🐆": {
+    "name": "leopard",
+    "fitzpatrick_scale": false
+  },
+  "🐅": {
+    "name": "tiger2",
+    "fitzpatrick_scale": false
+  },
+  "🐃": {
+    "name": "water_buffalo",
+    "fitzpatrick_scale": false
+  },
+  "🐂": {
+    "name": "ox",
+    "fitzpatrick_scale": false
+  },
+  "🐄": {
+    "name": "cow2",
+    "fitzpatrick_scale": false
+  },
+  "🦌": {
+    "name": "deer",
+    "fitzpatrick_scale": false
+  },
+  "🐪": {
+    "name": "dromedary_camel",
+    "fitzpatrick_scale": false
+  },
+  "🐫": {
+    "name": "camel",
+    "fitzpatrick_scale": false
+  },
+  "🐘": {
+    "name": "elephant",
+    "fitzpatrick_scale": false
+  },
+  "🦏": {
+    "name": "rhinoceros",
+    "fitzpatrick_scale": false
+  },
+  "🐐": {
+    "name": "goat",
+    "fitzpatrick_scale": false
+  },
+  "🐏": {
+    "name": "ram",
+    "fitzpatrick_scale": false
+  },
+  "🐑": {
+    "name": "sheep",
+    "fitzpatrick_scale": false
+  },
+  "🐎": {
+    "name": "racehorse",
+    "fitzpatrick_scale": false
+  },
+  "🐖": {
+    "name": "pig2",
+    "fitzpatrick_scale": false
+  },
+  "🐀": {
+    "name": "rat",
+    "fitzpatrick_scale": false
+  },
+  "🐁": {
+    "name": "mouse2",
+    "fitzpatrick_scale": false
+  },
+  "🐓": {
+    "name": "rooster",
+    "fitzpatrick_scale": false
+  },
+  "🦃": {
+    "name": "turkey",
+    "fitzpatrick_scale": false
+  },
+  "🕊": {
+    "name": "dove",
+    "fitzpatrick_scale": false
+  },
+  "🐕": {
+    "name": "dog2",
+    "fitzpatrick_scale": false
+  },
+  "🐩": {
+    "name": "poodle",
+    "fitzpatrick_scale": false
+  },
+  "🐈": {
+    "name": "cat2",
+    "fitzpatrick_scale": false
+  },
+  "🐇": {
+    "name": "rabbit2",
+    "fitzpatrick_scale": false
+  },
+  "🐿": {
+    "name": "chipmunk",
+    "fitzpatrick_scale": false
+  },
+  "🐾": {
+    "name": "paw_prints",
+    "fitzpatrick_scale": false
+  },
+  "🐉": {
+    "name": "dragon",
+    "fitzpatrick_scale": false
+  },
+  "🐲": {
+    "name": "dragon_face",
+    "fitzpatrick_scale": false
+  },
+  "🌵": {
+    "name": "cactus",
+    "fitzpatrick_scale": false
+  },
+  "🎄": {
+    "name": "christmas_tree",
+    "fitzpatrick_scale": false
+  },
+  "🌲": {
+    "name": "evergreen_tree",
+    "fitzpatrick_scale": false
+  },
+  "🌳": {
+    "name": "deciduous_tree",
+    "fitzpatrick_scale": false
+  },
+  "🌴": {
+    "name": "palm_tree",
+    "fitzpatrick_scale": false
+  },
+  "🌱": {
+    "name": "seedling",
+    "fitzpatrick_scale": false
+  },
+  "🌿": {
+    "name": "herb",
+    "fitzpatrick_scale": false
+  },
+  "☘": {
+    "name": "shamrock",
+    "fitzpatrick_scale": false
+  },
+  "🍀": {
+    "name": "four_leaf_clover",
+    "fitzpatrick_scale": false
+  },
+  "🎍": {
+    "name": "bamboo",
+    "fitzpatrick_scale": false
+  },
+  "🎋": {
+    "name": "tanabata_tree",
+    "fitzpatrick_scale": false
+  },
+  "🍃": {
+    "name": "leaves",
+    "fitzpatrick_scale": false
+  },
+  "🍂": {
+    "name": "fallen_leaf",
+    "fitzpatrick_scale": false
+  },
+  "🍁": {
+    "name": "maple_leaf",
+    "fitzpatrick_scale": false
+  },
+  "🌾": {
+    "name": "ear_of_rice",
+    "fitzpatrick_scale": false
+  },
+  "🌺": {
+    "name": "hibiscus",
+    "fitzpatrick_scale": false
+  },
+  "🌻": {
+    "name": "sunflower",
+    "fitzpatrick_scale": false
+  },
+  "🌹": {
+    "name": "rose",
+    "fitzpatrick_scale": false
+  },
+  "🥀": {
+    "name": "wilted_flower",
+    "fitzpatrick_scale": false
+  },
+  "🌷": {
+    "name": "tulip",
+    "fitzpatrick_scale": false
+  },
+  "🌼": {
+    "name": "blossom",
+    "fitzpatrick_scale": false
+  },
+  "🌸": {
+    "name": "cherry_blossom",
+    "fitzpatrick_scale": false
+  },
+  "💐": {
+    "name": "bouquet",
+    "fitzpatrick_scale": false
+  },
+  "🍄": {
+    "name": "mushroom",
+    "fitzpatrick_scale": false
+  },
+  "🌰": {
+    "name": "chestnut",
+    "fitzpatrick_scale": false
+  },
+  "🎃": {
+    "name": "jack_o_lantern",
+    "fitzpatrick_scale": false
+  },
+  "🐚": {
+    "name": "shell",
+    "fitzpatrick_scale": false
+  },
+  "🕸": {
+    "name": "spider_web",
+    "fitzpatrick_scale": false
+  },
+  "🌎": {
+    "name": "earth_americas",
+    "fitzpatrick_scale": false
+  },
+  "🌍": {
+    "name": "earth_africa",
+    "fitzpatrick_scale": false
+  },
+  "🌏": {
+    "name": "earth_asia",
+    "fitzpatrick_scale": false
+  },
+  "🌕": {
+    "name": "full_moon",
+    "fitzpatrick_scale": false
+  },
+  "🌖": {
+    "name": "waning_gibbous_moon",
+    "fitzpatrick_scale": false
+  },
+  "🌗": {
+    "name": "last_quarter_moon",
+    "fitzpatrick_scale": false
+  },
+  "🌘": {
+    "name": "waning_crescent_moon",
+    "fitzpatrick_scale": false
+  },
+  "🌑": {
+    "name": "new_moon",
+    "fitzpatrick_scale": false
+  },
+  "🌒": {
+    "name": "waxing_crescent_moon",
+    "fitzpatrick_scale": false
+  },
+  "🌓": {
+    "name": "first_quarter_moon",
+    "fitzpatrick_scale": false
+  },
+  "🌔": {
+    "name": "waxing_gibbous_moon",
+    "fitzpatrick_scale": false
+  },
+  "🌚": {
+    "name": "new_moon_with_face",
+    "fitzpatrick_scale": false
+  },
+  "🌝": {
+    "name": "full_moon_with_face",
+    "fitzpatrick_scale": false
+  },
+  "🌛": {
+    "name": "first_quarter_moon_with_face",
+    "fitzpatrick_scale": false
+  },
+  "🌜": {
+    "name": "last_quarter_moon_with_face",
+    "fitzpatrick_scale": false
+  },
+  "🌞": {
+    "name": "sun_with_face",
+    "fitzpatrick_scale": false
+  },
+  "🌙": {
+    "name": "crescent_moon",
+    "fitzpatrick_scale": false
+  },
+  "⭐": {
+    "name": "star",
+    "fitzpatrick_scale": false
+  },
+  "🌟": {
+    "name": "star2",
+    "fitzpatrick_scale": false
+  },
+  "💫": {
+    "name": "dizzy",
+    "fitzpatrick_scale": false
+  },
+  "✨": {
+    "name": "sparkles",
+    "fitzpatrick_scale": false
+  },
+  "☄": {
+    "name": "comet",
+    "fitzpatrick_scale": false
+  },
+  "☀️": {
+    "name": "sunny",
+    "fitzpatrick_scale": false
+  },
+  "🌤": {
+    "name": "sun_behind_small_cloud",
+    "fitzpatrick_scale": false
+  },
+  "⛅": {
+    "name": "partly_sunny",
+    "fitzpatrick_scale": false
+  },
+  "🌥": {
+    "name": "sun_behind_large_cloud",
+    "fitzpatrick_scale": false
+  },
+  "🌦": {
+    "name": "sun_behind_rain_cloud",
+    "fitzpatrick_scale": false
+  },
+  "☁️": {
+    "name": "cloud",
+    "fitzpatrick_scale": false
+  },
+  "🌧": {
+    "name": "cloud_with_rain",
+    "fitzpatrick_scale": false
+  },
+  "⛈": {
+    "name": "cloud_with_lightning_and_rain",
+    "fitzpatrick_scale": false
+  },
+  "🌩": {
+    "name": "cloud_with_lightning",
+    "fitzpatrick_scale": false
+  },
+  "⚡": {
+    "name": "zap",
+    "fitzpatrick_scale": false
+  },
+  "🔥": {
+    "name": "fire",
+    "fitzpatrick_scale": false
+  },
+  "💥": {
+    "name": "boom",
+    "fitzpatrick_scale": false
+  },
+  "❄️": {
+    "name": "snowflake",
+    "fitzpatrick_scale": false
+  },
+  "🌨": {
+    "name": "cloud_with_snow",
+    "fitzpatrick_scale": false
+  },
+  "⛄": {
+    "name": "snowman",
+    "fitzpatrick_scale": false
+  },
+  "☃": {
+    "name": "snowman_with_snow",
+    "fitzpatrick_scale": false
+  },
+  "🌬": {
+    "name": "wind_face",
+    "fitzpatrick_scale": false
+  },
+  "💨": {
+    "name": "dash",
+    "fitzpatrick_scale": false
+  },
+  "🌪": {
+    "name": "tornado",
+    "fitzpatrick_scale": false
+  },
+  "🌫": {
+    "name": "fog",
+    "fitzpatrick_scale": false
+  },
+  "☂": {
+    "name": "open_umbrella",
+    "fitzpatrick_scale": false
+  },
+  "☔": {
+    "name": "umbrella",
+    "fitzpatrick_scale": false
+  },
+  "💧": {
+    "name": "droplet",
+    "fitzpatrick_scale": false
+  },
+  "💦": {
+    "name": "sweat_drops",
+    "fitzpatrick_scale": false
+  },
+  "🌊": {
+    "name": "ocean",
+    "fitzpatrick_scale": false
+  },
+  "🍏": {
+    "name": "green_apple",
+    "fitzpatrick_scale": false
+  },
+  "🍎": {
+    "name": "apple",
+    "fitzpatrick_scale": false
+  },
+  "🍐": {
+    "name": "pear",
+    "fitzpatrick_scale": false
+  },
+  "🍊": {
+    "name": "tangerine",
+    "fitzpatrick_scale": false
+  },
+  "🍋": {
+    "name": "lemon",
+    "fitzpatrick_scale": false
+  },
+  "🍌": {
+    "name": "banana",
+    "fitzpatrick_scale": false
+  },
+  "🍉": {
+    "name": "watermelon",
+    "fitzpatrick_scale": false
+  },
+  "🍇": {
+    "name": "grapes",
+    "fitzpatrick_scale": false
+  },
+  "🍓": {
+    "name": "strawberry",
+    "fitzpatrick_scale": false
+  },
+  "🍈": {
+    "name": "melon",
+    "fitzpatrick_scale": false
+  },
+  "🍒": {
+    "name": "cherries",
+    "fitzpatrick_scale": false
+  },
+  "🍑": {
+    "name": "peach",
+    "fitzpatrick_scale": false
+  },
+  "🍍": {
+    "name": "pineapple",
+    "fitzpatrick_scale": false
+  },
+  "🥝": {
+    "name": "kiwi_fruit",
+    "fitzpatrick_scale": false
+  },
+  "🥑": {
+    "name": "avocado",
+    "fitzpatrick_scale": false
+  },
+  "🍅": {
+    "name": "tomato",
+    "fitzpatrick_scale": false
+  },
+  "🍆": {
+    "name": "eggplant",
+    "fitzpatrick_scale": false
+  },
+  "🥒": {
+    "name": "cucumber",
+    "fitzpatrick_scale": false
+  },
+  "🥕": {
+    "name": "carrot",
+    "fitzpatrick_scale": false
+  },
+  "🌶": {
+    "name": "hot_pepper",
+    "fitzpatrick_scale": false
+  },
+  "🥔": {
+    "name": "potato",
+    "fitzpatrick_scale": false
+  },
+  "🌽": {
+    "name": "corn",
+    "fitzpatrick_scale": false
+  },
+  "🍠": {
+    "name": "sweet_potato",
+    "fitzpatrick_scale": false
+  },
+  "🥜": {
+    "name": "peanuts",
+    "fitzpatrick_scale": false
+  },
+  "🍯": {
+    "name": "honey_pot",
+    "fitzpatrick_scale": false
+  },
+  "🥐": {
+    "name": "croissant",
+    "fitzpatrick_scale": false
+  },
+  "🍞": {
+    "name": "bread",
+    "fitzpatrick_scale": false
+  },
+  "🥖": {
+    "name": "baguette_bread",
+    "fitzpatrick_scale": false
+  },
+  "🧀": {
+    "name": "cheese",
+    "fitzpatrick_scale": false
+  },
+  "🥚": {
+    "name": "egg",
+    "fitzpatrick_scale": false
+  },
+  "🥓": {
+    "name": "bacon",
+    "fitzpatrick_scale": false
+  },
+  "🥞": {
+    "name": "pancakes",
+    "fitzpatrick_scale": false
+  },
+  "🍗": {
+    "name": "poultry_leg",
+    "fitzpatrick_scale": false
+  },
+  "🍖": {
+    "name": "meat_on_bone",
+    "fitzpatrick_scale": false
+  },
+  "🍤": {
+    "name": "fried_shrimp",
+    "fitzpatrick_scale": false
+  },
+  "🍳": {
+    "name": "fried_egg",
+    "fitzpatrick_scale": false
+  },
+  "🍔": {
+    "name": "hamburger",
+    "fitzpatrick_scale": false
+  },
+  "🍟": {
+    "name": "fries",
+    "fitzpatrick_scale": false
+  },
+  "🥙": {
+    "name": "stuffed_flatbread",
+    "fitzpatrick_scale": false
+  },
+  "🌭": {
+    "name": "hotdog",
+    "fitzpatrick_scale": false
+  },
+  "🍕": {
+    "name": "pizza",
+    "fitzpatrick_scale": false
+  },
+  "🍝": {
+    "name": "spaghetti",
+    "fitzpatrick_scale": false
+  },
+  "🌮": {
+    "name": "taco",
+    "fitzpatrick_scale": false
+  },
+  "🌯": {
+    "name": "burrito",
+    "fitzpatrick_scale": false
+  },
+  "🥗": {
+    "name": "green_salad",
+    "fitzpatrick_scale": false
+  },
+  "🥘": {
+    "name": "shallow_pan_of_food",
+    "fitzpatrick_scale": false
+  },
+  "🍜": {
+    "name": "ramen",
+    "fitzpatrick_scale": false
+  },
+  "🍲": {
+    "name": "stew",
+    "fitzpatrick_scale": false
+  },
+  "🍥": {
+    "name": "fish_cake",
+    "fitzpatrick_scale": false
+  },
+  "🍣": {
+    "name": "sushi",
+    "fitzpatrick_scale": false
+  },
+  "🍱": {
+    "name": "bento",
+    "fitzpatrick_scale": false
+  },
+  "🍛": {
+    "name": "curry",
+    "fitzpatrick_scale": false
+  },
+  "🍙": {
+    "name": "rice_ball",
+    "fitzpatrick_scale": false
+  },
+  "🍚": {
+    "name": "rice",
+    "fitzpatrick_scale": false
+  },
+  "🍘": {
+    "name": "rice_cracker",
+    "fitzpatrick_scale": false
+  },
+  "🍢": {
+    "name": "oden",
+    "fitzpatrick_scale": false
+  },
+  "🍡": {
+    "name": "dango",
+    "fitzpatrick_scale": false
+  },
+  "🍧": {
+    "name": "shaved_ice",
+    "fitzpatrick_scale": false
+  },
+  "🍨": {
+    "name": "ice_cream",
+    "fitzpatrick_scale": false
+  },
+  "🍦": {
+    "name": "icecream",
+    "fitzpatrick_scale": false
+  },
+  "🍰": {
+    "name": "cake",
+    "fitzpatrick_scale": false
+  },
+  "🎂": {
+    "name": "birthday",
+    "fitzpatrick_scale": false
+  },
+  "🍮": {
+    "name": "custard",
+    "fitzpatrick_scale": false
+  },
+  "🍬": {
+    "name": "candy",
+    "fitzpatrick_scale": false
+  },
+  "🍭": {
+    "name": "lollipop",
+    "fitzpatrick_scale": false
+  },
+  "🍫": {
+    "name": "chocolate_bar",
+    "fitzpatrick_scale": false
+  },
+  "🍿": {
+    "name": "popcorn",
+    "fitzpatrick_scale": false
+  },
+  "🍩": {
+    "name": "doughnut",
+    "fitzpatrick_scale": false
+  },
+  "🍪": {
+    "name": "cookie",
+    "fitzpatrick_scale": false
+  },
+  "🥛": {
+    "name": "milk_glass",
+    "fitzpatrick_scale": false
+  },
+  "🍺": {
+    "name": "beer",
+    "fitzpatrick_scale": false
+  },
+  "🍻": {
+    "name": "beers",
+    "fitzpatrick_scale": false
+  },
+  "🥂": {
+    "name": "clinking_glasses",
+    "fitzpatrick_scale": false
+  },
+  "🍷": {
+    "name": "wine_glass",
+    "fitzpatrick_scale": false
+  },
+  "🥃": {
+    "name": "tumbler_glass",
+    "fitzpatrick_scale": false
+  },
+  "🍸": {
+    "name": "cocktail",
+    "fitzpatrick_scale": false
+  },
+  "🍹": {
+    "name": "tropical_drink",
+    "fitzpatrick_scale": false
+  },
+  "🍾": {
+    "name": "champagne",
+    "fitzpatrick_scale": false
+  },
+  "🍶": {
+    "name": "sake",
+    "fitzpatrick_scale": false
+  },
+  "🍵": {
+    "name": "tea",
+    "fitzpatrick_scale": false
+  },
+  "☕": {
+    "name": "coffee",
+    "fitzpatrick_scale": false
+  },
+  "🍼": {
+    "name": "baby_bottle",
+    "fitzpatrick_scale": false
+  },
+  "🥄": {
+    "name": "spoon",
+    "fitzpatrick_scale": false
+  },
+  "🍴": {
+    "name": "fork_and_knife",
+    "fitzpatrick_scale": false
+  },
+  "🍽": {
+    "name": "plate_with_cutlery",
+    "fitzpatrick_scale": false
+  },
+  "⚽": {
+    "name": "soccer",
+    "fitzpatrick_scale": false
+  },
+  "🏀": {
+    "name": "basketball",
+    "fitzpatrick_scale": false
+  },
+  "🏈": {
+    "name": "football",
+    "fitzpatrick_scale": false
+  },
+  "⚾": {
+    "name": "baseball",
+    "fitzpatrick_scale": false
+  },
+  "🎾": {
+    "name": "tennis",
+    "fitzpatrick_scale": false
+  },
+  "🏐": {
+    "name": "volleyball",
+    "fitzpatrick_scale": false
+  },
+  "🏉": {
+    "name": "rugby_football",
+    "fitzpatrick_scale": false
+  },
+  "🎱": {
+    "name": "8ball",
+    "fitzpatrick_scale": false
+  },
+  "⛳": {
+    "name": "golf",
+    "fitzpatrick_scale": false
+  },
+  "🏌️‍♀️": {
+    "name": "golfing_woman",
+    "fitzpatrick_scale": false
+  },
+  "🏌": {
+    "name": "golfing_man",
+    "fitzpatrick_scale": true
+  },
+  "🏓": {
+    "name": "ping_pong",
+    "fitzpatrick_scale": false
+  },
+  "🏸": {
+    "name": "badminton",
+    "fitzpatrick_scale": false
+  },
+  "🥅": {
+    "name": "goal_net",
+    "fitzpatrick_scale": false
+  },
+  "🏒": {
+    "name": "ice_hockey",
+    "fitzpatrick_scale": false
+  },
+  "🏑": {
+    "name": "field_hockey",
+    "fitzpatrick_scale": false
+  },
+  "🏏": {
+    "name": "cricket",
+    "fitzpatrick_scale": false
+  },
+  "🎿": {
+    "name": "ski",
+    "fitzpatrick_scale": false
+  },
+  "⛷": {
+    "name": "skier",
+    "fitzpatrick_scale": false
+  },
+  "🏂": {
+    "name": "snowboarder",
+    "fitzpatrick_scale": true
+  },
+  "🤺": {
+    "name": "person_fencing",
+    "fitzpatrick_scale": false
+  },
+  "🤼‍♀️": {
+    "name": "women_wrestling",
+    "fitzpatrick_scale": false
+  },
+  "🤼‍♂️": {
+    "name": "men_wrestling",
+    "fitzpatrick_scale": false
+  },
+  "🤸‍♀️": {
+    "name": "woman_cartwheeling",
+    "fitzpatrick_scale": true
+  },
+  "🤸‍♂️": {
+    "name": "man_cartwheeling",
+    "fitzpatrick_scale": true
+  },
+  "🤾‍♀️": {
+    "name": "woman_playing_handball",
+    "fitzpatrick_scale": true
+  },
+  "🤾‍♂️": {
+    "name": "man_playing_handball",
+    "fitzpatrick_scale": true
+  },
+  "⛸": {
+    "name": "ice_skate",
+    "fitzpatrick_scale": false
+  },
+  "🏹": {
+    "name": "bow_and_arrow",
+    "fitzpatrick_scale": false
+  },
+  "🎣": {
+    "name": "fishing_pole_and_fish",
+    "fitzpatrick_scale": false
+  },
+  "🥊": {
+    "name": "boxing_glove",
+    "fitzpatrick_scale": false
+  },
+  "🥋": {
+    "name": "martial_arts_uniform",
+    "fitzpatrick_scale": false
+  },
+  "🚣‍♀️": {
+    "name": "rowing_woman",
+    "fitzpatrick_scale": true
+  },
+  "🚣": {
+    "name": "rowing_man",
+    "fitzpatrick_scale": true
+  },
+  "🏊‍♀️": {
+    "name": "swimming_woman",
+    "fitzpatrick_scale": true
+  },
+  "🏊": {
+    "name": "swimming_man",
+    "fitzpatrick_scale": true
+  },
+  "🤽‍♀️": {
+    "name": "woman_playing_water_polo",
+    "fitzpatrick_scale": true
+  },
+  "🤽‍♂️": {
+    "name": "man_playing_water_polo",
+    "fitzpatrick_scale": true
+  },
+  "🏄‍♀️": {
+    "name": "surfing_woman",
+    "fitzpatrick_scale": true
+  },
+  "🏄": {
+    "name": "surfing_man",
+    "fitzpatrick_scale": true
+  },
+  "🛀": {
+    "name": "bath",
+    "fitzpatrick_scale": true
+  },
+  "⛹️‍♀️": {
+    "name": "basketball_woman",
+    "fitzpatrick_scale": false
+  },
+  "⛹": {
+    "name": "basketball_man",
+    "fitzpatrick_scale": true
+  },
+  "🏋️‍♀️": {
+    "name": "weight_lifting_woman",
+    "fitzpatrick_scale": false
+  },
+  "🏋": {
+    "name": "weight_lifting_man",
+    "fitzpatrick_scale": true
+  },
+  "🚴‍♀️": {
+    "name": "biking_woman",
+    "fitzpatrick_scale": true
+  },
+  "🚴": {
+    "name": "biking_man",
+    "fitzpatrick_scale": true
+  },
+  "🚵‍♀️": {
+    "name": "mountain_biking_woman",
+    "fitzpatrick_scale": true
+  },
+  "🚵": {
+    "name": "mountain_biking_man",
+    "fitzpatrick_scale": true
+  },
+  "🏇": {
+    "name": "horse_racing",
+    "fitzpatrick_scale": true
+  },
+  "🕴": {
+    "name": "business_suit_levitating",
+    "fitzpatrick_scale": true
+  },
+  "🏆": {
+    "name": "trophy",
+    "fitzpatrick_scale": false
+  },
+  "🎽": {
+    "name": "running_shirt_with_sash",
+    "fitzpatrick_scale": false
+  },
+  "🏅": {
+    "name": "medal_sports",
+    "fitzpatrick_scale": false
+  },
+  "🎖": {
+    "name": "medal_military",
+    "fitzpatrick_scale": false
+  },
+  "🥇": {
+    "name": "1st_place_medal",
+    "fitzpatrick_scale": false
+  },
+  "🥈": {
+    "name": "2nd_place_medal",
+    "fitzpatrick_scale": false
+  },
+  "🥉": {
+    "name": "3rd_place_medal",
+    "fitzpatrick_scale": false
+  },
+  "🎗": {
+    "name": "reminder_ribbon",
+    "fitzpatrick_scale": false
+  },
+  "🏵": {
+    "name": "rosette",
+    "fitzpatrick_scale": false
+  },
+  "🎫": {
+    "name": "ticket",
+    "fitzpatrick_scale": false
+  },
+  "🎟": {
+    "name": "tickets",
+    "fitzpatrick_scale": false
+  },
+  "🎭": {
+    "name": "performing_arts",
+    "fitzpatrick_scale": false
+  },
+  "🎨": {
+    "name": "art",
+    "fitzpatrick_scale": false
+  },
+  "🎪": {
+    "name": "circus_tent",
+    "fitzpatrick_scale": false
+  },
+  "🤹‍♀️": {
+    "name": "woman_juggling",
+    "fitzpatrick_scale": true
+  },
+  "🤹‍♂️": {
+    "name": "man_juggling",
+    "fitzpatrick_scale": true
+  },
+  "🎤": {
+    "name": "microphone",
+    "fitzpatrick_scale": false
+  },
+  "🎧": {
+    "name": "headphones",
+    "fitzpatrick_scale": false
+  },
+  "🎼": {
+    "name": "musical_score",
+    "fitzpatrick_scale": false
+  },
+  "🎹": {
+    "name": "musical_keyboard",
+    "fitzpatrick_scale": false
+  },
+  "🥁": {
+    "name": "drum",
+    "fitzpatrick_scale": false
+  },
+  "🎷": {
+    "name": "saxophone",
+    "fitzpatrick_scale": false
+  },
+  "🎺": {
+    "name": "trumpet",
+    "fitzpatrick_scale": false
+  },
+  "🎸": {
+    "name": "guitar",
+    "fitzpatrick_scale": false
+  },
+  "🎻": {
+    "name": "violin",
+    "fitzpatrick_scale": false
+  },
+  "🎬": {
+    "name": "clapper",
+    "fitzpatrick_scale": false
+  },
+  "🎮": {
+    "name": "video_game",
+    "fitzpatrick_scale": false
+  },
+  "👾": {
+    "name": "space_invader",
+    "fitzpatrick_scale": false
+  },
+  "🎯": {
+    "name": "dart",
+    "fitzpatrick_scale": false
+  },
+  "🎲": {
+    "name": "game_die",
+    "fitzpatrick_scale": false
+  },
+  "🎰": {
+    "name": "slot_machine",
+    "fitzpatrick_scale": false
+  },
+  "🎳": {
+    "name": "bowling",
+    "fitzpatrick_scale": false
+  },
+  "🚗": {
+    "name": "red_car",
+    "fitzpatrick_scale": false
+  },
+  "🚕": {
+    "name": "taxi",
+    "fitzpatrick_scale": false
+  },
+  "🚙": {
+    "name": "blue_car",
+    "fitzpatrick_scale": false
+  },
+  "🚌": {
+    "name": "bus",
+    "fitzpatrick_scale": false
+  },
+  "🚎": {
+    "name": "trolleybus",
+    "fitzpatrick_scale": false
+  },
+  "🏎": {
+    "name": "racing_car",
+    "fitzpatrick_scale": false
+  },
+  "🚓": {
+    "name": "police_car",
+    "fitzpatrick_scale": false
+  },
+  "🚑": {
+    "name": "ambulance",
+    "fitzpatrick_scale": false
+  },
+  "🚒": {
+    "name": "fire_engine",
+    "fitzpatrick_scale": false
+  },
+  "🚐": {
+    "name": "minibus",
+    "fitzpatrick_scale": false
+  },
+  "🚚": {
+    "name": "truck",
+    "fitzpatrick_scale": false
+  },
+  "🚛": {
+    "name": "articulated_lorry",
+    "fitzpatrick_scale": false
+  },
+  "🚜": {
+    "name": "tractor",
+    "fitzpatrick_scale": false
+  },
+  "🛴": {
+    "name": "kick_scooter",
+    "fitzpatrick_scale": false
+  },
+  "🏍": {
+    "name": "motorcycle",
+    "fitzpatrick_scale": false
+  },
+  "🚲": {
+    "name": "bike",
+    "fitzpatrick_scale": false
+  },
+  "🛵": {
+    "name": "motor_scooter",
+    "fitzpatrick_scale": false
+  },
+  "🚨": {
+    "name": "rotating_light",
+    "fitzpatrick_scale": false
+  },
+  "🚔": {
+    "name": "oncoming_police_car",
+    "fitzpatrick_scale": false
+  },
+  "🚍": {
+    "name": "oncoming_bus",
+    "fitzpatrick_scale": false
+  },
+  "🚘": {
+    "name": "oncoming_automobile",
+    "fitzpatrick_scale": false
+  },
+  "🚖": {
+    "name": "oncoming_taxi",
+    "fitzpatrick_scale": false
+  },
+  "🚡": {
+    "name": "aerial_tramway",
+    "fitzpatrick_scale": false
+  },
+  "🚠": {
+    "name": "mountain_cableway",
+    "fitzpatrick_scale": false
+  },
+  "🚟": {
+    "name": "suspension_railway",
+    "fitzpatrick_scale": false
+  },
+  "🚃": {
+    "name": "railway_car",
+    "fitzpatrick_scale": false
+  },
+  "🚋": {
+    "name": "train",
+    "fitzpatrick_scale": false
+  },
+  "🚝": {
+    "name": "monorail",
+    "fitzpatrick_scale": false
+  },
+  "🚄": {
+    "name": "bullettrain_side",
+    "fitzpatrick_scale": false
+  },
+  "🚅": {
+    "name": "bullettrain_front",
+    "fitzpatrick_scale": false
+  },
+  "🚈": {
+    "name": "light_rail",
+    "fitzpatrick_scale": false
+  },
+  "🚞": {
+    "name": "mountain_railway",
+    "fitzpatrick_scale": false
+  },
+  "🚂": {
+    "name": "steam_locomotive",
+    "fitzpatrick_scale": false
+  },
+  "🚆": {
+    "name": "train2",
+    "fitzpatrick_scale": false
+  },
+  "🚇": {
+    "name": "metro",
+    "fitzpatrick_scale": false
+  },
+  "🚊": {
+    "name": "tram",
+    "fitzpatrick_scale": false
+  },
+  "🚉": {
+    "name": "station",
+    "fitzpatrick_scale": false
+  },
+  "🚁": {
+    "name": "helicopter",
+    "fitzpatrick_scale": false
+  },
+  "🛩": {
+    "name": "small_airplane",
+    "fitzpatrick_scale": false
+  },
+  "✈️": {
+    "name": "airplane",
+    "fitzpatrick_scale": false
+  },
+  "🛫": {
+    "name": "flight_departure",
+    "fitzpatrick_scale": false
+  },
+  "🛬": {
+    "name": "flight_arrival",
+    "fitzpatrick_scale": false
+  },
+  "⛵": {
+    "name": "sailboat",
+    "fitzpatrick_scale": false
+  },
+  "🛥": {
+    "name": "motor_boat",
+    "fitzpatrick_scale": false
+  },
+  "🚤": {
+    "name": "speedboat",
+    "fitzpatrick_scale": false
+  },
+  "⛴": {
+    "name": "ferry",
+    "fitzpatrick_scale": false
+  },
+  "🛳": {
+    "name": "passenger_ship",
+    "fitzpatrick_scale": false
+  },
+  "🚀": {
+    "name": "rocket",
+    "fitzpatrick_scale": false
+  },
+  "🛰": {
+    "name": "artificial_satellite",
+    "fitzpatrick_scale": false
+  },
+  "💺": {
+    "name": "seat",
+    "fitzpatrick_scale": false
+  },
+  "🛶": {
+    "name": "canoe",
+    "fitzpatrick_scale": false
+  },
+  "⚓": {
+    "name": "anchor",
+    "fitzpatrick_scale": false
+  },
+  "🚧": {
+    "name": "construction",
+    "fitzpatrick_scale": false
+  },
+  "⛽": {
+    "name": "fuelpump",
+    "fitzpatrick_scale": false
+  },
+  "🚏": {
+    "name": "busstop",
+    "fitzpatrick_scale": false
+  },
+  "🚦": {
+    "name": "vertical_traffic_light",
+    "fitzpatrick_scale": false
+  },
+  "🚥": {
+    "name": "traffic_light",
+    "fitzpatrick_scale": false
+  },
+  "🏁": {
+    "name": "checkered_flag",
+    "fitzpatrick_scale": false
+  },
+  "🚢": {
+    "name": "ship",
+    "fitzpatrick_scale": false
+  },
+  "🎡": {
+    "name": "ferris_wheel",
+    "fitzpatrick_scale": false
+  },
+  "🎢": {
+    "name": "roller_coaster",
+    "fitzpatrick_scale": false
+  },
+  "🎠": {
+    "name": "carousel_horse",
+    "fitzpatrick_scale": false
+  },
+  "🏗": {
+    "name": "building_construction",
+    "fitzpatrick_scale": false
+  },
+  "🌁": {
+    "name": "foggy",
+    "fitzpatrick_scale": false
+  },
+  "🗼": {
+    "name": "tokyo_tower",
+    "fitzpatrick_scale": false
+  },
+  "🏭": {
+    "name": "factory",
+    "fitzpatrick_scale": false
+  },
+  "⛲": {
+    "name": "fountain",
+    "fitzpatrick_scale": false
+  },
+  "🎑": {
+    "name": "rice_scene",
+    "fitzpatrick_scale": false
+  },
+  "⛰": {
+    "name": "mountain",
+    "fitzpatrick_scale": false
+  },
+  "🏔": {
+    "name": "mountain_snow",
+    "fitzpatrick_scale": false
+  },
+  "🗻": {
+    "name": "mount_fuji",
+    "fitzpatrick_scale": false
+  },
+  "🌋": {
+    "name": "volcano",
+    "fitzpatrick_scale": false
+  },
+  "🗾": {
+    "name": "japan",
+    "fitzpatrick_scale": false
+  },
+  "🏕": {
+    "name": "camping",
+    "fitzpatrick_scale": false
+  },
+  "⛺": {
+    "name": "tent",
+    "fitzpatrick_scale": false
+  },
+  "🏞": {
+    "name": "national_park",
+    "fitzpatrick_scale": false
+  },
+  "🛣": {
+    "name": "motorway",
+    "fitzpatrick_scale": false
+  },
+  "🛤": {
+    "name": "railway_track",
+    "fitzpatrick_scale": false
+  },
+  "🌅": {
+    "name": "sunrise",
+    "fitzpatrick_scale": false
+  },
+  "🌄": {
+    "name": "sunrise_over_mountains",
+    "fitzpatrick_scale": false
+  },
+  "🏜": {
+    "name": "desert",
+    "fitzpatrick_scale": false
+  },
+  "🏖": {
+    "name": "beach_umbrella",
+    "fitzpatrick_scale": false
+  },
+  "🏝": {
+    "name": "desert_island",
+    "fitzpatrick_scale": false
+  },
+  "🌇": {
+    "name": "city_sunrise",
+    "fitzpatrick_scale": false
+  },
+  "🌆": {
+    "name": "city_sunset",
+    "fitzpatrick_scale": false
+  },
+  "🏙": {
+    "name": "cityscape",
+    "fitzpatrick_scale": false
+  },
+  "🌃": {
+    "name": "night_with_stars",
+    "fitzpatrick_scale": false
+  },
+  "🌉": {
+    "name": "bridge_at_night",
+    "fitzpatrick_scale": false
+  },
+  "🌌": {
+    "name": "milky_way",
+    "fitzpatrick_scale": false
+  },
+  "🌠": {
+    "name": "stars",
+    "fitzpatrick_scale": false
+  },
+  "🎇": {
+    "name": "sparkler",
+    "fitzpatrick_scale": false
+  },
+  "🎆": {
+    "name": "fireworks",
+    "fitzpatrick_scale": false
+  },
+  "🌈": {
+    "name": "rainbow",
+    "fitzpatrick_scale": false
+  },
+  "🏘": {
+    "name": "houses",
+    "fitzpatrick_scale": false
+  },
+  "🏰": {
+    "name": "european_castle",
+    "fitzpatrick_scale": false
+  },
+  "🏯": {
+    "name": "japanese_castle",
+    "fitzpatrick_scale": false
+  },
+  "🏟": {
+    "name": "stadium",
+    "fitzpatrick_scale": false
+  },
+  "🗽": {
+    "name": "statue_of_liberty",
+    "fitzpatrick_scale": false
+  },
+  "🏠": {
+    "name": "house",
+    "fitzpatrick_scale": false
+  },
+  "🏡": {
+    "name": "house_with_garden",
+    "fitzpatrick_scale": false
+  },
+  "🏚": {
+    "name": "derelict_house",
+    "fitzpatrick_scale": false
+  },
+  "🏢": {
+    "name": "office",
+    "fitzpatrick_scale": false
+  },
+  "🏬": {
+    "name": "department_store",
+    "fitzpatrick_scale": false
+  },
+  "🏣": {
+    "name": "post_office",
+    "fitzpatrick_scale": false
+  },
+  "🏤": {
+    "name": "european_post_office",
+    "fitzpatrick_scale": false
+  },
+  "🏥": {
+    "name": "hospital",
+    "fitzpatrick_scale": false
+  },
+  "🏦": {
+    "name": "bank",
+    "fitzpatrick_scale": false
+  },
+  "🏨": {
+    "name": "hotel",
+    "fitzpatrick_scale": false
+  },
+  "🏪": {
+    "name": "convenience_store",
+    "fitzpatrick_scale": false
+  },
+  "🏫": {
+    "name": "school",
+    "fitzpatrick_scale": false
+  },
+  "🏩": {
+    "name": "love_hotel",
+    "fitzpatrick_scale": false
+  },
+  "💒": {
+    "name": "wedding",
+    "fitzpatrick_scale": false
+  },
+  "🏛": {
+    "name": "classical_building",
+    "fitzpatrick_scale": false
+  },
+  "⛪": {
+    "name": "church",
+    "fitzpatrick_scale": false
+  },
+  "🕌": {
+    "name": "mosque",
+    "fitzpatrick_scale": false
+  },
+  "🕍": {
+    "name": "synagogue",
+    "fitzpatrick_scale": false
+  },
+  "🕋": {
+    "name": "kaaba",
+    "fitzpatrick_scale": false
+  },
+  "⛩": {
+    "name": "shinto_shrine",
+    "fitzpatrick_scale": false
+  },
+  "⌚": {
+    "name": "watch",
+    "fitzpatrick_scale": false
+  },
+  "📱": {
+    "name": "iphone",
+    "fitzpatrick_scale": false
+  },
+  "📲": {
+    "name": "calling",
+    "fitzpatrick_scale": false
+  },
+  "💻": {
+    "name": "computer",
+    "fitzpatrick_scale": false
+  },
+  "⌨": {
+    "name": "keyboard",
+    "fitzpatrick_scale": false
+  },
+  "🖥": {
+    "name": "desktop_computer",
+    "fitzpatrick_scale": false
+  },
+  "🖨": {
+    "name": "printer",
+    "fitzpatrick_scale": false
+  },
+  "🖱": {
+    "name": "computer_mouse",
+    "fitzpatrick_scale": false
+  },
+  "🖲": {
+    "name": "trackball",
+    "fitzpatrick_scale": false
+  },
+  "🕹": {
+    "name": "joystick",
+    "fitzpatrick_scale": false
+  },
+  "🗜": {
+    "name": "clamp",
+    "fitzpatrick_scale": false
+  },
+  "💽": {
+    "name": "minidisc",
+    "fitzpatrick_scale": false
+  },
+  "💾": {
+    "name": "floppy_disk",
+    "fitzpatrick_scale": false
+  },
+  "💿": {
+    "name": "cd",
+    "fitzpatrick_scale": false
+  },
+  "📀": {
+    "name": "dvd",
+    "fitzpatrick_scale": false
+  },
+  "📼": {
+    "name": "vhs",
+    "fitzpatrick_scale": false
+  },
+  "📷": {
+    "name": "camera",
+    "fitzpatrick_scale": false
+  },
+  "📸": {
+    "name": "camera_flash",
+    "fitzpatrick_scale": false
+  },
+  "📹": {
+    "name": "video_camera",
+    "fitzpatrick_scale": false
+  },
+  "🎥": {
+    "name": "movie_camera",
+    "fitzpatrick_scale": false
+  },
+  "📽": {
+    "name": "film_projector",
+    "fitzpatrick_scale": false
+  },
+  "🎞": {
+    "name": "film_strip",
+    "fitzpatrick_scale": false
+  },
+  "📞": {
+    "name": "telephone_receiver",
+    "fitzpatrick_scale": false
+  },
+  "☎️": {
+    "name": "phone",
+    "fitzpatrick_scale": false
+  },
+  "📟": {
+    "name": "pager",
+    "fitzpatrick_scale": false
+  },
+  "📠": {
+    "name": "fax",
+    "fitzpatrick_scale": false
+  },
+  "📺": {
+    "name": "tv",
+    "fitzpatrick_scale": false
+  },
+  "📻": {
+    "name": "radio",
+    "fitzpatrick_scale": false
+  },
+  "🎙": {
+    "name": "studio_microphone",
+    "fitzpatrick_scale": false
+  },
+  "🎚": {
+    "name": "level_slider",
+    "fitzpatrick_scale": false
+  },
+  "🎛": {
+    "name": "control_knobs",
+    "fitzpatrick_scale": false
+  },
+  "⏱": {
+    "name": "stopwatch",
+    "fitzpatrick_scale": false
+  },
+  "⏲": {
+    "name": "timer_clock",
+    "fitzpatrick_scale": false
+  },
+  "⏰": {
+    "name": "alarm_clock",
+    "fitzpatrick_scale": false
+  },
+  "🕰": {
+    "name": "mantelpiece_clock",
+    "fitzpatrick_scale": false
+  },
+  "⏳": {
+    "name": "hourglass_flowing_sand",
+    "fitzpatrick_scale": false
+  },
+  "⌛": {
+    "name": "hourglass",
+    "fitzpatrick_scale": false
+  },
+  "📡": {
+    "name": "satellite",
+    "fitzpatrick_scale": false
+  },
+  "🔋": {
+    "name": "battery",
+    "fitzpatrick_scale": false
+  },
+  "🔌": {
+    "name": "electric_plug",
+    "fitzpatrick_scale": false
+  },
+  "💡": {
+    "name": "bulb",
+    "fitzpatrick_scale": false
+  },
+  "🔦": {
+    "name": "flashlight",
+    "fitzpatrick_scale": false
+  },
+  "🕯": {
+    "name": "candle",
+    "fitzpatrick_scale": false
+  },
+  "🗑": {
+    "name": "wastebasket",
+    "fitzpatrick_scale": false
+  },
+  "🛢": {
+    "name": "oil_drum",
+    "fitzpatrick_scale": false
+  },
+  "💸": {
+    "name": "money_with_wings",
+    "fitzpatrick_scale": false
+  },
+  "💵": {
+    "name": "dollar",
+    "fitzpatrick_scale": false
+  },
+  "💴": {
+    "name": "yen",
+    "fitzpatrick_scale": false
+  },
+  "💶": {
+    "name": "euro",
+    "fitzpatrick_scale": false
+  },
+  "💷": {
+    "name": "pound",
+    "fitzpatrick_scale": false
+  },
+  "💰": {
+    "name": "moneybag",
+    "fitzpatrick_scale": false
+  },
+  "💳": {
+    "name": "credit_card",
+    "fitzpatrick_scale": false
+  },
+  "💎": {
+    "name": "gem",
+    "fitzpatrick_scale": false
+  },
+  "⚖": {
+    "name": "balance_scale",
+    "fitzpatrick_scale": false
+  },
+  "🔧": {
+    "name": "wrench",
+    "fitzpatrick_scale": false
+  },
+  "🔨": {
+    "name": "hammer",
+    "fitzpatrick_scale": false
+  },
+  "⚒": {
+    "name": "hammer_and_pick",
+    "fitzpatrick_scale": false
+  },
+  "🛠": {
+    "name": "hammer_and_wrench",
+    "fitzpatrick_scale": false
+  },
+  "⛏": {
+    "name": "pick",
+    "fitzpatrick_scale": false
+  },
+  "🔩": {
+    "name": "nut_and_bolt",
+    "fitzpatrick_scale": false
+  },
+  "⚙": {
+    "name": "gear",
+    "fitzpatrick_scale": false
+  },
+  "⛓": {
+    "name": "chains",
+    "fitzpatrick_scale": false
+  },
+  "🔫": {
+    "name": "gun",
+    "fitzpatrick_scale": false
+  },
+  "💣": {
+    "name": "bomb",
+    "fitzpatrick_scale": false
+  },
+  "🔪": {
+    "name": "hocho",
+    "fitzpatrick_scale": false
+  },
+  "🗡": {
+    "name": "dagger",
+    "fitzpatrick_scale": false
+  },
+  "⚔": {
+    "name": "crossed_swords",
+    "fitzpatrick_scale": false
+  },
+  "🛡": {
+    "name": "shield",
+    "fitzpatrick_scale": false
+  },
+  "🚬": {
+    "name": "smoking",
+    "fitzpatrick_scale": false
+  },
+  "☠": {
+    "name": "skull_and_crossbones",
+    "fitzpatrick_scale": false
+  },
+  "⚰": {
+    "name": "coffin",
+    "fitzpatrick_scale": false
+  },
+  "⚱": {
+    "name": "funeral_urn",
+    "fitzpatrick_scale": false
+  },
+  "🏺": {
+    "name": "amphora",
+    "fitzpatrick_scale": false
+  },
+  "🔮": {
+    "name": "crystal_ball",
+    "fitzpatrick_scale": false
+  },
+  "📿": {
+    "name": "prayer_beads",
+    "fitzpatrick_scale": false
+  },
+  "💈": {
+    "name": "barber",
+    "fitzpatrick_scale": false
+  },
+  "⚗": {
+    "name": "alembic",
+    "fitzpatrick_scale": false
+  },
+  "🔭": {
+    "name": "telescope",
+    "fitzpatrick_scale": false
+  },
+  "🔬": {
+    "name": "microscope",
+    "fitzpatrick_scale": false
+  },
+  "🕳": {
+    "name": "hole",
+    "fitzpatrick_scale": false
+  },
+  "💊": {
+    "name": "pill",
+    "fitzpatrick_scale": false
+  },
+  "💉": {
+    "name": "syringe",
+    "fitzpatrick_scale": false
+  },
+  "🌡": {
+    "name": "thermometer",
+    "fitzpatrick_scale": false
+  },
+  "🏷": {
+    "name": "label",
+    "fitzpatrick_scale": false
+  },
+  "🔖": {
+    "name": "bookmark",
+    "fitzpatrick_scale": false
+  },
+  "🚽": {
+    "name": "toilet",
+    "fitzpatrick_scale": false
+  },
+  "🚿": {
+    "name": "shower",
+    "fitzpatrick_scale": false
+  },
+  "🛁": {
+    "name": "bathtub",
+    "fitzpatrick_scale": false
+  },
+  "🔑": {
+    "name": "key",
+    "fitzpatrick_scale": false
+  },
+  "🗝": {
+    "name": "old_key",
+    "fitzpatrick_scale": false
+  },
+  "🛋": {
+    "name": "couch_and_lamp",
+    "fitzpatrick_scale": false
+  },
+  "🛌": {
+    "name": "sleeping_bed",
+    "fitzpatrick_scale": true
+  },
+  "🛏": {
+    "name": "bed",
+    "fitzpatrick_scale": false
+  },
+  "🚪": {
+    "name": "door",
+    "fitzpatrick_scale": false
+  },
+  "🛎": {
+    "name": "bellhop_bell",
+    "fitzpatrick_scale": false
+  },
+  "🖼": {
+    "name": "framed_picture",
+    "fitzpatrick_scale": false
+  },
+  "🗺": {
+    "name": "world_map",
+    "fitzpatrick_scale": false
+  },
+  "⛱": {
+    "name": "parasol_on_ground",
+    "fitzpatrick_scale": false
+  },
+  "🗿": {
+    "name": "moyai",
+    "fitzpatrick_scale": false
+  },
+  "🛍": {
+    "name": "shopping",
+    "fitzpatrick_scale": false
+  },
+  "🛒": {
+    "name": "shopping_cart",
+    "fitzpatrick_scale": false
+  },
+  "🎈": {
+    "name": "balloon",
+    "fitzpatrick_scale": false
+  },
+  "🎏": {
+    "name": "flags",
+    "fitzpatrick_scale": false
+  },
+  "🎀": {
+    "name": "ribbon",
+    "fitzpatrick_scale": false
+  },
+  "🎁": {
+    "name": "gift",
+    "fitzpatrick_scale": false
+  },
+  "🎊": {
+    "name": "confetti_ball",
+    "fitzpatrick_scale": false
+  },
+  "🎉": {
+    "name": "tada",
+    "fitzpatrick_scale": false
+  },
+  "🎎": {
+    "name": "dolls",
+    "fitzpatrick_scale": false
+  },
+  "🎐": {
+    "name": "wind_chime",
+    "fitzpatrick_scale": false
+  },
+  "🎌": {
+    "name": "crossed_flags",
+    "fitzpatrick_scale": false
+  },
+  "🏮": {
+    "name": "izakaya_lantern",
+    "fitzpatrick_scale": false
+  },
+  "✉️": {
+    "name": "email",
+    "fitzpatrick_scale": false
+  },
+  "📩": {
+    "name": "envelope_with_arrow",
+    "fitzpatrick_scale": false
+  },
+  "📨": {
+    "name": "incoming_envelope",
+    "fitzpatrick_scale": false
+  },
+  "📧": {
+    "name": "e-mail",
+    "fitzpatrick_scale": false
+  },
+  "💌": {
+    "name": "love_letter",
+    "fitzpatrick_scale": false
+  },
+  "📮": {
+    "name": "postbox",
+    "fitzpatrick_scale": false
+  },
+  "📪": {
+    "name": "mailbox_closed",
+    "fitzpatrick_scale": false
+  },
+  "📫": {
+    "name": "mailbox",
+    "fitzpatrick_scale": false
+  },
+  "📬": {
+    "name": "mailbox_with_mail",
+    "fitzpatrick_scale": false
+  },
+  "📭": {
+    "name": "mailbox_with_no_mail",
+    "fitzpatrick_scale": false
+  },
+  "📦": {
+    "name": "package",
+    "fitzpatrick_scale": false
+  },
+  "📯": {
+    "name": "postal_horn",
+    "fitzpatrick_scale": false
+  },
+  "📥": {
+    "name": "inbox_tray",
+    "fitzpatrick_scale": false
+  },
+  "📤": {
+    "name": "outbox_tray",
+    "fitzpatrick_scale": false
+  },
+  "📜": {
+    "name": "scroll",
+    "fitzpatrick_scale": false
+  },
+  "📃": {
+    "name": "page_with_curl",
+    "fitzpatrick_scale": false
+  },
+  "📑": {
+    "name": "bookmark_tabs",
+    "fitzpatrick_scale": false
+  },
+  "📊": {
+    "name": "bar_chart",
+    "fitzpatrick_scale": false
+  },
+  "📈": {
+    "name": "chart_with_upwards_trend",
+    "fitzpatrick_scale": false
+  },
+  "📉": {
+    "name": "chart_with_downwards_trend",
+    "fitzpatrick_scale": false
+  },
+  "📄": {
+    "name": "page_facing_up",
+    "fitzpatrick_scale": false
+  },
+  "📅": {
+    "name": "date",
+    "fitzpatrick_scale": false
+  },
+  "📆": {
+    "name": "calendar",
+    "fitzpatrick_scale": false
+  },
+  "🗓": {
+    "name": "spiral_calendar",
+    "fitzpatrick_scale": false
+  },
+  "📇": {
+    "name": "card_index",
+    "fitzpatrick_scale": false
+  },
+  "🗃": {
+    "name": "card_file_box",
+    "fitzpatrick_scale": false
+  },
+  "🗳": {
+    "name": "ballot_box",
+    "fitzpatrick_scale": false
+  },
+  "🗄": {
+    "name": "file_cabinet",
+    "fitzpatrick_scale": false
+  },
+  "📋": {
+    "name": "clipboard",
+    "fitzpatrick_scale": false
+  },
+  "🗒": {
+    "name": "spiral_notepad",
+    "fitzpatrick_scale": false
+  },
+  "📁": {
+    "name": "file_folder",
+    "fitzpatrick_scale": false
+  },
+  "📂": {
+    "name": "open_file_folder",
+    "fitzpatrick_scale": false
+  },
+  "🗂": {
+    "name": "card_index_dividers",
+    "fitzpatrick_scale": false
+  },
+  "🗞": {
+    "name": "newspaper_roll",
+    "fitzpatrick_scale": false
+  },
+  "📰": {
+    "name": "newspaper",
+    "fitzpatrick_scale": false
+  },
+  "📓": {
+    "name": "notebook",
+    "fitzpatrick_scale": false
+  },
+  "📕": {
+    "name": "closed_book",
+    "fitzpatrick_scale": false
+  },
+  "📗": {
+    "name": "green_book",
+    "fitzpatrick_scale": false
+  },
+  "📘": {
+    "name": "blue_book",
+    "fitzpatrick_scale": false
+  },
+  "📙": {
+    "name": "orange_book",
+    "fitzpatrick_scale": false
+  },
+  "📔": {
+    "name": "notebook_with_decorative_cover",
+    "fitzpatrick_scale": false
+  },
+  "📒": {
+    "name": "ledger",
+    "fitzpatrick_scale": false
+  },
+  "📚": {
+    "name": "books",
+    "fitzpatrick_scale": false
+  },
+  "📖": {
+    "name": "open_book",
+    "fitzpatrick_scale": false
+  },
+  "🔗": {
+    "name": "link",
+    "fitzpatrick_scale": false
+  },
+  "📎": {
+    "name": "paperclip",
+    "fitzpatrick_scale": false
+  },
+  "🖇": {
+    "name": "paperclips",
+    "fitzpatrick_scale": false
+  },
+  "✂️": {
+    "name": "scissors",
+    "fitzpatrick_scale": false
+  },
+  "📐": {
+    "name": "triangular_ruler",
+    "fitzpatrick_scale": false
+  },
+  "📏": {
+    "name": "straight_ruler",
+    "fitzpatrick_scale": false
+  },
+  "📌": {
+    "name": "pushpin",
+    "fitzpatrick_scale": false
+  },
+  "📍": {
+    "name": "round_pushpin",
+    "fitzpatrick_scale": false
+  },
+  "🚩": {
+    "name": "triangular_flag_on_post",
+    "fitzpatrick_scale": false
+  },
+  "🏳": {
+    "name": "white_flag",
+    "fitzpatrick_scale": false
+  },
+  "🏴": {
+    "name": "black_flag",
+    "fitzpatrick_scale": false
+  },
+  "🏳️‍🌈": {
+    "name": "rainbow_flag",
+    "fitzpatrick_scale": false
+  },
+  "🔐": {
+    "name": "closed_lock_with_key",
+    "fitzpatrick_scale": false
+  },
+  "🔒": {
+    "name": "lock",
+    "fitzpatrick_scale": false
+  },
+  "🔓": {
+    "name": "unlock",
+    "fitzpatrick_scale": false
+  },
+  "🔏": {
+    "name": "lock_with_ink_pen",
+    "fitzpatrick_scale": false
+  },
+  "🖊": {
+    "name": "pen",
+    "fitzpatrick_scale": false
+  },
+  "🖋": {
+    "name": "fountain_pen",
+    "fitzpatrick_scale": false
+  },
+  "✒️": {
+    "name": "black_nib",
+    "fitzpatrick_scale": false
+  },
+  "📝": {
+    "name": "memo",
+    "fitzpatrick_scale": false
+  },
+  "✏️": {
+    "name": "pencil2",
+    "fitzpatrick_scale": false
+  },
+  "🖍": {
+    "name": "crayon",
+    "fitzpatrick_scale": false
+  },
+  "🖌": {
+    "name": "paintbrush",
+    "fitzpatrick_scale": false
+  },
+  "🔍": {
+    "name": "mag",
+    "fitzpatrick_scale": false
+  },
+  "🔎": {
+    "name": "mag_right",
+    "fitzpatrick_scale": false
+  },
+  "❤️": {
+    "name": "heart",
+    "fitzpatrick_scale": false
+  },
+  "💛": {
+    "name": "yellow_heart",
+    "fitzpatrick_scale": false
+  },
+  "💚": {
+    "name": "green_heart",
+    "fitzpatrick_scale": false
+  },
+  "💙": {
+    "name": "blue_heart",
+    "fitzpatrick_scale": false
+  },
+  "💜": {
+    "name": "purple_heart",
+    "fitzpatrick_scale": false
+  },
+  "🖤": {
+    "name": "black_heart",
+    "fitzpatrick_scale": false
+  },
+  "💔": {
+    "name": "broken_heart",
+    "fitzpatrick_scale": false
+  },
+  "❣": {
+    "name": "heavy_heart_exclamation",
+    "fitzpatrick_scale": false
+  },
+  "💕": {
+    "name": "two_hearts",
+    "fitzpatrick_scale": false
+  },
+  "💞": {
+    "name": "revolving_hearts",
+    "fitzpatrick_scale": false
+  },
+  "💓": {
+    "name": "heartbeat",
+    "fitzpatrick_scale": false
+  },
+  "💗": {
+    "name": "heartpulse",
+    "fitzpatrick_scale": false
+  },
+  "💖": {
+    "name": "sparkling_heart",
+    "fitzpatrick_scale": false
+  },
+  "💘": {
+    "name": "cupid",
+    "fitzpatrick_scale": false
+  },
+  "💝": {
+    "name": "gift_heart",
+    "fitzpatrick_scale": false
+  },
+  "💟": {
+    "name": "heart_decoration",
+    "fitzpatrick_scale": false
+  },
+  "☮": {
+    "name": "peace_symbol",
+    "fitzpatrick_scale": false
+  },
+  "✝": {
+    "name": "latin_cross",
+    "fitzpatrick_scale": false
+  },
+  "☪": {
+    "name": "star_and_crescent",
+    "fitzpatrick_scale": false
+  },
+  "🕉": {
+    "name": "om",
+    "fitzpatrick_scale": false
+  },
+  "☸": {
+    "name": "wheel_of_dharma",
+    "fitzpatrick_scale": false
+  },
+  "✡": {
+    "name": "star_of_david",
+    "fitzpatrick_scale": false
+  },
+  "🔯": {
+    "name": "six_pointed_star",
+    "fitzpatrick_scale": false
+  },
+  "🕎": {
+    "name": "menorah",
+    "fitzpatrick_scale": false
+  },
+  "☯": {
+    "name": "yin_yang",
+    "fitzpatrick_scale": false
+  },
+  "☦": {
+    "name": "orthodox_cross",
+    "fitzpatrick_scale": false
+  },
+  "🛐": {
+    "name": "place_of_worship",
+    "fitzpatrick_scale": false
+  },
+  "⛎": {
+    "name": "ophiuchus",
+    "fitzpatrick_scale": false
+  },
+  "♈": {
+    "name": "aries",
+    "fitzpatrick_scale": false
+  },
+  "♉": {
+    "name": "taurus",
+    "fitzpatrick_scale": false
+  },
+  "♊": {
+    "name": "gemini",
+    "fitzpatrick_scale": false
+  },
+  "♋": {
+    "name": "cancer",
+    "fitzpatrick_scale": false
+  },
+  "♌": {
+    "name": "leo",
+    "fitzpatrick_scale": false
+  },
+  "♍": {
+    "name": "virgo",
+    "fitzpatrick_scale": false
+  },
+  "♎": {
+    "name": "libra",
+    "fitzpatrick_scale": false
+  },
+  "♏": {
+    "name": "scorpius",
+    "fitzpatrick_scale": false
+  },
+  "♐": {
+    "name": "sagittarius",
+    "fitzpatrick_scale": false
+  },
+  "♑": {
+    "name": "capricorn",
+    "fitzpatrick_scale": false
+  },
+  "♒": {
+    "name": "aquarius",
+    "fitzpatrick_scale": false
+  },
+  "♓": {
+    "name": "pisces",
+    "fitzpatrick_scale": false
+  },
+  "🆔": {
+    "name": "id",
+    "fitzpatrick_scale": false
+  },
+  "⚛": {
+    "name": "atom_symbol",
+    "fitzpatrick_scale": false
+  },
+  "🈳": {
+    "name": "u7a7a",
+    "fitzpatrick_scale": false
+  },
+  "🈹": {
+    "name": "u5272",
+    "fitzpatrick_scale": false
+  },
+  "☢": {
+    "name": "radioactive",
+    "fitzpatrick_scale": false
+  },
+  "☣": {
+    "name": "biohazard",
+    "fitzpatrick_scale": false
+  },
+  "📴": {
+    "name": "mobile_phone_off",
+    "fitzpatrick_scale": false
+  },
+  "📳": {
+    "name": "vibration_mode",
+    "fitzpatrick_scale": false
+  },
+  "🈶": {
+    "name": "u6709",
+    "fitzpatrick_scale": false
+  },
+  "🈚": {
+    "name": "u7121",
+    "fitzpatrick_scale": false
+  },
+  "🈸": {
+    "name": "u7533",
+    "fitzpatrick_scale": false
+  },
+  "🈺": {
+    "name": "u55b6",
+    "fitzpatrick_scale": false
+  },
+  "🈷️": {
+    "name": "u6708",
+    "fitzpatrick_scale": false
+  },
+  "✴️": {
+    "name": "eight_pointed_black_star",
+    "fitzpatrick_scale": false
+  },
+  "🆚": {
+    "name": "vs",
+    "fitzpatrick_scale": false
+  },
+  "🉑": {
+    "name": "accept",
+    "fitzpatrick_scale": false
+  },
+  "💮": {
+    "name": "white_flower",
+    "fitzpatrick_scale": false
+  },
+  "🉐": {
+    "name": "ideograph_advantage",
+    "fitzpatrick_scale": false
+  },
+  "㊙️": {
+    "name": "secret",
+    "fitzpatrick_scale": false
+  },
+  "㊗️": {
+    "name": "congratulations",
+    "fitzpatrick_scale": false
+  },
+  "🈴": {
+    "name": "u5408",
+    "fitzpatrick_scale": false
+  },
+  "🈵": {
+    "name": "u6e80",
+    "fitzpatrick_scale": false
+  },
+  "🈲": {
+    "name": "u7981",
+    "fitzpatrick_scale": false
+  },
+  "🅰️": {
+    "name": "a",
+    "fitzpatrick_scale": false
+  },
+  "🅱️": {
+    "name": "b",
+    "fitzpatrick_scale": false
+  },
+  "🆎": {
+    "name": "ab",
+    "fitzpatrick_scale": false
+  },
+  "🆑": {
+    "name": "cl",
+    "fitzpatrick_scale": false
+  },
+  "🅾️": {
+    "name": "o2",
+    "fitzpatrick_scale": false
+  },
+  "🆘": {
+    "name": "sos",
+    "fitzpatrick_scale": false
+  },
+  "⛔": {
+    "name": "no_entry",
+    "fitzpatrick_scale": false
+  },
+  "📛": {
+    "name": "name_badge",
+    "fitzpatrick_scale": false
+  },
+  "🚫": {
+    "name": "no_entry_sign",
+    "fitzpatrick_scale": false
+  },
+  "❌": {
+    "name": "x",
+    "fitzpatrick_scale": false
+  },
+  "⭕": {
+    "name": "o",
+    "fitzpatrick_scale": false
+  },
+  "🛑": {
+    "name": "stop_sign",
+    "fitzpatrick_scale": false
+  },
+  "💢": {
+    "name": "anger",
+    "fitzpatrick_scale": false
+  },
+  "♨️": {
+    "name": "hotsprings",
+    "fitzpatrick_scale": false
+  },
+  "🚷": {
+    "name": "no_pedestrians",
+    "fitzpatrick_scale": false
+  },
+  "🚯": {
+    "name": "do_not_litter",
+    "fitzpatrick_scale": false
+  },
+  "🚳": {
+    "name": "no_bicycles",
+    "fitzpatrick_scale": false
+  },
+  "🚱": {
+    "name": "non-potable_water",
+    "fitzpatrick_scale": false
+  },
+  "🔞": {
+    "name": "underage",
+    "fitzpatrick_scale": false
+  },
+  "📵": {
+    "name": "no_mobile_phones",
+    "fitzpatrick_scale": false
+  },
+  "❗": {
+    "name": "exclamation",
+    "fitzpatrick_scale": false
+  },
+  "❕": {
+    "name": "grey_exclamation",
+    "fitzpatrick_scale": false
+  },
+  "❓": {
+    "name": "question",
+    "fitzpatrick_scale": false
+  },
+  "❔": {
+    "name": "grey_question",
+    "fitzpatrick_scale": false
+  },
+  "‼️": {
+    "name": "bangbang",
+    "fitzpatrick_scale": false
+  },
+  "⁉️": {
+    "name": "interrobang",
+    "fitzpatrick_scale": false
+  },
+  "💯": {
+    "name": "100",
+    "fitzpatrick_scale": false
+  },
+  "🔅": {
+    "name": "low_brightness",
+    "fitzpatrick_scale": false
+  },
+  "🔆": {
+    "name": "high_brightness",
+    "fitzpatrick_scale": false
+  },
+  "🔱": {
+    "name": "trident",
+    "fitzpatrick_scale": false
+  },
+  "⚜": {
+    "name": "fleur_de_lis",
+    "fitzpatrick_scale": false
+  },
+  "〽️": {
+    "name": "part_alternation_mark",
+    "fitzpatrick_scale": false
+  },
+  "⚠️": {
+    "name": "warning",
+    "fitzpatrick_scale": false
+  },
+  "🚸": {
+    "name": "children_crossing",
+    "fitzpatrick_scale": false
+  },
+  "🔰": {
+    "name": "beginner",
+    "fitzpatrick_scale": false
+  },
+  "♻️": {
+    "name": "recycle",
+    "fitzpatrick_scale": false
+  },
+  "🈯": {
+    "name": "u6307",
+    "fitzpatrick_scale": false
+  },
+  "💹": {
+    "name": "chart",
+    "fitzpatrick_scale": false
+  },
+  "❇️": {
+    "name": "sparkle",
+    "fitzpatrick_scale": false
+  },
+  "✳️": {
+    "name": "eight_spoked_asterisk",
+    "fitzpatrick_scale": false
+  },
+  "❎": {
+    "name": "negative_squared_cross_mark",
+    "fitzpatrick_scale": false
+  },
+  "✅": {
+    "name": "white_check_mark",
+    "fitzpatrick_scale": false
+  },
+  "💠": {
+    "name": "diamond_shape_with_a_dot_inside",
+    "fitzpatrick_scale": false
+  },
+  "🌀": {
+    "name": "cyclone",
+    "fitzpatrick_scale": false
+  },
+  "➿": {
+    "name": "loop",
+    "fitzpatrick_scale": false
+  },
+  "🌐": {
+    "name": "globe_with_meridians",
+    "fitzpatrick_scale": false
+  },
+  "Ⓜ️": {
+    "name": "m",
+    "fitzpatrick_scale": false
+  },
+  "🏧": {
+    "name": "atm",
+    "fitzpatrick_scale": false
+  },
+  "🈂️": {
+    "name": "sa",
+    "fitzpatrick_scale": false
+  },
+  "🛂": {
+    "name": "passport_control",
+    "fitzpatrick_scale": false
+  },
+  "🛃": {
+    "name": "customs",
+    "fitzpatrick_scale": false
+  },
+  "🛄": {
+    "name": "baggage_claim",
+    "fitzpatrick_scale": false
+  },
+  "🛅": {
+    "name": "left_luggage",
+    "fitzpatrick_scale": false
+  },
+  "♿": {
+    "name": "wheelchair",
+    "fitzpatrick_scale": false
+  },
+  "🚭": {
+    "name": "no_smoking",
+    "fitzpatrick_scale": false
+  },
+  "🚾": {
+    "name": "wc",
+    "fitzpatrick_scale": false
+  },
+  "🅿️": {
+    "name": "parking",
+    "fitzpatrick_scale": false
+  },
+  "🚰": {
+    "name": "potable_water",
+    "fitzpatrick_scale": false
+  },
+  "🚹": {
+    "name": "mens",
+    "fitzpatrick_scale": false
+  },
+  "🚺": {
+    "name": "womens",
+    "fitzpatrick_scale": false
+  },
+  "🚼": {
+    "name": "baby_symbol",
+    "fitzpatrick_scale": false
+  },
+  "🚻": {
+    "name": "restroom",
+    "fitzpatrick_scale": false
+  },
+  "🚮": {
+    "name": "put_litter_in_its_place",
+    "fitzpatrick_scale": false
+  },
+  "🎦": {
+    "name": "cinema",
+    "fitzpatrick_scale": false
+  },
+  "📶": {
+    "name": "signal_strength",
+    "fitzpatrick_scale": false
+  },
+  "🈁": {
+    "name": "koko",
+    "fitzpatrick_scale": false
+  },
+  "🆖": {
+    "name": "ng",
+    "fitzpatrick_scale": false
+  },
+  "🆗": {
+    "name": "ok",
+    "fitzpatrick_scale": false
+  },
+  "🆙": {
+    "name": "up",
+    "fitzpatrick_scale": false
+  },
+  "🆒": {
+    "name": "cool",
+    "fitzpatrick_scale": false
+  },
+  "🆕": {
+    "name": "new",
+    "fitzpatrick_scale": false
+  },
+  "🆓": {
+    "name": "free",
+    "fitzpatrick_scale": false
+  },
+  "0️⃣": {
+    "name": "zero",
+    "fitzpatrick_scale": false
+  },
+  "1️⃣": {
+    "name": "one",
+    "fitzpatrick_scale": false
+  },
+  "2️⃣": {
+    "name": "two",
+    "fitzpatrick_scale": false
+  },
+  "3️⃣": {
+    "name": "three",
+    "fitzpatrick_scale": false
+  },
+  "4️⃣": {
+    "name": "four",
+    "fitzpatrick_scale": false
+  },
+  "5️⃣": {
+    "name": "five",
+    "fitzpatrick_scale": false
+  },
+  "6️⃣": {
+    "name": "six",
+    "fitzpatrick_scale": false
+  },
+  "7️⃣": {
+    "name": "seven",
+    "fitzpatrick_scale": false
+  },
+  "8️⃣": {
+    "name": "eight",
+    "fitzpatrick_scale": false
+  },
+  "9️⃣": {
+    "name": "nine",
+    "fitzpatrick_scale": false
+  },
+  "🔟": {
+    "name": "keycap_ten",
+    "fitzpatrick_scale": false
+  },
+  "*⃣": {
+    "name": "asterisk",
+    "fitzpatrick_scale": false
+  },
+  "🔢": {
+    "name": "1234",
+    "fitzpatrick_scale": false
+  },
+  "▶️": {
+    "name": "arrow_forward",
+    "fitzpatrick_scale": false
+  },
+  "⏸": {
+    "name": "pause_button",
+    "fitzpatrick_scale": false
+  },
+  "⏭": {
+    "name": "next_track_button",
+    "fitzpatrick_scale": false
+  },
+  "⏹": {
+    "name": "stop_button",
+    "fitzpatrick_scale": false
+  },
+  "⏺": {
+    "name": "record_button",
+    "fitzpatrick_scale": false
+  },
+  "⏯": {
+    "name": "play_or_pause_button",
+    "fitzpatrick_scale": false
+  },
+  "⏮": {
+    "name": "previous_track_button",
+    "fitzpatrick_scale": false
+  },
+  "⏩": {
+    "name": "fast_forward",
+    "fitzpatrick_scale": false
+  },
+  "⏪": {
+    "name": "rewind",
+    "fitzpatrick_scale": false
+  },
+  "🔀": {
+    "name": "twisted_rightwards_arrows",
+    "fitzpatrick_scale": false
+  },
+  "🔁": {
+    "name": "repeat",
+    "fitzpatrick_scale": false
+  },
+  "🔂": {
+    "name": "repeat_one",
+    "fitzpatrick_scale": false
+  },
+  "◀️": {
+    "name": "arrow_backward",
+    "fitzpatrick_scale": false
+  },
+  "🔼": {
+    "name": "arrow_up_small",
+    "fitzpatrick_scale": false
+  },
+  "🔽": {
+    "name": "arrow_down_small",
+    "fitzpatrick_scale": false
+  },
+  "⏫": {
+    "name": "arrow_double_up",
+    "fitzpatrick_scale": false
+  },
+  "⏬": {
+    "name": "arrow_double_down",
+    "fitzpatrick_scale": false
+  },
+  "➡️": {
+    "name": "arrow_right",
+    "fitzpatrick_scale": false
+  },
+  "⬅️": {
+    "name": "arrow_left",
+    "fitzpatrick_scale": false
+  },
+  "⬆️": {
+    "name": "arrow_up",
+    "fitzpatrick_scale": false
+  },
+  "⬇️": {
+    "name": "arrow_down",
+    "fitzpatrick_scale": false
+  },
+  "↗️": {
+    "name": "arrow_upper_right",
+    "fitzpatrick_scale": false
+  },
+  "↘️": {
+    "name": "arrow_lower_right",
+    "fitzpatrick_scale": false
+  },
+  "↙️": {
+    "name": "arrow_lower_left",
+    "fitzpatrick_scale": false
+  },
+  "↖️": {
+    "name": "arrow_upper_left",
+    "fitzpatrick_scale": false
+  },
+  "↕️": {
+    "name": "arrow_up_down",
+    "fitzpatrick_scale": false
+  },
+  "↔️": {
+    "name": "left_right_arrow",
+    "fitzpatrick_scale": false
+  },
+  "🔄": {
+    "name": "arrows_counterclockwise",
+    "fitzpatrick_scale": false
+  },
+  "↪️": {
+    "name": "arrow_right_hook",
+    "fitzpatrick_scale": false
+  },
+  "↩️": {
+    "name": "leftwards_arrow_with_hook",
+    "fitzpatrick_scale": false
+  },
+  "⤴️": {
+    "name": "arrow_heading_up",
+    "fitzpatrick_scale": false
+  },
+  "⤵️": {
+    "name": "arrow_heading_down",
+    "fitzpatrick_scale": false
+  },
+  "#️⃣": {
+    "name": "hash",
+    "fitzpatrick_scale": false
+  },
+  "ℹ️": {
+    "name": "information_source",
+    "fitzpatrick_scale": false
+  },
+  "🔤": {
+    "name": "abc",
+    "fitzpatrick_scale": false
+  },
+  "🔡": {
+    "name": "abcd",
+    "fitzpatrick_scale": false
+  },
+  "🔠": {
+    "name": "capital_abcd",
+    "fitzpatrick_scale": false
+  },
+  "🔣": {
+    "name": "symbols",
+    "fitzpatrick_scale": false
+  },
+  "🎵": {
+    "name": "musical_note",
+    "fitzpatrick_scale": false
+  },
+  "🎶": {
+    "name": "notes",
+    "fitzpatrick_scale": false
+  },
+  "〰️": {
+    "name": "wavy_dash",
+    "fitzpatrick_scale": false
+  },
+  "➰": {
+    "name": "curly_loop",
+    "fitzpatrick_scale": false
+  },
+  "✔️": {
+    "name": "heavy_check_mark",
+    "fitzpatrick_scale": false
+  },
+  "🔃": {
+    "name": "arrows_clockwise",
+    "fitzpatrick_scale": false
+  },
+  "➕": {
+    "name": "heavy_plus_sign",
+    "fitzpatrick_scale": false
+  },
+  "➖": {
+    "name": "heavy_minus_sign",
+    "fitzpatrick_scale": false
+  },
+  "➗": {
+    "name": "heavy_division_sign",
+    "fitzpatrick_scale": false
+  },
+  "✖️": {
+    "name": "heavy_multiplication_x",
+    "fitzpatrick_scale": false
+  },
+  "💲": {
+    "name": "heavy_dollar_sign",
+    "fitzpatrick_scale": false
+  },
+  "💱": {
+    "name": "currency_exchange",
+    "fitzpatrick_scale": false
+  },
+  "©️": {
+    "name": "copyright",
+    "fitzpatrick_scale": false
+  },
+  "®️": {
+    "name": "registered",
+    "fitzpatrick_scale": false
+  },
+  "™️": {
+    "name": "tm",
+    "fitzpatrick_scale": false
+  },
+  "🔚": {
+    "name": "end",
+    "fitzpatrick_scale": false
+  },
+  "🔙": {
+    "name": "back",
+    "fitzpatrick_scale": false
+  },
+  "🔛": {
+    "name": "on",
+    "fitzpatrick_scale": false
+  },
+  "🔝": {
+    "name": "top",
+    "fitzpatrick_scale": false
+  },
+  "🔜": {
+    "name": "soon",
+    "fitzpatrick_scale": false
+  },
+  "☑️": {
+    "name": "ballot_box_with_check",
+    "fitzpatrick_scale": false
+  },
+  "🔘": {
+    "name": "radio_button",
+    "fitzpatrick_scale": false
+  },
+  "⚪": {
+    "name": "white_circle",
+    "fitzpatrick_scale": false
+  },
+  "⚫": {
+    "name": "black_circle",
+    "fitzpatrick_scale": false
+  },
+  "🔴": {
+    "name": "red_circle",
+    "fitzpatrick_scale": false
+  },
+  "🔵": {
+    "name": "large_blue_circle",
+    "fitzpatrick_scale": false
+  },
+  "🔸": {
+    "name": "small_orange_diamond",
+    "fitzpatrick_scale": false
+  },
+  "🔹": {
+    "name": "small_blue_diamond",
+    "fitzpatrick_scale": false
+  },
+  "🔶": {
+    "name": "large_orange_diamond",
+    "fitzpatrick_scale": false
+  },
+  "🔷": {
+    "name": "large_blue_diamond",
+    "fitzpatrick_scale": false
+  },
+  "🔺": {
+    "name": "small_red_triangle",
+    "fitzpatrick_scale": false
+  },
+  "▪️": {
+    "name": "black_small_square",
+    "fitzpatrick_scale": false
+  },
+  "▫️": {
+    "name": "white_small_square",
+    "fitzpatrick_scale": false
+  },
+  "⬛": {
+    "name": "black_large_square",
+    "fitzpatrick_scale": false
+  },
+  "⬜": {
+    "name": "white_large_square",
+    "fitzpatrick_scale": false
+  },
+  "🔻": {
+    "name": "small_red_triangle_down",
+    "fitzpatrick_scale": false
+  },
+  "◼️": {
+    "name": "black_medium_square",
+    "fitzpatrick_scale": false
+  },
+  "◻️": {
+    "name": "white_medium_square",
+    "fitzpatrick_scale": false
+  },
+  "◾": {
+    "name": "black_medium_small_square",
+    "fitzpatrick_scale": false
+  },
+  "◽": {
+    "name": "white_medium_small_square",
+    "fitzpatrick_scale": false
+  },
+  "🔲": {
+    "name": "black_square_button",
+    "fitzpatrick_scale": false
+  },
+  "🔳": {
+    "name": "white_square_button",
+    "fitzpatrick_scale": false
+  },
+  "🔈": {
+    "name": "speaker",
+    "fitzpatrick_scale": false
+  },
+  "🔉": {
+    "name": "sound",
+    "fitzpatrick_scale": false
+  },
+  "🔊": {
+    "name": "loud_sound",
+    "fitzpatrick_scale": false
+  },
+  "🔇": {
+    "name": "mute",
+    "fitzpatrick_scale": false
+  },
+  "📣": {
+    "name": "mega",
+    "fitzpatrick_scale": false
+  },
+  "📢": {
+    "name": "loudspeaker",
+    "fitzpatrick_scale": false
+  },
+  "🔔": {
+    "name": "bell",
+    "fitzpatrick_scale": false
+  },
+  "🔕": {
+    "name": "no_bell",
+    "fitzpatrick_scale": false
+  },
+  "🃏": {
+    "name": "black_joker",
+    "fitzpatrick_scale": false
+  },
+  "🀄": {
+    "name": "mahjong",
+    "fitzpatrick_scale": false
+  },
+  "♠️": {
+    "name": "spades",
+    "fitzpatrick_scale": false
+  },
+  "♣️": {
+    "name": "clubs",
+    "fitzpatrick_scale": false
+  },
+  "♥️": {
+    "name": "hearts",
+    "fitzpatrick_scale": false
+  },
+  "♦️": {
+    "name": "diamonds",
+    "fitzpatrick_scale": false
+  },
+  "🎴": {
+    "name": "flower_playing_cards",
+    "fitzpatrick_scale": false
+  },
+  "💭": {
+    "name": "thought_balloon",
+    "fitzpatrick_scale": false
+  },
+  "🗯": {
+    "name": "right_anger_bubble",
+    "fitzpatrick_scale": false
+  },
+  "💬": {
+    "name": "speech_balloon",
+    "fitzpatrick_scale": false
+  },
+  "🗨": {
+    "name": "left_speech_bubble",
+    "fitzpatrick_scale": false
+  },
+  "🕐": {
+    "name": "clock1",
+    "fitzpatrick_scale": false
+  },
+  "🕑": {
+    "name": "clock2",
+    "fitzpatrick_scale": false
+  },
+  "🕒": {
+    "name": "clock3",
+    "fitzpatrick_scale": false
+  },
+  "🕓": {
+    "name": "clock4",
+    "fitzpatrick_scale": false
+  },
+  "🕔": {
+    "name": "clock5",
+    "fitzpatrick_scale": false
+  },
+  "🕕": {
+    "name": "clock6",
+    "fitzpatrick_scale": false
+  },
+  "🕖": {
+    "name": "clock7",
+    "fitzpatrick_scale": false
+  },
+  "🕗": {
+    "name": "clock8",
+    "fitzpatrick_scale": false
+  },
+  "🕘": {
+    "name": "clock9",
+    "fitzpatrick_scale": false
+  },
+  "🕙": {
+    "name": "clock10",
+    "fitzpatrick_scale": false
+  },
+  "🕚": {
+    "name": "clock11",
+    "fitzpatrick_scale": false
+  },
+  "🕛": {
+    "name": "clock12",
+    "fitzpatrick_scale": false
+  },
+  "🕜": {
+    "name": "clock130",
+    "fitzpatrick_scale": false
+  },
+  "🕝": {
+    "name": "clock230",
+    "fitzpatrick_scale": false
+  },
+  "🕞": {
+    "name": "clock330",
+    "fitzpatrick_scale": false
+  },
+  "🕟": {
+    "name": "clock430",
+    "fitzpatrick_scale": false
+  },
+  "🕠": {
+    "name": "clock530",
+    "fitzpatrick_scale": false
+  },
+  "🕡": {
+    "name": "clock630",
+    "fitzpatrick_scale": false
+  },
+  "🕢": {
+    "name": "clock730",
+    "fitzpatrick_scale": false
+  },
+  "🕣": {
+    "name": "clock830",
+    "fitzpatrick_scale": false
+  },
+  "🕤": {
+    "name": "clock930",
+    "fitzpatrick_scale": false
+  },
+  "🕥": {
+    "name": "clock1030",
+    "fitzpatrick_scale": false
+  },
+  "🕦": {
+    "name": "clock1130",
+    "fitzpatrick_scale": false
+  },
+  "🕧": {
+    "name": "clock1230",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇫": {
+    "name": "afghanistan",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇽": {
+    "name": "aland_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇱": {
+    "name": "albania",
+    "fitzpatrick_scale": false
+  },
+  "🇩🇿": {
+    "name": "algeria",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇸": {
+    "name": "american_samoa",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇩": {
+    "name": "andorra",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇴": {
+    "name": "angola",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇮": {
+    "name": "anguilla",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇶": {
+    "name": "antarctica",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇬": {
+    "name": "antigua_barbuda",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇷": {
+    "name": "argentina",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇲": {
+    "name": "armenia",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇼": {
+    "name": "aruba",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇺": {
+    "name": "australia",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇹": {
+    "name": "austria",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇿": {
+    "name": "azerbaijan",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇸": {
+    "name": "bahamas",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇭": {
+    "name": "bahrain",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇩": {
+    "name": "bangladesh",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇧": {
+    "name": "barbados",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇾": {
+    "name": "belarus",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇪": {
+    "name": "belgium",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇿": {
+    "name": "belize",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇯": {
+    "name": "benin",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇲": {
+    "name": "bermuda",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇹": {
+    "name": "bhutan",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇴": {
+    "name": "bolivia",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇶": {
+    "name": "caribbean_netherlands",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇦": {
+    "name": "bosnia_herzegovina",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇼": {
+    "name": "botswana",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇷": {
+    "name": "brazil",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇴": {
+    "name": "british_indian_ocean_territory",
+    "fitzpatrick_scale": false
+  },
+  "🇻🇬": {
+    "name": "british_virgin_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇳": {
+    "name": "brunei",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇬": {
+    "name": "bulgaria",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇫": {
+    "name": "burkina_faso",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇮": {
+    "name": "burundi",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇻": {
+    "name": "cape_verde",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇭": {
+    "name": "cambodia",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇲": {
+    "name": "cameroon",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇦": {
+    "name": "canada",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇨": {
+    "name": "canary_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇾": {
+    "name": "cayman_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇫": {
+    "name": "central_african_republic",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇩": {
+    "name": "chad",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇱": {
+    "name": "chile",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇳": {
+    "name": "cn",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇽": {
+    "name": "christmas_island",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇨": {
+    "name": "cocos_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇴": {
+    "name": "colombia",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇲": {
+    "name": "comoros",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇬": {
+    "name": "congo_brazzaville",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇩": {
+    "name": "congo_kinshasa",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇰": {
+    "name": "cook_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇷": {
+    "name": "costa_rica",
+    "fitzpatrick_scale": false
+  },
+  "🇭🇷": {
+    "name": "croatia",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇺": {
+    "name": "cuba",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇼": {
+    "name": "curacao",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇾": {
+    "name": "cyprus",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇿": {
+    "name": "czech_republic",
+    "fitzpatrick_scale": false
+  },
+  "🇩🇰": {
+    "name": "denmark",
+    "fitzpatrick_scale": false
+  },
+  "🇩🇯": {
+    "name": "djibouti",
+    "fitzpatrick_scale": false
+  },
+  "🇩🇲": {
+    "name": "dominica",
+    "fitzpatrick_scale": false
+  },
+  "🇩🇴": {
+    "name": "dominican_republic",
+    "fitzpatrick_scale": false
+  },
+  "🇪🇨": {
+    "name": "ecuador",
+    "fitzpatrick_scale": false
+  },
+  "🇪🇬": {
+    "name": "egypt",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇻": {
+    "name": "el_salvador",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇶": {
+    "name": "equatorial_guinea",
+    "fitzpatrick_scale": false
+  },
+  "🇪🇷": {
+    "name": "eritrea",
+    "fitzpatrick_scale": false
+  },
+  "🇪🇪": {
+    "name": "estonia",
+    "fitzpatrick_scale": false
+  },
+  "🇪🇹": {
+    "name": "ethiopia",
+    "fitzpatrick_scale": false
+  },
+  "🇪🇺": {
+    "name": "eu",
+    "fitzpatrick_scale": false
+  },
+  "🇫🇰": {
+    "name": "falkland_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇫🇴": {
+    "name": "faroe_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇫🇯": {
+    "name": "fiji",
+    "fitzpatrick_scale": false
+  },
+  "🇫🇮": {
+    "name": "finland",
+    "fitzpatrick_scale": false
+  },
+  "🇫🇷": {
+    "name": "fr",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇫": {
+    "name": "french_guiana",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇫": {
+    "name": "french_polynesia",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇫": {
+    "name": "french_southern_territories",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇦": {
+    "name": "gabon",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇲": {
+    "name": "gambia",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇪": {
+    "name": "georgia",
+    "fitzpatrick_scale": false
+  },
+  "🇩🇪": {
+    "name": "de",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇭": {
+    "name": "ghana",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇮": {
+    "name": "gibraltar",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇷": {
+    "name": "greece",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇱": {
+    "name": "greenland",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇩": {
+    "name": "grenada",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇵": {
+    "name": "guadeloupe",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇺": {
+    "name": "guam",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇹": {
+    "name": "guatemala",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇬": {
+    "name": "guernsey",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇳": {
+    "name": "guinea",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇼": {
+    "name": "guinea_bissau",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇾": {
+    "name": "guyana",
+    "fitzpatrick_scale": false
+  },
+  "🇭🇹": {
+    "name": "haiti",
+    "fitzpatrick_scale": false
+  },
+  "🇭🇳": {
+    "name": "honduras",
+    "fitzpatrick_scale": false
+  },
+  "🇭🇰": {
+    "name": "hong_kong",
+    "fitzpatrick_scale": false
+  },
+  "🇭🇺": {
+    "name": "hungary",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇸": {
+    "name": "iceland",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇳": {
+    "name": "india",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇩": {
+    "name": "indonesia",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇷": {
+    "name": "iran",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇶": {
+    "name": "iraq",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇪": {
+    "name": "ireland",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇲": {
+    "name": "isle_of_man",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇱": {
+    "name": "israel",
+    "fitzpatrick_scale": false
+  },
+  "🇮🇹": {
+    "name": "it",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇮": {
+    "name": "cote_divoire",
+    "fitzpatrick_scale": false
+  },
+  "🇯🇲": {
+    "name": "jamaica",
+    "fitzpatrick_scale": false
+  },
+  "🇯🇵": {
+    "name": "jp",
+    "fitzpatrick_scale": false
+  },
+  "🇯🇪": {
+    "name": "jersey",
+    "fitzpatrick_scale": false
+  },
+  "🇯🇴": {
+    "name": "jordan",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇿": {
+    "name": "kazakhstan",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇪": {
+    "name": "kenya",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇮": {
+    "name": "kiribati",
+    "fitzpatrick_scale": false
+  },
+  "🇽🇰": {
+    "name": "kosovo",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇼": {
+    "name": "kuwait",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇬": {
+    "name": "kyrgyzstan",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇦": {
+    "name": "laos",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇻": {
+    "name": "latvia",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇧": {
+    "name": "lebanon",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇸": {
+    "name": "lesotho",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇷": {
+    "name": "liberia",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇾": {
+    "name": "libya",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇮": {
+    "name": "liechtenstein",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇹": {
+    "name": "lithuania",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇺": {
+    "name": "luxembourg",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇴": {
+    "name": "macau",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇰": {
+    "name": "macedonia",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇬": {
+    "name": "madagascar",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇼": {
+    "name": "malawi",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇾": {
+    "name": "malaysia",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇻": {
+    "name": "maldives",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇱": {
+    "name": "mali",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇹": {
+    "name": "malta",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇭": {
+    "name": "marshall_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇶": {
+    "name": "martinique",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇷": {
+    "name": "mauritania",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇺": {
+    "name": "mauritius",
+    "fitzpatrick_scale": false
+  },
+  "🇾🇹": {
+    "name": "mayotte",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇽": {
+    "name": "mexico",
+    "fitzpatrick_scale": false
+  },
+  "🇫🇲": {
+    "name": "micronesia",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇩": {
+    "name": "moldova",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇨": {
+    "name": "monaco",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇳": {
+    "name": "mongolia",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇪": {
+    "name": "montenegro",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇸": {
+    "name": "montserrat",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇦": {
+    "name": "morocco",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇿": {
+    "name": "mozambique",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇲": {
+    "name": "myanmar",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇦": {
+    "name": "namibia",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇷": {
+    "name": "nauru",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇵": {
+    "name": "nepal",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇱": {
+    "name": "netherlands",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇨": {
+    "name": "new_caledonia",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇿": {
+    "name": "new_zealand",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇮": {
+    "name": "nicaragua",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇪": {
+    "name": "niger",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇬": {
+    "name": "nigeria",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇺": {
+    "name": "niue",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇫": {
+    "name": "norfolk_island",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇵": {
+    "name": "northern_mariana_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇵": {
+    "name": "north_korea",
+    "fitzpatrick_scale": false
+  },
+  "🇳🇴": {
+    "name": "norway",
+    "fitzpatrick_scale": false
+  },
+  "🇴🇲": {
+    "name": "oman",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇰": {
+    "name": "pakistan",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇼": {
+    "name": "palau",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇸": {
+    "name": "palestinian_territories",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇦": {
+    "name": "panama",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇬": {
+    "name": "papua_new_guinea",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇾": {
+    "name": "paraguay",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇪": {
+    "name": "peru",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇭": {
+    "name": "philippines",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇳": {
+    "name": "pitcairn_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇱": {
+    "name": "poland",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇹": {
+    "name": "portugal",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇷": {
+    "name": "puerto_rico",
+    "fitzpatrick_scale": false
+  },
+  "🇶🇦": {
+    "name": "qatar",
+    "fitzpatrick_scale": false
+  },
+  "🇷🇪": {
+    "name": "reunion",
+    "fitzpatrick_scale": false
+  },
+  "🇷🇴": {
+    "name": "romania",
+    "fitzpatrick_scale": false
+  },
+  "🇷🇺": {
+    "name": "ru",
+    "fitzpatrick_scale": false
+  },
+  "🇷🇼": {
+    "name": "rwanda",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇱": {
+    "name": "st_barthelemy",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇭": {
+    "name": "st_helena",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇳": {
+    "name": "st_kitts_nevis",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇨": {
+    "name": "st_lucia",
+    "fitzpatrick_scale": false
+  },
+  "🇵🇲": {
+    "name": "st_pierre_miquelon",
+    "fitzpatrick_scale": false
+  },
+  "🇻🇨": {
+    "name": "st_vincent_grenadines",
+    "fitzpatrick_scale": false
+  },
+  "🇼🇸": {
+    "name": "samoa",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇲": {
+    "name": "san_marino",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇹": {
+    "name": "sao_tome_principe",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇦": {
+    "name": "saudi_arabia",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇳": {
+    "name": "senegal",
+    "fitzpatrick_scale": false
+  },
+  "🇷🇸": {
+    "name": "serbia",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇨": {
+    "name": "seychelles",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇱": {
+    "name": "sierra_leone",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇬": {
+    "name": "singapore",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇽": {
+    "name": "sint_maarten",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇰": {
+    "name": "slovakia",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇮": {
+    "name": "slovenia",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇧": {
+    "name": "solomon_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇴": {
+    "name": "somalia",
+    "fitzpatrick_scale": false
+  },
+  "🇿🇦": {
+    "name": "south_africa",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇸": {
+    "name": "south_georgia_south_sandwich_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇰🇷": {
+    "name": "kr",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇸": {
+    "name": "south_sudan",
+    "fitzpatrick_scale": false
+  },
+  "🇪🇸": {
+    "name": "es",
+    "fitzpatrick_scale": false
+  },
+  "🇱🇰": {
+    "name": "sri_lanka",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇩": {
+    "name": "sudan",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇷": {
+    "name": "suriname",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇿": {
+    "name": "swaziland",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇪": {
+    "name": "sweden",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇭": {
+    "name": "switzerland",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇾": {
+    "name": "syria",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇼": {
+    "name": "taiwan",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇯": {
+    "name": "tajikistan",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇿": {
+    "name": "tanzania",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇭": {
+    "name": "thailand",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇱": {
+    "name": "timor_leste",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇬": {
+    "name": "togo",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇰": {
+    "name": "tokelau",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇴": {
+    "name": "tonga",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇹": {
+    "name": "trinidad_tobago",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇳": {
+    "name": "tunisia",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇷": {
+    "name": "tr",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇲": {
+    "name": "turkmenistan",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇨": {
+    "name": "turks_caicos_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇻": {
+    "name": "tuvalu",
+    "fitzpatrick_scale": false
+  },
+  "🇺🇬": {
+    "name": "uganda",
+    "fitzpatrick_scale": false
+  },
+  "🇺🇦": {
+    "name": "ukraine",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇪": {
+    "name": "united_arab_emirates",
+    "fitzpatrick_scale": false
+  },
+  "🇬🇧": {
+    "name": "uk",
+    "fitzpatrick_scale": false
+  },
+  "🇺🇸": {
+    "name": "us",
+    "fitzpatrick_scale": false
+  },
+  "🇻🇮": {
+    "name": "us_virgin_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇺🇾": {
+    "name": "uruguay",
+    "fitzpatrick_scale": false
+  },
+  "🇺🇿": {
+    "name": "uzbekistan",
+    "fitzpatrick_scale": false
+  },
+  "🇻🇺": {
+    "name": "vanuatu",
+    "fitzpatrick_scale": false
+  },
+  "🇻🇦": {
+    "name": "vatican_city",
+    "fitzpatrick_scale": false
+  },
+  "🇻🇪": {
+    "name": "venezuela",
+    "fitzpatrick_scale": false
+  },
+  "🇻🇳": {
+    "name": "vietnam",
+    "fitzpatrick_scale": false
+  },
+  "🇼🇫": {
+    "name": "wallis_futuna",
+    "fitzpatrick_scale": false
+  },
+  "🇪🇭": {
+    "name": "western_sahara",
+    "fitzpatrick_scale": false
+  },
+  "🇾🇪": {
+    "name": "yemen",
+    "fitzpatrick_scale": false
+  },
+  "🇿🇲": {
+    "name": "zambia",
+    "fitzpatrick_scale": false
+  },
+  "🇿🇼": {
+    "name": "zimbabwe",
+    "fitzpatrick_scale": false
+  },
+  "🤩": {
+    "name": "star_struck",
+    "fitzpatrick_scale": false
+  },
+  "🤨": {
+    "name": "face_with_raised_eyebrow",
+    "fitzpatrick_scale": false
+  },
+  "🤯": {
+    "name": "exploding_head",
+    "fitzpatrick_scale": false
+  },
+  "🤪": {
+    "name": "crazy_face",
+    "fitzpatrick_scale": false
+  },
+  "🤬": {
+    "name": "face_with_symbols_over_mouth",
+    "fitzpatrick_scale": false
+  },
+  "🤮": {
+    "name": "face_vomiting",
+    "fitzpatrick_scale": false
+  },
+  "🤫": {
+    "name": "sushing_face",
+    "fitzpatrick_scale": false
+  },
+  "🤭": {
+    "name": "face_with_hand_over_mouth",
+    "fitzpatrick_scale": false
+  },
+  "🧐": {
+    "name": "face_with_monocle",
+    "fitzpatrick_scale": false
+  },
+  "🧒": {
+    "name": "child",
+    "fitzpatrick_scale": false
+  },
+  "🧑": {
+    "name": "adult",
+    "fitzpatrick_scale": false
+  },
+  "🧓": {
+    "name": "older_adult",
+    "fitzpatrick_scale": false
+  },
+  "🧕": {
+    "name": "woman_with_headscarf",
+    "fitzpatrick_scale": false
+  },
+  "🧔": {
+    "name": "bearded_person",
+    "fitzpatrick_scale": false
+  },
+  "🤱": {
+    "name": "breast_feeding",
+    "fitzpatrick_scale": false
+  },
+  "🧙": {
+    "name": "mage",
+    "fitzpatrick_scale": false
+  },
+  "🧚": {
+    "name": "fairy",
+    "fitzpatrick_scale": false
+  },
+  "🧛": {
+    "name": "vampire",
+    "fitzpatrick_scale": false
+  },
+  "🧜": {
+    "name": "merperson",
+    "fitzpatrick_scale": false
+  },
+  "🧝": {
+    "name": "elf",
+    "fitzpatrick_scale": false
+  },
+  "🧞": {
+    "name": "genie",
+    "fitzpatrick_scale": false
+  },
+  "🧟": {
+    "name": "zombie",
+    "fitzpatrick_scale": false
+  },
+  "🧖": {
+    "name": "person_in_steamy_room",
+    "fitzpatrick_scale": false
+  },
+  "🧗": {
+    "name": "person_climbing",
+    "fitzpatrick_scale": false
+  },
+  "🧘": {
+    "name": "person_in_lotus_position",
+    "fitzpatrick_scale": false
+  },
+  "🤟": {
+    "name": "love_you_gesture",
+    "fitzpatrick_scale": false
+  },
+  "🤲": {
+    "name": "palms_up_together",
+    "fitzpatrick_scale": false
+  },
+  "🧠": {
+    "name": "brain",
+    "fitzpatrick_scale": false
+  },
+  "🧡": {
+    "name": "orange_heart",
+    "fitzpatrick_scale": false
+  },
+  "🧣": {
+    "name": "scarf",
+    "fitzpatrick_scale": false
+  },
+  "🧤": {
+    "name": "gloves",
+    "fitzpatrick_scale": false
+  },
+  "🧥": {
+    "name": "coat",
+    "fitzpatrick_scale": false
+  },
+  "🧦": {
+    "name": "socks",
+    "fitzpatrick_scale": false
+  },
+  "🧢": {
+    "name": "billed_cap",
+    "fitzpatrick_scale": false
+  },
+  "🦓": {
+    "name": "zebra",
+    "fitzpatrick_scale": false
+  },
+  "🦒": {
+    "name": "giraffe",
+    "fitzpatrick_scale": false
+  },
+  "🦔": {
+    "name": "hedgehog",
+    "fitzpatrick_scale": false
+  },
+  "🦕": {
+    "name": "sauropod",
+    "fitzpatrick_scale": false
+  },
+  "🦖": {
+    "name": "t_rex",
+    "fitzpatrick_scale": false
+  },
+  "🦗": {
+    "name": "cricket",
+    "fitzpatrick_scale": false
+  },
+  "🥥": {
+    "name": "coconut",
+    "fitzpatrick_scale": false
+  },
+  "🥦": {
+    "name": "broccoli",
+    "fitzpatrick_scale": false
+  },
+  "🥨": {
+    "name": "pretzel",
+    "fitzpatrick_scale": false
+  },
+  "🥩": {
+    "name": "cut_of_meat",
+    "fitzpatrick_scale": false
+  },
+  "🥪": {
+    "name": "sandwich",
+    "fitzpatrick_scale": false
+  },
+  "🥣": {
+    "name": "bowl_with_spoon",
+    "fitzpatrick_scale": false
+  },
+  "🥫": {
+    "name": "canned_food",
+    "fitzpatrick_scale": false
+  },
+  "🥟": {
+    "name": "dumpling",
+    "fitzpatrick_scale": false
+  },
+  "🥠": {
+    "name": "fortune_cookie",
+    "fitzpatrick_scale": false
+  },
+  "🥡": {
+    "name": "takeout_box",
+    "fitzpatrick_scale": false
+  },
+  "🥧": {
+    "name": "pie",
+    "fitzpatrick_scale": false
+  },
+  "🥤": {
+    "name": "cup_with_straw",
+    "fitzpatrick_scale": false
+  },
+  "🥢": {
+    "name": "chopsticks",
+    "fitzpatrick_scale": false
+  },
+  "🛸": {
+    "name": "flying_saucer",
+    "fitzpatrick_scale": false
+  },
+  "🛷": {
+    "name": "sled",
+    "fitzpatrick_scale": false
+  },
+  "🥌": {
+    "name": "curling_stone",
+    "fitzpatrick_scale": false
+  },
+  "🇸🇯": {
+    "name": "svalbard_and_jan_mayen",
+    "fitzpatrick_scale": false
+  },
+  "🇲🇫": {
+    "name": "st_martin",
+    "fitzpatrick_scale": false
+  },
+  "🇺🇲": {
+    "name": "us_outlying_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇹🇦": {
+    "name": "tristan_da_cunha",
+    "fitzpatrick_scale": false
+  },
+  "🇭🇲": {
+    "name": "heard_and_mc_donald_islands",
+    "fitzpatrick_scale": false
+  },
+  "🇪🇦": {
+    "name": "ceuta_and_melilla",
+    "fitzpatrick_scale": false
+  },
+  "🇩🇬": {
+    "name": "diego_garcia",
+    "fitzpatrick_scale": false
+  },
+  "🇦🇨": {
+    "name": "ascension_island",
+    "fitzpatrick_scale": false
+  },
+  "🇧🇻": {
+    "name": "bouvet_island",
+    "fitzpatrick_scale": false
+  },
+  "🇨🇵": {
+    "name": "clipperton_island",
+    "fitzpatrick_scale": false
+  },
+  "🇺🇳": {
+    "name": "united_nations",
+    "fitzpatrick_scale": false
+  }
+}
