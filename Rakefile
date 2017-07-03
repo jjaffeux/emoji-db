@@ -4,17 +4,6 @@ require "json"
 require "base64"
 require "fileutils"
 
-STYLES_INDEX = {
-  :apple => 3,
-  :google => 4,
-  :twitter => 5,
-  :emoji_one => 6,
-  :facebook => 7,
-  :facebook_messenger => 8,
-  :samsung => 9,
-  :windows => 10
-}
-
 tasks = [
   {
     :url => "http://unicode.org/emoji/charts/full-emoji-list.html",
