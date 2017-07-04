@@ -1691,7 +1691,7 @@
     "name": "comet",
     "fitzpatrick_scale": false
   },
-  "☀️": {
+  "☀": {
     "name": "sunny",
     "fitzpatrick_scale": false
   },
@@ -1711,7 +1711,7 @@
     "name": "sun_behind_rain_cloud",
     "fitzpatrick_scale": false
   },
-  "☁️": {
+  "☁": {
     "name": "cloud",
     "fitzpatrick_scale": false
   },
@@ -1739,7 +1739,7 @@
     "name": "boom",
     "fitzpatrick_scale": false
   },
-  "❄️": {
+  "❄": {
     "name": "snowflake",
     "fitzpatrick_scale": false
   },
@@ -2619,7 +2619,7 @@
     "name": "small_airplane",
     "fitzpatrick_scale": false
   },
-  "✈️": {
+  "✈": {
     "name": "airplane",
     "fitzpatrick_scale": false
   },
@@ -3027,7 +3027,7 @@
     "name": "telephone_receiver",
     "fitzpatrick_scale": false
   },
-  "☎️": {
+  "☎": {
     "name": "phone",
     "fitzpatrick_scale": false
   },
@@ -3379,7 +3379,7 @@
     "name": "izakaya_lantern",
     "fitzpatrick_scale": false
   },
-  "✉️": {
+  "✉": {
     "name": "email",
     "fitzpatrick_scale": false
   },
@@ -3567,7 +3567,7 @@
     "name": "paperclips",
     "fitzpatrick_scale": false
   },
-  "✂️": {
+  "✂": {
     "name": "scissors",
     "fitzpatrick_scale": false
   },
@@ -3627,7 +3627,7 @@
     "name": "fountain_pen",
     "fitzpatrick_scale": false
   },
-  "✒️": {
+  "✒": {
     "name": "black_nib",
     "fitzpatrick_scale": false
   },
@@ -3635,7 +3635,7 @@
     "name": "memo",
     "fitzpatrick_scale": false
   },
-  "✏️": {
+  "✏": {
     "name": "pencil2",
     "fitzpatrick_scale": false
   },
@@ -3655,7 +3655,7 @@
     "name": "mag_right",
     "fitzpatrick_scale": false
   },
-  "❤️": {
+  "❤": {
     "name": "heart",
     "fitzpatrick_scale": false
   },
@@ -3863,11 +3863,11 @@
     "name": "u55b6",
     "fitzpatrick_scale": false
   },
-  "🈷️": {
+  "🈷": {
     "name": "u6708",
     "fitzpatrick_scale": false
   },
-  "✴️": {
+  "✴": {
     "name": "eight_pointed_black_star",
     "fitzpatrick_scale": false
   },
@@ -3887,11 +3887,11 @@
     "name": "ideograph_advantage",
     "fitzpatrick_scale": false
   },
-  "㊙️": {
+  "㊙": {
     "name": "secret",
     "fitzpatrick_scale": false
   },
-  "㊗️": {
+  "㊗": {
     "name": "congratulations",
     "fitzpatrick_scale": false
   },
@@ -3907,11 +3907,11 @@
     "name": "u7981",
     "fitzpatrick_scale": false
   },
-  "🅰️": {
+  "🅰": {
     "name": "a",
     "fitzpatrick_scale": false
   },
-  "🅱️": {
+  "🅱": {
     "name": "b",
     "fitzpatrick_scale": false
   },
@@ -3923,7 +3923,7 @@
     "name": "cl",
     "fitzpatrick_scale": false
   },
-  "🅾️": {
+  "🅾": {
     "name": "o2",
     "fitzpatrick_scale": false
   },
@@ -3959,7 +3959,7 @@
     "name": "anger",
     "fitzpatrick_scale": false
   },
-  "♨️": {
+  "♨": {
     "name": "hotsprings",
     "fitzpatrick_scale": false
   },
@@ -4003,11 +4003,11 @@
     "name": "grey_question",
     "fitzpatrick_scale": false
   },
-  "‼️": {
+  "‼": {
     "name": "bangbang",
     "fitzpatrick_scale": false
   },
-  "⁉️": {
+  "⁉": {
     "name": "interrobang",
     "fitzpatrick_scale": false
   },
@@ -4031,11 +4031,11 @@
     "name": "fleur_de_lis",
     "fitzpatrick_scale": false
   },
-  "〽️": {
+  "〽": {
     "name": "part_alternation_mark",
     "fitzpatrick_scale": false
   },
-  "⚠️": {
+  "⚠": {
     "name": "warning",
     "fitzpatrick_scale": false
   },
@@ -4047,7 +4047,7 @@
     "name": "beginner",
     "fitzpatrick_scale": false
   },
-  "♻️": {
+  "♻": {
     "name": "recycle",
     "fitzpatrick_scale": false
   },
@@ -4059,11 +4059,11 @@
     "name": "chart",
     "fitzpatrick_scale": false
   },
-  "❇️": {
+  "❇": {
     "name": "sparkle",
     "fitzpatrick_scale": false
   },
-  "✳️": {
+  "✳": {
     "name": "eight_spoked_asterisk",
     "fitzpatrick_scale": false
   },
@@ -4091,7 +4091,7 @@
     "name": "globe_with_meridians",
     "fitzpatrick_scale": false
   },
-  "Ⓜ️": {
+  "Ⓜ": {
     "name": "m",
     "fitzpatrick_scale": false
   },
@@ -4099,7 +4099,7 @@
     "name": "atm",
     "fitzpatrick_scale": false
   },
-  "🈂️": {
+  "🈂": {
     "name": "sa",
     "fitzpatrick_scale": false
   },
@@ -4131,7 +4131,7 @@
     "name": "wc",
     "fitzpatrick_scale": false
   },
-  "🅿️": {
+  "🅿": {
     "name": "parking",
     "fitzpatrick_scale": false
   },
@@ -4247,7 +4247,7 @@
     "name": "1234",
     "fitzpatrick_scale": false
   },
-  "▶️": {
+  "▶": {
     "name": "arrow_forward",
     "fitzpatrick_scale": false
   },
@@ -4295,7 +4295,7 @@
     "name": "repeat_one",
     "fitzpatrick_scale": false
   },
-  "◀️": {
+  "◀": {
     "name": "arrow_backward",
     "fitzpatrick_scale": false
   },
@@ -4315,43 +4315,43 @@
     "name": "arrow_double_down",
     "fitzpatrick_scale": false
   },
-  "➡️": {
+  "➡": {
     "name": "arrow_right",
     "fitzpatrick_scale": false
   },
-  "⬅️": {
+  "⬅": {
     "name": "arrow_left",
     "fitzpatrick_scale": false
   },
-  "⬆️": {
+  "⬆": {
     "name": "arrow_up",
     "fitzpatrick_scale": false
   },
-  "⬇️": {
+  "⬇": {
     "name": "arrow_down",
     "fitzpatrick_scale": false
   },
-  "↗️": {
+  "↗": {
     "name": "arrow_upper_right",
     "fitzpatrick_scale": false
   },
-  "↘️": {
+  "↘": {
     "name": "arrow_lower_right",
     "fitzpatrick_scale": false
   },
-  "↙️": {
+  "↙": {
     "name": "arrow_lower_left",
     "fitzpatrick_scale": false
   },
-  "↖️": {
+  "↖": {
     "name": "arrow_upper_left",
     "fitzpatrick_scale": false
   },
-  "↕️": {
+  "↕": {
     "name": "arrow_up_down",
     "fitzpatrick_scale": false
   },
-  "↔️": {
+  "↔": {
     "name": "left_right_arrow",
     "fitzpatrick_scale": false
   },
@@ -4359,19 +4359,19 @@
     "name": "arrows_counterclockwise",
     "fitzpatrick_scale": false
   },
-  "↪️": {
+  "↪": {
     "name": "arrow_right_hook",
     "fitzpatrick_scale": false
   },
-  "↩️": {
+  "↩": {
     "name": "leftwards_arrow_with_hook",
     "fitzpatrick_scale": false
   },
-  "⤴️": {
+  "⤴": {
     "name": "arrow_heading_up",
     "fitzpatrick_scale": false
   },
-  "⤵️": {
+  "⤵": {
     "name": "arrow_heading_down",
     "fitzpatrick_scale": false
   },
@@ -4379,7 +4379,7 @@
     "name": "hash",
     "fitzpatrick_scale": false
   },
-  "ℹ️": {
+  "ℹ": {
     "name": "information_source",
     "fitzpatrick_scale": false
   },
@@ -4407,7 +4407,7 @@
     "name": "notes",
     "fitzpatrick_scale": false
   },
-  "〰️": {
+  "〰": {
     "name": "wavy_dash",
     "fitzpatrick_scale": false
   },
@@ -4415,7 +4415,7 @@
     "name": "curly_loop",
     "fitzpatrick_scale": false
   },
-  "✔️": {
+  "✔": {
     "name": "heavy_check_mark",
     "fitzpatrick_scale": false
   },
@@ -4435,7 +4435,7 @@
     "name": "heavy_division_sign",
     "fitzpatrick_scale": false
   },
-  "✖️": {
+  "✖": {
     "name": "heavy_multiplication_x",
     "fitzpatrick_scale": false
   },
@@ -4447,15 +4447,15 @@
     "name": "currency_exchange",
     "fitzpatrick_scale": false
   },
-  "©️": {
+  "©": {
     "name": "copyright",
     "fitzpatrick_scale": false
   },
-  "®️": {
+  "®": {
     "name": "registered",
     "fitzpatrick_scale": false
   },
-  "™️": {
+  "™": {
     "name": "tm",
     "fitzpatrick_scale": false
   },
@@ -4479,7 +4479,7 @@
     "name": "soon",
     "fitzpatrick_scale": false
   },
-  "☑️": {
+  "☑": {
     "name": "ballot_box_with_check",
     "fitzpatrick_scale": false
   },
@@ -4523,11 +4523,11 @@
     "name": "small_red_triangle",
     "fitzpatrick_scale": false
   },
-  "▪️": {
+  "▪": {
     "name": "black_small_square",
     "fitzpatrick_scale": false
   },
-  "▫️": {
+  "▫": {
     "name": "white_small_square",
     "fitzpatrick_scale": false
   },
@@ -4543,11 +4543,11 @@
     "name": "small_red_triangle_down",
     "fitzpatrick_scale": false
   },
-  "◼️": {
+  "◼": {
     "name": "black_medium_square",
     "fitzpatrick_scale": false
   },
-  "◻️": {
+  "◻": {
     "name": "white_medium_square",
     "fitzpatrick_scale": false
   },
@@ -4607,19 +4607,19 @@
     "name": "mahjong",
     "fitzpatrick_scale": false
   },
-  "♠️": {
+  "♠": {
     "name": "spades",
     "fitzpatrick_scale": false
   },
-  "♣️": {
+  "♣": {
     "name": "clubs",
     "fitzpatrick_scale": false
   },
-  "♥️": {
+  "♥": {
     "name": "hearts",
     "fitzpatrick_scale": false
   },
-  "♦️": {
+  "♦": {
     "name": "diamonds",
     "fitzpatrick_scale": false
   },
