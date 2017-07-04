@@ -4,9 +4,11 @@ require "json"
 require "base64"
 require "fileutils"
 
+CURRENT_EMOJI_LIST = "http://unicode.org/emoji/charts/full-emoji-list.html"
+
 tasks = [
   {
-    :url => "http://unicode.org/emoji/charts/full-emoji-list.html",
+    :url => CURRENT_EMOJI_LIST,
     :platform_cells => {
       :apple => 3,
       :google => 4,
@@ -95,12 +97,30 @@ task "emoji_list" do
     end
   end
 
+
   emojis = {}
   base_db.each do |char, name|
     emojis[char] = {
       :name => name,
       :fitzpatrick_scale => File.directory?("generated/emoji_one/#{name}")
     }
+  end
+
+  current_category = nil
+  list = open(CURRENT_EMOJI_LIST).read
+  doc = Nokogiri::HTML(list)
+  table = doc.css("table")[0]
+  table.css("tr").each do |row|
+    if heading = row.css("th.mediumhead")[0]
+      current_category = heading.text
+    end
+
+    cells = row.css("td")
+    next if cells.size != 16
+
+    if emoji = emojis[cells[2].text]
+      emoji[:category] = current_category
+    end
   end
 
   db_path = File.join("generated", "db.json")
