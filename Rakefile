@@ -6,7 +6,7 @@ require "fileutils"
 
 CURRENT_EMOJI_LIST = "http://unicode.org/emoji/charts/full-emoji-list.html"
 
-tasks = [
+TASKS = [
   {
     :url => CURRENT_EMOJI_LIST,
     :platform_cells => {
@@ -55,7 +55,7 @@ end
 task "emoji_list" do
   base_db = JSON.parse(File.read("db.json"))
 
-  tasks.each do |task|
+  TASKS.each do |task|
     list = open(task[:url]).read
 
     doc = Nokogiri::HTML(list)
