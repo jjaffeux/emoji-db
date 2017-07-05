@@ -52,7 +52,7 @@ def cell_to_img(cell)
   Base64.decode64(img["src"][/base64,(.+)$/, 1])
 end
 
-task "emoji_list" do
+task :default do
   base_db = JSON.parse(File.read("db.json"))
 
   TASKS.each do |task|
