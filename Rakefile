@@ -19,12 +19,6 @@ TASKS = [
       :samsung => 9,
       :windows => 10
     }
-  },
-  {
-    :url => "http://unicode.org/emoji/charts-beta/full-emoji-list.html",
-    :platform_cells => {
-      :google_blob => 4
-    }
   }
 ]
 

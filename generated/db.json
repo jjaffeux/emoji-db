@@ -1034,7 +1034,7 @@
     "fitzpatrick_scale": true,
     "category": "person-gesture"
   },
-  "🤦": {
+  "🤦‍♂️": {
     "name": "man_facepalming",
     "fitzpatrick_scale": true,
     "category": "person-gesture"
@@ -7206,57 +7206,57 @@
   },
   "🧒": {
     "name": "child",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person"
   },
   "🧑": {
     "name": "adult",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person"
   },
   "🧓": {
     "name": "older_adult",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person"
   },
   "🧕": {
     "name": "woman_with_headscarf",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-role"
   },
   "🧔": {
     "name": "bearded_person",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-role"
   },
   "🤱": {
     "name": "breast_feeding",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-role"
   },
   "🧙": {
     "name": "mage",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-fantasy"
   },
   "🧚": {
     "name": "fairy",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-fantasy"
   },
   "🧛": {
     "name": "vampire",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-fantasy"
   },
   "🧜": {
     "name": "merperson",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-fantasy"
   },
   "🧝": {
     "name": "elf",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-fantasy"
   },
   "🧞": {
@@ -7271,27 +7271,27 @@
   },
   "🧖": {
     "name": "person_in_steamy_room",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-activity"
   },
   "🧗": {
     "name": "person_climbing",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-activity"
   },
   "🧘": {
     "name": "person_in_lotus_position",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "person-activity"
   },
   "🤟": {
     "name": "love_you_gesture",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "body"
   },
   "🤲": {
     "name": "palms_up_together",
-    "fitzpatrick_scale": false,
+    "fitzpatrick_scale": true,
     "category": "body"
   },
   "🧠": {
