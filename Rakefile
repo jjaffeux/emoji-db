@@ -110,7 +110,7 @@ task :default do
     end
 
     cells = row.css("td")
-    next if cells.size != 16
+    next if cells.size != 15
 
     if emoji = emojis[cells[2].text]
       emoji[:category] = current_category
