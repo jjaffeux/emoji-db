@@ -15,9 +15,8 @@ TASKS = [
       :twitter => 5,
       :emoji_one => 6,
       :facebook => 7,
-      :facebook_messenger => 8,
-      :samsung => 9,
-      :windows => 10
+      :samsung => 8,
+      :windows => 9
     }
   }
 ]
@@ -58,7 +57,7 @@ task :default do
       cells = row.css("td")
 
       # skip header and section rows
-      next if cells.size != 16
+      next if cells.size != 15
 
       code = cells[1].at_css("a")["name"]
       emoji = code_to_emoji(code)
