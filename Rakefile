@@ -4,7 +4,7 @@ require "json"
 require "base64"
 require "fileutils"
 
-CURRENT_EMOJI_LIST = "http://unicode.org/emoji/charts/full-emoji-list.html"
+CURRENT_EMOJI_LIST = "http://unicode.org/emoji/charts-5.0/full-emoji-list.html"
 
 TASKS = [
   {

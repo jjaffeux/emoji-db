@@ -7239,6 +7239,11 @@
     "fitzpatrick_scale": true,
     "category": "person-fantasy"
   },
+  "🧙‍♀️": {
+    "name": "woman_mage",
+    "fitzpatrick_scale": true,
+    "category": "person-fantasy"
+  },
   "🧚": {
     "name": "fairy",
     "fitzpatrick_scale": true,
@@ -7250,7 +7255,12 @@
     "category": "person-fantasy"
   },
   "🧜": {
-    "name": "merperson",
+    "name": "mermaid",
+    "fitzpatrick_scale": true,
+    "category": "person-fantasy"
+  },
+  "🧜‍♂️": {
+    "name": "merman",
     "fitzpatrick_scale": true,
     "category": "person-fantasy"
   },
@@ -7264,8 +7274,18 @@
     "fitzpatrick_scale": false,
     "category": "person-fantasy"
   },
+  "🧞‍♀️": {
+    "name": "woman_genie",
+    "fitzpatrick_scale": false,
+    "category": "person-fantasy"
+  },
   "🧟": {
     "name": "zombie",
+    "fitzpatrick_scale": false,
+    "category": "person-fantasy"
+  },
+  "🧟‍♀️": {
+    "name": "woman_zombie",
     "fitzpatrick_scale": false,
     "category": "person-fantasy"
   },
@@ -7274,13 +7294,28 @@
     "fitzpatrick_scale": true,
     "category": "person-activity"
   },
+  "🧖‍♀️": {
+    "name": "woman_in_steamy_room",
+    "fitzpatrick_scale": true,
+    "category": "person-activity"
+  },
   "🧗": {
     "name": "person_climbing",
     "fitzpatrick_scale": true,
     "category": "person-activity"
   },
+  "🧗‍♀️": {
+    "name": "woman_climbing",
+    "fitzpatrick_scale": true,
+    "category": "person-activity"
+  },
   "🧘": {
     "name": "person_in_lotus_position",
+    "fitzpatrick_scale": true,
+    "category": "person-activity"
+  },
+  "🧘‍♀️": {
+    "name": "woman_in_lotus_position",
     "fitzpatrick_scale": true,
     "category": "person-activity"
   },
