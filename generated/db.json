@@ -4603,6 +4603,10 @@
     "fitzpatrick_scale": false,
     "category": "emotion"
   },
+  "♡": {
+    "name": "white_heart_suit",
+    "fitzpatrick_scale": false
+  },
   "❣": {
     "name": "heavy_heart_exclamation",
     "fitzpatrick_scale": false,
