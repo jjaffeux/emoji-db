@@ -4569,10 +4569,9 @@
     "fitzpatrick_scale": false,
     "category": "light & video"
   },
-  "❤": {
+  "❤️": {
     "name": "heart",
-    "fitzpatrick_scale": false,
-    "category": "emotion"
+    "fitzpatrick_scale": false
   },
   "💛": {
     "name": "yellow_heart",
