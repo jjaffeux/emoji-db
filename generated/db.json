@@ -142,7 +142,7 @@
   "🤡": {
     "name": "clown_face",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-fantasy"
   },
   "🤠": {
     "name": "cowboy_hat_face",
@@ -697,12 +697,12 @@
   "👱‍♀️": {
     "name": "blonde_woman",
     "fitzpatrick_scale": true,
-    "category": "person-role"
+    "category": "person"
   },
   "👱": {
     "name": "blonde_man",
     "fitzpatrick_scale": true,
-    "category": "person-role"
+    "category": "person"
   },
   "👴": {
     "name": "older_man",
@@ -2702,7 +2702,7 @@
   "🎱": {
     "name": "8ball",
     "fitzpatrick_scale": false,
-    "category": "sport"
+    "category": "game"
   },
   "⛳": {
     "name": "golf",
@@ -2977,12 +2977,12 @@
   "🎭": {
     "name": "performing_arts",
     "fitzpatrick_scale": false,
-    "category": "place-other"
+    "category": "arts & crafts"
   },
   "🎨": {
     "name": "art",
     "fitzpatrick_scale": false,
-    "category": "place-other"
+    "category": "arts & crafts"
   },
   "🎪": {
     "name": "circus_tent",
@@ -3062,7 +3062,7 @@
   "🎯": {
     "name": "dart",
     "fitzpatrick_scale": false,
-    "category": "sport"
+    "category": "game"
   },
   "🎲": {
     "name": "game_die",
@@ -3072,7 +3072,7 @@
   "🎰": {
     "name": "slot_machine",
     "fitzpatrick_scale": false,
-    "category": "place-other"
+    "category": "game"
   },
   "🎳": {
     "name": "bowling",
@@ -3507,7 +3507,7 @@
   "🏙": {
     "name": "cityscape",
     "fitzpatrick_scale": false,
-    "category": "place-building"
+    "category": "place-other"
   },
   "🌃": {
     "name": "night_with_stars",
@@ -3857,7 +3857,7 @@
   "📡": {
     "name": "satellite",
     "fitzpatrick_scale": false,
-    "category": "light & video"
+    "category": "science"
   },
   "🔋": {
     "name": "battery",
@@ -3892,7 +3892,7 @@
   "🛢": {
     "name": "oil_drum",
     "fitzpatrick_scale": false,
-    "category": "other-object"
+    "category": "transport-ground"
   },
   "💸": {
     "name": "money_with_wings",
@@ -4037,7 +4037,7 @@
   "🔮": {
     "name": "crystal_ball",
     "fitzpatrick_scale": false,
-    "category": "other-object"
+    "category": "game"
   },
   "📿": {
     "name": "prayer_beads",
@@ -4052,17 +4052,17 @@
   "⚗": {
     "name": "alembic",
     "fitzpatrick_scale": false,
-    "category": "tool"
+    "category": "science"
   },
   "🔭": {
     "name": "telescope",
     "fitzpatrick_scale": false,
-    "category": "light & video"
+    "category": "science"
   },
   "🔬": {
     "name": "microscope",
     "fitzpatrick_scale": false,
-    "category": "light & video"
+    "category": "science"
   },
   "🕳": {
     "name": "hole",
@@ -4097,17 +4097,17 @@
   "🚽": {
     "name": "toilet",
     "fitzpatrick_scale": false,
-    "category": "hotel"
+    "category": "household"
   },
   "🚿": {
     "name": "shower",
     "fitzpatrick_scale": false,
-    "category": "hotel"
+    "category": "household"
   },
   "🛁": {
     "name": "bathtub",
     "fitzpatrick_scale": false,
-    "category": "hotel"
+    "category": "household"
   },
   "🔑": {
     "name": "key",
@@ -4122,7 +4122,7 @@
   "🛋": {
     "name": "couch_and_lamp",
     "fitzpatrick_scale": false,
-    "category": "hotel"
+    "category": "household"
   },
   "🛌": {
     "name": "sleeping_bed",
@@ -4132,12 +4132,12 @@
   "🛏": {
     "name": "bed",
     "fitzpatrick_scale": false,
-    "category": "hotel"
+    "category": "household"
   },
   "🚪": {
     "name": "door",
     "fitzpatrick_scale": false,
-    "category": "hotel"
+    "category": "household"
   },
   "🛎": {
     "name": "bellhop_bell",
@@ -4147,7 +4147,7 @@
   "🖼": {
     "name": "framed_picture",
     "fitzpatrick_scale": false,
-    "category": "place-other"
+    "category": "arts & crafts"
   },
   "🗺": {
     "name": "world_map",
@@ -4172,7 +4172,7 @@
   "🛒": {
     "name": "shopping_cart",
     "fitzpatrick_scale": false,
-    "category": "other-object"
+    "category": "household"
   },
   "🎈": {
     "name": "balloon",
@@ -7227,7 +7227,7 @@
   "🧔": {
     "name": "bearded_person",
     "fitzpatrick_scale": true,
-    "category": "person-role"
+    "category": "person"
   },
   "🤱": {
     "name": "breast_feeding",
@@ -7528,5 +7528,388 @@
     "name": "united_nations",
     "fitzpatrick_scale": false,
     "category": "country-flag"
+  },
+  "🥰": {
+    "name": "smiling_face_with_three_Hearts",
+    "fitzpatrick_scale": false,
+    "category": "face-positive"
+  },
+  "🥵": {
+    "name": "hot_face",
+    "fitzpatrick_scale": false,
+    "category": "face-negative"
+  },
+  "🥶": {
+    "name": "cold_face",
+    "fitzpatrick_scale": false,
+    "category": "face-negative"
+  },
+  "🥳": {
+    "name": "partying_face",
+    "fitzpatrick_scale": false,
+    "category": "face-role"
+  },
+  "🥴": {
+    "name": "woozy_face",
+    "fitzpatrick_scale": false,
+    "category": "face-role"
+  },
+  "🥺": {
+    "name": "pleading_face",
+    "fitzpatrick_scale": false,
+    "category": "face-role"
+  },
+  "👨‍🦰": {
+    "name": "man_red_haired",
+    "fitzpatrick_scale": false,
+    "category": "person"
+  },
+  "👨‍🦱": {
+    "name": "man_curly_haired",
+    "fitzpatrick_scale": false,
+    "category": "person"
+  },
+  "👨‍🦳": {
+    "name": "man_white_haired",
+    "fitzpatrick_scale": false,
+    "category": "person"
+  },
+  "👨‍🦲": {
+    "name": "man_bald",
+    "fitzpatrick_scale": false,
+    "category": "person"
+  },
+  "👩‍🦰": {
+    "name": "woman_red_haired",
+    "fitzpatrick_scale": false,
+    "category": "person"
+  },
+  "👩‍🦱": {
+    "name": "woman_curly_haired",
+    "fitzpatrick_scale": false,
+    "category": "person"
+  },
+  "👩‍🦳": {
+    "name": "woman_white_haired",
+    "fitzpatrick_scale": false,
+    "category": "person"
+  },
+  "👩‍🦲": {
+    "name": "woman_bald",
+    "fitzpatrick_scale": false,
+    "category": "person"
+  },
+  "🦸": {
+    "name": "superhero",
+    "fitzpatrick_scale": false,
+    "category": "person-fantasy"
+  },
+  "🦸‍♂️": {
+    "name": "man_superhero",
+    "fitzpatrick_scale": false,
+    "category": "person-fantasy"
+  },
+  "🦸‍♀️": {
+    "name": "woman_superhero",
+    "fitzpatrick_scale": false,
+    "category": "person-fantasy"
+  },
+  "🦹": {
+    "name": "supervillain",
+    "fitzpatrick_scale": false,
+    "category": "person-fantasy"
+  },
+  "🦹‍♀️": {
+    "name": "woman_supervillain",
+    "fitzpatrick_scale": false,
+    "category": "person-fantasy"
+  },
+  "🦹‍♂️": {
+    "name": "man_supervillain",
+    "fitzpatrick_scale": false,
+    "category": "person-fantasy"
+  },
+  "🦵": {
+    "name": "leg",
+    "fitzpatrick_scale": false,
+    "category": "body"
+  },
+  "🦶": {
+    "name": "foot",
+    "fitzpatrick_scale": false,
+    "category": "body"
+  },
+  "🦴": {
+    "name": "bone",
+    "fitzpatrick_scale": false,
+    "category": "body"
+  },
+  "🦷": {
+    "name": "tooth",
+    "fitzpatrick_scale": false,
+    "category": "body"
+  },
+  "🥽": {
+    "name": "goggles",
+    "fitzpatrick_scale": false,
+    "category": "clothing"
+  },
+  "🥼": {
+    "name": "lab_coat",
+    "fitzpatrick_scale": false,
+    "category": "clothing"
+  },
+  "🥾": {
+    "name": "hiking_boot",
+    "fitzpatrick_scale": false,
+    "category": "clothing"
+  },
+  "🥿": {
+    "name": "flat_shoe",
+    "fitzpatrick_scale": false,
+    "category": "clothing"
+  },
+  "🦝": {
+    "name": "raccoon",
+    "fitzpatrick_scale": false,
+    "category": "animal-mammal"
+  },
+  "🦙": {
+    "name": "llama",
+    "fitzpatrick_scale": false,
+    "category": "animal-mammal"
+  },
+  "🦛": {
+    "name": "hippopotamus",
+    "fitzpatrick_scale": false,
+    "category": "animal-mammal"
+  },
+  "🦘": {
+    "name": "kangaroo",
+    "fitzpatrick_scale": false,
+    "category": "animal-mammal"
+  },
+  "🦡": {
+    "name": "badger",
+    "fitzpatrick_scale": false,
+    "category": "animal-mammal"
+  },
+  "🦢": {
+    "name": "swan",
+    "fitzpatrick_scale": false,
+    "category": "animal-bird"
+  },
+  "🦚": {
+    "name": "peacock",
+    "fitzpatrick_scale": false,
+    "category": "animal-bird"
+  },
+  "🦜": {
+    "name": "parrot",
+    "fitzpatrick_scale": false,
+    "category": "animal-bird"
+  },
+  "🦞": {
+    "name": "lobster",
+    "fitzpatrick_scale": false,
+    "category": "animal-marine"
+  },
+  "🦟": {
+    "name": "mosquito",
+    "fitzpatrick_scale": false,
+    "category": "animal-bug"
+  },
+  "🦠": {
+    "name": "microbe",
+    "fitzpatrick_scale": false,
+    "category": "animal-bug"
+  },
+  "🥭": {
+    "name": "mango",
+    "fitzpatrick_scale": false,
+    "category": "food-fruit"
+  },
+  "🥬": {
+    "name": "leafy_green",
+    "fitzpatrick_scale": false,
+    "category": "food-vegetable"
+  },
+  "🥯": {
+    "name": "bagel",
+    "fitzpatrick_scale": false,
+    "category": "food-prepared"
+  },
+  "🧂": {
+    "name": "salt",
+    "fitzpatrick_scale": false,
+    "category": "food-prepared"
+  },
+  "🥮": {
+    "name": "moon_cake",
+    "fitzpatrick_scale": false,
+    "category": "food-asian"
+  },
+  "🧁": {
+    "name": "cupcake",
+    "fitzpatrick_scale": false,
+    "category": "food-sweet"
+  },
+  "🧭": {
+    "name": "compass",
+    "fitzpatrick_scale": false,
+    "category": "place-map"
+  },
+  "🧱": {
+    "name": "brick",
+    "fitzpatrick_scale": false,
+    "category": "place-building"
+  },
+  "🛹": {
+    "name": "skateboard",
+    "fitzpatrick_scale": false,
+    "category": "transport-ground"
+  },
+  "🧳": {
+    "name": "luggage",
+    "fitzpatrick_scale": false,
+    "category": "hotel"
+  },
+  "🧨": {
+    "name": "firecracker",
+    "fitzpatrick_scale": false,
+    "category": "event"
+  },
+  "🧧": {
+    "name": "red_gift_envelope",
+    "fitzpatrick_scale": false,
+    "category": "event"
+  },
+  "🥎": {
+    "name": "softball",
+    "fitzpatrick_scale": false,
+    "category": "sport"
+  },
+  "🥏": {
+    "name": "flying_disc",
+    "fitzpatrick_scale": false,
+    "category": "sport"
+  },
+  "🥍": {
+    "name": "lacrosse",
+    "fitzpatrick_scale": false,
+    "category": "sport"
+  },
+  "🧿": {
+    "name": "nazar_amulet",
+    "fitzpatrick_scale": false,
+    "category": "game"
+  },
+  "🧩": {
+    "name": "jigsaw",
+    "fitzpatrick_scale": false,
+    "category": "game"
+  },
+  "🧸": {
+    "name": "teddy_bear",
+    "fitzpatrick_scale": false,
+    "category": "game"
+  },
+  "♟️": {
+    "name": "chess_pawn",
+    "fitzpatrick_scale": false
+  },
+  "🧵": {
+    "name": "thread",
+    "fitzpatrick_scale": false,
+    "category": "arts & crafts"
+  },
+  "🧶": {
+    "name": "yarn",
+    "fitzpatrick_scale": false,
+    "category": "arts & crafts"
+  },
+  "🧮": {
+    "name": "abacus",
+    "fitzpatrick_scale": false,
+    "category": "computer"
+  },
+  "🧾": {
+    "name": "receipt",
+    "fitzpatrick_scale": false,
+    "category": "money"
+  },
+  "🧰": {
+    "name": "toolbox",
+    "fitzpatrick_scale": false,
+    "category": "tool"
+  },
+  "🧲": {
+    "name": "magnet",
+    "fitzpatrick_scale": false,
+    "category": "tool"
+  },
+  "🧪": {
+    "name": "test_tube",
+    "fitzpatrick_scale": false,
+    "category": "science"
+  },
+  "🧫": {
+    "name": "petri_dish",
+    "fitzpatrick_scale": false,
+    "category": "science"
+  },
+  "🧬": {
+    "name": "dna",
+    "fitzpatrick_scale": false,
+    "category": "science"
+  },
+  "🧴": {
+    "name": "lotion_bottle",
+    "fitzpatrick_scale": false,
+    "category": "household"
+  },
+  "🧷": {
+    "name": "safety_pin",
+    "fitzpatrick_scale": false,
+    "category": "household"
+  },
+  "🧹": {
+    "name": "broom",
+    "fitzpatrick_scale": false,
+    "category": "household"
+  },
+  "🧺": {
+    "name": "basket",
+    "fitzpatrick_scale": false,
+    "category": "household"
+  },
+  "🧻": {
+    "name": "roll_of_toilet_paper",
+    "fitzpatrick_scale": false,
+    "category": "household"
+  },
+  "🧼": {
+    "name": "soap",
+    "fitzpatrick_scale": false,
+    "category": "household"
+  },
+  "🧽": {
+    "name": "sponge",
+    "fitzpatrick_scale": false,
+    "category": "household"
+  },
+  "🧯": {
+    "name": "fire_extinguisher",
+    "fitzpatrick_scale": false,
+    "category": "household"
+  },
+  "♾️": {
+    "name": "infinity",
+    "fitzpatrick_scale": false
+  },
+  "🏴‍☠️": {
+    "name": "pirate_flag",
+    "fitzpatrick_scale": false,
+    "category": "flag"
   }
 }
