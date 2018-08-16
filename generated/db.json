@@ -7904,9 +7904,10 @@
     "fitzpatrick_scale": false,
     "category": "household"
   },
-  "♾️": {
+  "♾": {
     "name": "infinity",
-    "fitzpatrick_scale": false
+    "fitzpatrick_scale": false,
+    "category": "other-symbol"
   },
   "🏴‍☠️": {
     "name": "pirate_flag",
