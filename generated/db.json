@@ -1512,7 +1512,7 @@
   "🦑": {
     "name": "squid",
     "fitzpatrick_scale": false,
-    "category": "animal-marine"
+    "category": "food-marine"
   },
   "🐙": {
     "name": "octopus",
@@ -1522,7 +1522,7 @@
   "🦐": {
     "name": "shrimp",
     "fitzpatrick_scale": false,
-    "category": "animal-marine"
+    "category": "food-marine"
   },
   "🐵": {
     "name": "monkey_face",
@@ -1667,7 +1667,7 @@
   "🦀": {
     "name": "crab",
     "fitzpatrick_scale": false,
-    "category": "animal-marine"
+    "category": "food-marine"
   },
   "🐍": {
     "name": "snake",
@@ -7712,7 +7712,7 @@
   "🦞": {
     "name": "lobster",
     "fitzpatrick_scale": false,
-    "category": "animal-marine"
+    "category": "food-marine"
   },
   "🦟": {
     "name": "mosquito",
@@ -7814,9 +7814,10 @@
     "fitzpatrick_scale": false,
     "category": "game"
   },
-  "♟️": {
+  "♟": {
     "name": "chess_pawn",
-    "fitzpatrick_scale": false
+    "fitzpatrick_scale": false,
+    "category": "game"
   },
   "🧵": {
     "name": "thread",
