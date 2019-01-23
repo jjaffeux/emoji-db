@@ -2,212 +2,212 @@
   "😀": {
     "name": "grinning",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "😬": {
     "name": "grimacing",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-neutral-skeptical"
   },
   "😁": {
     "name": "grin",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "😂": {
     "name": "joy",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "🤣": {
     "name": "rofl",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "😃": {
     "name": "smiley",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "😄": {
     "name": "smile",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "😅": {
     "name": "sweat_smile",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "😆": {
     "name": "laughing",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "😇": {
     "name": "innocent",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-smiling"
   },
   "😉": {
     "name": "wink",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "😊": {
     "name": "blush",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "🙂": {
     "name": "slightly_smiling_face",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-smiling"
   },
   "🙃": {
     "name": "upside_down_face",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-smiling"
   },
   "☺": {
     "name": "relaxed",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-affection"
   },
   "😋": {
     "name": "yum",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-tongue"
   },
   "😌": {
     "name": "relieved",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-sleepy"
   },
   "😍": {
     "name": "heart_eyes",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-affection"
   },
   "😘": {
     "name": "kissing_heart",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-affection"
   },
   "😗": {
     "name": "kissing",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-affection"
   },
   "😙": {
     "name": "kissing_smiling_eyes",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-affection"
   },
   "😚": {
     "name": "kissing_closed_eyes",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-affection"
   },
   "😜": {
     "name": "stuck_out_tongue_winking_eye",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-tongue"
   },
   "😝": {
     "name": "stuck_out_tongue_closed_eyes",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-tongue"
   },
   "😛": {
     "name": "stuck_out_tongue",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-tongue"
   },
   "🤑": {
     "name": "money_mouth_face",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-tongue"
   },
   "🤓": {
     "name": "nerd_face",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-glasses"
   },
   "😎": {
     "name": "sunglasses",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-glasses"
   },
   "🤡": {
     "name": "clown_face",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-costume"
   },
   "🤠": {
     "name": "cowboy_hat_face",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-hat"
   },
   "🤗": {
     "name": "hugs",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-hand"
   },
   "😏": {
     "name": "smirk",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-neutral-skeptical"
   },
   "😶": {
     "name": "no_mouth",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-neutral-skeptical"
   },
   "😐": {
     "name": "neutral_face",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-neutral-skeptical"
   },
   "😑": {
     "name": "expressionless",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-neutral-skeptical"
   },
   "😒": {
     "name": "unamused",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-neutral-skeptical"
   },
   "🙄": {
     "name": "roll_eyes",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-neutral-skeptical"
   },
   "🤔": {
     "name": "thinking",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-hand"
   },
   "🤥": {
     "name": "lying_face",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-neutral-skeptical"
   },
   "😳": {
     "name": "flushed",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😞": {
     "name": "disappointed",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😟": {
     "name": "worried",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😠": {
     "name": "angry",
@@ -222,42 +222,42 @@
   "😔": {
     "name": "pensive",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-sleepy"
   },
   "😕": {
     "name": "confused",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-concerned"
   },
   "🙁": {
     "name": "slightly_frowning_face",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "☹": {
     "name": "frowning_face",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😣": {
     "name": "persevere",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-concerned"
   },
   "😖": {
     "name": "confounded",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😫": {
     "name": "tired_face",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-concerned"
   },
   "😩": {
     "name": "weary",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😤": {
     "name": "triumph",
@@ -267,112 +267,112 @@
   "😮": {
     "name": "open_mouth",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-concerned"
   },
   "😱": {
     "name": "scream",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😨": {
     "name": "fearful",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😰": {
     "name": "cold_sweat",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😯": {
     "name": "hushed",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-concerned"
   },
   "😦": {
     "name": "frowning",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😧": {
     "name": "anguished",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😢": {
     "name": "cry",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😥": {
     "name": "disappointed_relieved",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-concerned"
   },
   "🤤": {
     "name": "drooling_face",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-sleepy"
   },
   "😪": {
     "name": "sleepy",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-sleepy"
   },
   "😓": {
     "name": "sweat",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-concerned"
   },
   "😭": {
     "name": "sob",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-concerned"
   },
   "😵": {
     "name": "dizzy_face",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-unwell"
   },
   "😲": {
     "name": "astonished",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-concerned"
   },
   "🤐": {
     "name": "zipper_mouth_face",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-neutral-skeptical"
   },
   "🤢": {
     "name": "nauseated_face",
     "fitzpatrick_scale": false,
-    "category": "face-sick"
+    "category": "face-unwell"
   },
   "🤧": {
     "name": "sneezing_face",
     "fitzpatrick_scale": false,
-    "category": "face-sick"
+    "category": "face-unwell"
   },
   "😷": {
     "name": "mask",
     "fitzpatrick_scale": false,
-    "category": "face-sick"
+    "category": "face-unwell"
   },
   "🤒": {
     "name": "face_with_thermometer",
     "fitzpatrick_scale": false,
-    "category": "face-sick"
+    "category": "face-unwell"
   },
   "🤕": {
     "name": "face_with_head_bandage",
     "fitzpatrick_scale": false,
-    "category": "face-sick"
+    "category": "face-unwell"
   },
   "😴": {
     "name": "sleeping",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-sleepy"
   },
   "💤": {
     "name": "zzz",
@@ -382,47 +382,47 @@
   "💩": {
     "name": "poop",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-costume"
   },
   "😈": {
     "name": "smiling_imp",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-negative"
   },
   "👿": {
     "name": "imp",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-negative"
   },
   "👹": {
     "name": "japanese_ogre",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-costume"
   },
   "👺": {
     "name": "japanese_goblin",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-costume"
   },
   "💀": {
     "name": "skull",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-negative"
   },
   "👻": {
     "name": "ghost",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-costume"
   },
   "👽": {
     "name": "alien",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-costume"
   },
   "🤖": {
     "name": "robot",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-costume"
   },
   "😺": {
     "name": "smiley_cat",
@@ -472,202 +472,202 @@
   "🙌": {
     "name": "raised_hands",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hands"
   },
   "👏": {
     "name": "clap",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hands"
   },
   "👋": {
     "name": "wave",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-open"
   },
   "🤙": {
     "name": "call_me_hand",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-partial"
   },
   "👍": {
     "name": "+1",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-closed"
   },
   "👎": {
     "name": "-1",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-closed"
   },
   "👊": {
     "name": "facepunch",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-closed"
   },
   "✊": {
     "name": "fist",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-closed"
   },
   "🤛": {
     "name": "fist_left",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-closed"
   },
   "🤜": {
     "name": "fist_right",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-closed"
   },
   "✌": {
     "name": "v",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-partial"
   },
   "👌": {
     "name": "ok_hand",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-partial"
   },
   "✋": {
     "name": "raised_hand",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-open"
   },
   "🤚": {
     "name": "raised_back_of_hand",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-open"
   },
   "👐": {
     "name": "open_hands",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hands"
   },
   "💪": {
     "name": "muscle",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "body-parts"
   },
   "🙏": {
     "name": "pray",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hands"
   },
   "🤝": {
     "name": "handshake",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "hands"
   },
   "☝": {
     "name": "point_up",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-single-finger"
   },
   "👆": {
     "name": "point_up_2",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-single-finger"
   },
   "👇": {
     "name": "point_down",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-single-finger"
   },
   "👈": {
     "name": "point_left",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-single-finger"
   },
   "👉": {
     "name": "point_right",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-single-finger"
   },
   "🖕": {
     "name": "fu",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-single-finger"
   },
   "🖐": {
     "name": "raised_hand_with_fingers_splayed",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-open"
   },
   "🤘": {
     "name": "metal",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-partial"
   },
   "🤞": {
     "name": "crossed_fingers",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-partial"
   },
   "🖖": {
     "name": "vulcan_salute",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-open"
   },
   "✍": {
     "name": "writing_hand",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-prop"
   },
   "🤳": {
     "name": "selfie",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-prop"
   },
   "💅": {
     "name": "nail_care",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-prop"
   },
   "👄": {
     "name": "lips",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "body-parts"
   },
   "👅": {
     "name": "tongue",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "body-parts"
   },
   "👂": {
     "name": "ear",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "body-parts"
   },
   "👃": {
     "name": "nose",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "body-parts"
   },
   "👁": {
     "name": "eye",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "body-parts"
   },
   "👀": {
     "name": "eyes",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "body-parts"
   },
   "👤": {
     "name": "bust_in_silhouette",
     "fitzpatrick_scale": false,
-    "category": "person-activity"
+    "category": "person-symbol"
   },
   "👥": {
     "name": "busts_in_silhouette",
     "fitzpatrick_scale": false,
-    "category": "person-activity"
+    "category": "person-symbol"
   },
   "🗣": {
     "name": "speaking_head",
     "fitzpatrick_scale": false,
-    "category": "person-activity"
+    "category": "person-symbol"
   },
   "👶": {
     "name": "baby",
@@ -1337,7 +1337,7 @@
   "👣": {
     "name": "footprints",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "person-symbol"
   },
   "👠": {
     "name": "high_heel",
@@ -2867,7 +2867,7 @@
   "🛀": {
     "name": "bath",
     "fitzpatrick_scale": true,
-    "category": "person-activity"
+    "category": "person-resting"
   },
   "⛹️‍♀️": {
     "name": "basketball_woman",
@@ -3057,7 +3057,7 @@
   "👾": {
     "name": "space_invader",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-costume"
   },
   "🎯": {
     "name": "dart",
@@ -3107,7 +3107,7 @@
   "🏎": {
     "name": "racing_car",
     "fitzpatrick_scale": false,
-    "category": "person-sport"
+    "category": "transport-ground"
   },
   "🚓": {
     "name": "police_car",
@@ -3152,7 +3152,7 @@
   "🏍": {
     "name": "motorcycle",
     "fitzpatrick_scale": false,
-    "category": "person-sport"
+    "category": "transport-ground"
   },
   "🚲": {
     "name": "bike",
@@ -4017,7 +4017,7 @@
   "☠": {
     "name": "skull_and_crossbones",
     "fitzpatrick_scale": false,
-    "category": "face-fantasy"
+    "category": "face-negative"
   },
   "⚰": {
     "name": "coffin",
@@ -4127,7 +4127,7 @@
   "🛌": {
     "name": "sleeping_bed",
     "fitzpatrick_scale": true,
-    "category": "person-activity"
+    "category": "person-resting"
   },
   "🛏": {
     "name": "bed",
@@ -5017,7 +5017,7 @@
   "💯": {
     "name": "100",
     "fitzpatrick_scale": false,
-    "category": "alphanum"
+    "category": "emotion"
   },
   "🔅": {
     "name": "low_brightness",
@@ -7162,22 +7162,22 @@
   "🤩": {
     "name": "star_struck",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-affection"
   },
   "🤨": {
     "name": "face_with_raised_eyebrow",
     "fitzpatrick_scale": false,
-    "category": "face-neutral"
+    "category": "face-neutral-skeptical"
   },
   "🤯": {
     "name": "exploding_head",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-unwell"
   },
   "🤪": {
     "name": "crazy_face",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-tongue"
   },
   "🤬": {
     "name": "face_with_symbols_over_mouth",
@@ -7187,22 +7187,22 @@
   "🤮": {
     "name": "face_vomiting",
     "fitzpatrick_scale": false,
-    "category": "face-sick"
+    "category": "face-unwell"
   },
   "🤫": {
     "name": "shushing_face",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-hand"
   },
   "🤭": {
     "name": "face_with_hand_over_mouth",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-hand"
   },
   "🧐": {
     "name": "face_with_monocle",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-glasses"
   },
   "🧒": {
     "name": "child",
@@ -7312,27 +7312,27 @@
   "🧘": {
     "name": "person_in_lotus_position",
     "fitzpatrick_scale": true,
-    "category": "person-activity"
+    "category": "person-resting"
   },
   "🧘‍♀️": {
     "name": "woman_in_lotus_position",
     "fitzpatrick_scale": true,
-    "category": "person-activity"
+    "category": "person-resting"
   },
   "🤟": {
     "name": "love_you_gesture",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hand-fingers-partial"
   },
   "🤲": {
     "name": "palms_up_together",
     "fitzpatrick_scale": true,
-    "category": "body"
+    "category": "hands"
   },
   "🧠": {
     "name": "brain",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "body-parts"
   },
   "🧡": {
     "name": "orange_heart",
@@ -7532,32 +7532,32 @@
   "🥰": {
     "name": "smiling_face_with_three_hearts",
     "fitzpatrick_scale": false,
-    "category": "face-positive"
+    "category": "face-affection"
   },
   "🥵": {
     "name": "hot_face",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-unwell"
   },
   "🥶": {
     "name": "cold_face",
     "fitzpatrick_scale": false,
-    "category": "face-negative"
+    "category": "face-unwell"
   },
   "🥳": {
     "name": "partying_face",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-hat"
   },
   "🥴": {
     "name": "woozy_face",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-unwell"
   },
   "🥺": {
     "name": "pleading_face",
     "fitzpatrick_scale": false,
-    "category": "face-role"
+    "category": "face-concerned"
   },
   "👨‍🦰": {
     "name": "man_red_haired",
@@ -7632,22 +7632,22 @@
   "🦵": {
     "name": "leg",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "body-parts"
   },
   "🦶": {
     "name": "foot",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "body-parts"
   },
   "🦴": {
     "name": "bone",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "body-parts"
   },
   "🦷": {
     "name": "tooth",
     "fitzpatrick_scale": false,
-    "category": "body"
+    "category": "body-parts"
   },
   "🥽": {
     "name": "goggles",
