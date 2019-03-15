@@ -13,11 +13,11 @@ TASKS = [
     :platform_cells => {
       :apple => 3,
       :google => 4,
-      :twitter => 5,
-      :emoji_one => 6,
-      :facebook => 7,
-      :samsung => 8,
-      :windows => 9
+      :twitter => 7,
+      :emoji_one => 8,
+      :facebook => 5,
+      :samsung => 9,
+      :windows => 6
     }
   }
 ]
