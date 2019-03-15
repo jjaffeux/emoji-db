@@ -57,34 +57,47 @@ task :default do
     table.css("tr").each do |row|
       cells = row.css("td")
 
-      # skip header and section rows
-      next if cells.size != 15
+      if cells.size == 5
+        code = cells[1].at_css("a")["name"]
+        emoji = code_to_emoji(code)
+        name = base_db[emoji]
+        next unless name
+        image = cells[3].at_css('img:last-of-type')
+        next unless image
+        image = Base64.decode64(image["src"][/base64,(.+)$/, 1])
 
-      code = cells[1].at_css("a")["name"]
-      emoji = code_to_emoji(code)
-
-      if name = base_db[emoji]
         task[:platform_cells].each do |style, index|
-          image = cell_to_img(cells[index])
-          next unless image
           style_path = File.join("generated", style.to_s)
           FileUtils.mkdir_p(style_path)
           write_emoji(File.join(style_path, "#{name}.png"), image)
         end
-      elsif FITZPATRICK_SCALE.any? { |scale| code[scale] }
-        unscaled_codes = code.split("_")
-        unscaled_codes.delete_at(1)
-        unscaled_code = unscaled_codes.join("_")
-        scale_index = FITZPATRICK_SCALE.index(code.split("_")[1]) + 2
-        unscaled_emoji = code_to_emoji(unscaled_code)
+      elsif cells.size == 15
+        code = cells[1].at_css("a")["name"]
+        emoji = code_to_emoji(code)
 
-        if name = base_db[unscaled_emoji]
+        if name = base_db[emoji]
           task[:platform_cells].each do |style, index|
             image = cell_to_img(cells[index])
             next unless image
-            style_path = File.join("generated", style.to_s, name)
+            style_path = File.join("generated", style.to_s)
             FileUtils.mkdir_p(style_path)
-            write_emoji(File.join(style_path, "#{scale_index}.png"), image)
+            write_emoji(File.join(style_path, "#{name}.png"), image)
+          end
+        elsif FITZPATRICK_SCALE.any? { |scale| code[scale] }
+          unscaled_codes = code.split("_")
+          unscaled_codes.delete_at(1)
+          unscaled_code = unscaled_codes.join("_")
+          scale_index = FITZPATRICK_SCALE.index(code.split("_")[1]) + 2
+          unscaled_emoji = code_to_emoji(unscaled_code)
+
+          if name = base_db[unscaled_emoji]
+            task[:platform_cells].each do |style, index|
+              image = cell_to_img(cells[index])
+              next unless image
+              style_path = File.join("generated", style.to_s, name)
+              FileUtils.mkdir_p(style_path)
+              write_emoji(File.join(style_path, "#{scale_index}.png"), image)
+            end
           end
         end
       end

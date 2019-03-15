@@ -7914,6 +7914,30 @@
       "name": "pirate_flag",
       "fitzpatrick_scale": false,
       "category": "flag"
+    },
+    "🧇": {
+      "name": "waffle",
+      "fitzpatrick_scale": false
+    },
+    "🦦": {
+      "name": "otter",
+      "fitzpatrick_scale": false
+    },
+    "🦥": {
+      "name": "sloth",
+      "fitzpatrick_scale": false
+    },
+    "🧊": {
+      "name": "ice_cube",
+      "fitzpatrick_scale": false
+    },
+    "🪐": {
+      "name": "ringer_planet",
+      "fitzpatrick_scale": false
+    },
+    "🦩": {
+      "name": "flamingo",
+      "fitzpatrick_scale": false
     }
   },
   "translations": {
