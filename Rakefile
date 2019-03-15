@@ -5,6 +5,7 @@ require "base64"
 require "fileutils"
 
 CURRENT_EMOJI_LIST = "https://unicode.org/emoji/charts/full-emoji-list.html"
+EMOJI_ORDERING_LIST = "https://unicode.org/emoji/charts/emoji-ordering.html"
 
 TASKS = [
   {
@@ -116,6 +117,57 @@ task :default do
     end
   end
 
+  translations = {
+    ':)' => 'slight_smile',
+    ':-)' => 'slight_smile',
+    '^_^' => 'slight_smile',
+    '^__^' => 'slight_smile',
+    ':(' => 'frowning',
+    ':-(' => 'frowning',
+    ';)' => 'wink',
+    ';-)' => 'wink',
+    ":'(" => 'cry',
+    ":'-(" => 'cry',
+    ":-'(" => 'cry',
+    ':p' => 'stuck_out_tongue',
+    ':P' => 'stuck_out_tongue',
+    ':-P' => 'stuck_out_tongue',
+    ':O' => 'open_mouth',
+    ':-O' => 'open_mouth',
+    ':D' => 'smiley',
+    ':-D' => 'smiley',
+    ':|' => 'expressionless',
+    ':-|' => 'expressionless',
+    ':/' => 'confused',
+    '8-)' => 'sunglasses',
+    ';P' => 'stuck_out_tongue_winking_eye',
+    ';-P' => 'stuck_out_tongue_winking_eye',
+    ':$' => 'blush',
+    ':-$' => 'blush'
+  }
+
+  sections = {}
+
+  list = open(EMOJI_ORDERING_LIST).read
+  doc = Nokogiri::HTML(list)
+  table = doc.css("table")[0]
+  section = nil
+  table.css("tr th").each do |row|
+    section_name = row.css("a").attr("name").value
+
+    if row.attr('class') === 'bighead'
+      section = section_name
+      sections[section] = {
+        fullname: row.css("a").text,
+        sub_sections: []
+      }
+    else
+      sections[section][:sub_sections] << section_name
+    end
+  end
+
+  sections.delete("component")
+
   db_path = File.join("generated", "db.json")
-  File.write(db_path, JSON.pretty_generate(emojis))
+  File.write(db_path, JSON.pretty_generate(emojis: emojis, translations: translations, sections: sections))
 end
