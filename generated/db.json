@@ -1055,7 +1055,7 @@
       "fitzpatrick_scale": true,
       "category": "person-gesture"
     },
-    "💁": {
+    "💁‍♀️": {
       "name": "tipping_hand_woman",
       "fitzpatrick_scale": true,
       "category": "person-gesture"
@@ -1065,7 +1065,7 @@
       "fitzpatrick_scale": true,
       "category": "person-gesture"
     },
-    "🙅": {
+    "🙅‍♀️": {
       "name": "no_good_woman",
       "fitzpatrick_scale": true,
       "category": "person-gesture"
@@ -1075,7 +1075,7 @@
       "fitzpatrick_scale": true,
       "category": "person-gesture"
     },
-    "🙆": {
+    "🙆‍♀️": {
       "name": "ok_woman",
       "fitzpatrick_scale": true,
       "category": "person-gesture"
@@ -1085,7 +1085,7 @@
       "fitzpatrick_scale": true,
       "category": "person-gesture"
     },
-    "🙋": {
+    "🙋‍♀️": {
       "name": "raising_hand_woman",
       "fitzpatrick_scale": true,
       "category": "person-gesture"
@@ -1095,7 +1095,7 @@
       "fitzpatrick_scale": true,
       "category": "person-gesture"
     },
-    "🙎": {
+    "🙎‍♀️": {
       "name": "pouting_woman",
       "fitzpatrick_scale": true,
       "category": "person-gesture"
@@ -1105,7 +1105,7 @@
       "fitzpatrick_scale": true,
       "category": "person-gesture"
     },
-    "🙍": {
+    "🙍‍♀️": {
       "name": "frowning_woman",
       "fitzpatrick_scale": true,
       "category": "person-gesture"
@@ -1115,7 +1115,7 @@
       "fitzpatrick_scale": true,
       "category": "person-gesture"
     },
-    "💇": {
+    "💇‍♀️": {
       "name": "haircut_woman",
       "fitzpatrick_scale": true,
       "category": "person-activity"
@@ -1125,7 +1125,7 @@
       "fitzpatrick_scale": true,
       "category": "person-activity"
     },
-    "💆": {
+    "💆‍♀️": {
       "name": "massage_woman",
       "fitzpatrick_scale": true,
       "category": "person-activity"
