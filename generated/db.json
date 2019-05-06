@@ -7938,6 +7938,38 @@
     "🦩": {
       "name": "flamingo",
       "fitzpatrick_scale": false
+    },
+    "🥱": {
+      "name": "yawning_face",
+      "fitzpatrick_scale": false
+    },
+    "🤏": {
+      "name": "pinching_hand",
+      "fitzpatrick_scale": false
+    },
+    "🐕‍🦺": {
+      "name": "service_dog",
+      "fitzpatrick_scale": false
+    },
+    "🦧": {
+      "name": "orangutan",
+      "fitzpatrick_scale": false
+    },
+    "🛺": {
+      "name": "auto_rickshaw",
+      "fitzpatrick_scale": false
+    },
+    "🪂": {
+      "name": "parachute",
+      "fitzpatrick_scale": false
+    },
+    "🪀": {
+      "name": "yo-yo",
+      "fitzpatrick_scale": false
+    },
+    "🪁": {
+      "name": "kite",
+      "fitzpatrick_scale": false
     }
   },
   "translations": {
