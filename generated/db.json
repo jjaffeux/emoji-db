@@ -7970,6 +7970,238 @@
     "🪁": {
       "name": "kite",
       "fitzpatrick_scale": false
+    },
+    "🟫": {
+      "name": "brown_square",
+      "fitzpatrick_scale": false
+    },
+    "🟪": {
+      "name": "purple_square",
+      "fitzpatrick_scale": false
+    },
+    "🟦": {
+      "name": "blue_square",
+      "fitzpatrick_scale": false
+    },
+    "🟩": {
+      "name": "green_square",
+      "fitzpatrick_scale": false
+    },
+    "🟨": {
+      "name": "yellow_square",
+      "fitzpatrick_scale": false
+    },
+    "🟧": {
+      "name": "orange_square",
+      "fitzpatrick_scale": false
+    },
+    "🟥": {
+      "name": "red_square",
+      "fitzpatrick_scale": false
+    },
+    "🟤": {
+      "name": "brown_circle",
+      "fitzpatrick_scale": false
+    },
+    "🟣": {
+      "name": "purple_circle",
+      "fitzpatrick_scale": false
+    },
+    "🟢": {
+      "name": "green_circle",
+      "fitzpatrick_scale": false
+    },
+    "🟡": {
+      "name": "yellow_circle",
+      "fitzpatrick_scale": false
+    },
+    "🟠": {
+      "name": "orange_circle",
+      "fitzpatrick_scale": false
+    },
+    "🪒": {
+      "name": "razor",
+      "fitzpatrick_scale": false
+    },
+    "🪑": {
+      "name": "chair",
+      "fitzpatrick_scale": false
+    },
+    "🩺": {
+      "name": "stethoscope",
+      "fitzpatrick_scale": false
+    },
+    "🩹": {
+      "name": "adhesive_bandage",
+      "fitzpatrick_scale": false
+    },
+    "🩸": {
+      "name": "drop_of_blood",
+      "fitzpatrick_scale": false
+    },
+    "🦯": {
+      "name": "probing_cane",
+      "fitzpatrick_scale": false
+    },
+    "🪓": {
+      "name": "axe",
+      "fitzpatrick_scale": false
+    },
+    "🪔": {
+      "name": "diya_lamp",
+      "fitzpatrick_scale": false
+    },
+    "🪕": {
+      "name": "banjo",
+      "fitzpatrick_scale": false
+    },
+    "🩰": {
+      "name": "ballet_shoes",
+      "fitzpatrick_scale": false
+    },
+    "🩳": {
+      "name": "shorts",
+      "fitzpatrick_scale": false
+    },
+    "🩲": {
+      "name": "briefs",
+      "fitzpatrick_scale": false
+    },
+    "🩱": {
+      "name": "one_piece_swimsuit",
+      "fitzpatrick_scale": false
+    },
+    "🥻": {
+      "name": "sari",
+      "fitzpatrick_scale": false
+    },
+    "🦺": {
+      "name": "safety_vest",
+      "fitzpatrick_scale": false
+    },
+    "🤿": {
+      "name": "diving_mask",
+      "fitzpatrick_scale": false
+    },
+    "🦼": {
+      "name": "motorized_wheelchair",
+      "fitzpatrick_scale": false
+    },
+    "🦽": {
+      "name": "manual_wheelchair",
+      "fitzpatrick_scale": false
+    },
+    "🛕": {
+      "name": "hindu_temple",
+      "fitzpatrick_scale": false
+    },
+    "🧉": {
+      "name": "maté",
+      "fitzpatrick_scale": false
+    },
+    "🧃": {
+      "name": "beverage_box",
+      "fitzpatrick_scale": false
+    },
+    "🦪": {
+      "name": "oyster",
+      "fitzpatrick_scale": false
+    },
+    "🧈": {
+      "name": "butter",
+      "fitzpatrick_scale": false
+    },
+    "🧆": {
+      "name": "falafel",
+      "fitzpatrick_scale": false
+    },
+    "🧅": {
+      "name": "onion",
+      "fitzpatrick_scale": false
+    },
+    "🧄": {
+      "name": "garlic",
+      "fitzpatrick_scale": false
+    },
+    "🦨": {
+      "name": "skunk",
+      "fitzpatrick_scale": false
+    },
+    "🦮": {
+      "name": "guide_dog",
+      "fitzpatrick_scale": false
+    },
+    "🧑‍🤝‍🧑": {
+      "name": "people_holding_hands",
+      "fitzpatrick_scale": false
+    },
+    "👩‍🦽": {
+      "name": "woman_in_manual_wheelchair",
+      "fitzpatrick_scale": false
+    },
+    "👨‍🦽": {
+      "name": "man_in_manual_wheelchair",
+      "fitzpatrick_scale": false
+    },
+    "👩‍🦼": {
+      "name": "woman_in_motorized_wheelchair",
+      "fitzpatrick_scale": false
+    },
+    "👨‍🦼": {
+      "name": "man_in_motorized_wheelchair",
+      "fitzpatrick_scale": false
+    },
+    "👩‍🦯": {
+      "name": "woman_with_probing_cane",
+      "fitzpatrick_scale": false
+    },
+    "👨‍🦯": {
+      "name": "man_with_probing_cane",
+      "fitzpatrick_scale": false
+    },
+    "🧎‍♀️": {
+      "name": "woman_kneeling",
+      "fitzpatrick_scale": false
+    },
+    "🧎‍♂️": {
+      "name": "man_kneeling",
+      "fitzpatrick_scale": false
+    },
+    "🧍‍♂️": {
+      "name": "man_standing",
+      "fitzpatrick_scale": false
+    },
+    "🧍‍♀️": {
+      "name": "woman_standing",
+      "fitzpatrick_scale": false
+    },
+    "🧏‍♀️": {
+      "name": "deaf_woman",
+      "fitzpatrick_scale": false
+    },
+    "🧏‍♂️": {
+      "name": "deaf_man",
+      "fitzpatrick_scale": false
+    },
+    "🦻": {
+      "name": "hear_with_hearing_aid",
+      "fitzpatrick_scale": false
+    },
+    "🦿": {
+      "name": "mechanical_leg",
+      "fitzpatrick_scale": false
+    },
+    "🦾": {
+      "name": "mechanical_arm",
+      "fitzpatrick_scale": false
+    },
+    "🤍": {
+      "name": "white_heart",
+      "fitzpatrick_scale": false
+    },
+    "🤎": {
+      "name": "brown_heart",
+      "fitzpatrick_scale": false
     }
   },
   "translations": {
