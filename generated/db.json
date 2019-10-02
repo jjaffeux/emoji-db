@@ -7917,291 +7917,363 @@
     },
     "🧇": {
       "name": "waffle",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "food-prepared"
     },
     "🦦": {
       "name": "otter",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🦥": {
       "name": "sloth",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🧊": {
       "name": "ice_cube",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "drink"
     },
     "🪐": {
       "name": "ringer_planet",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "sky & weather"
     },
     "🦩": {
       "name": "flamingo",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-bird"
     },
     "🥱": {
       "name": "yawning_face",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "face-concerned"
     },
     "🤏": {
       "name": "pinching_hand",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "hand-fingers-partial"
     },
     "🐕‍🦺": {
       "name": "service_dog",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🦧": {
       "name": "orangutan",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🛺": {
       "name": "auto_rickshaw",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "transport-ground"
     },
     "🪂": {
       "name": "parachute",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "transport-air"
     },
     "🪀": {
       "name": "yo-yo",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "game"
     },
     "🪁": {
       "name": "kite",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "game"
     },
     "🟫": {
       "name": "brown_square",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟪": {
       "name": "purple_square",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟦": {
       "name": "blue_square",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟩": {
       "name": "green_square",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟨": {
       "name": "yellow_square",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟧": {
       "name": "orange_square",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟥": {
       "name": "red_square",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟤": {
       "name": "brown_circle",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟣": {
       "name": "purple_circle",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟢": {
       "name": "green_circle",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟡": {
       "name": "yellow_circle",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🟠": {
       "name": "orange_circle",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "geometric"
     },
     "🪒": {
       "name": "razor",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "household"
     },
     "🪑": {
       "name": "chair",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "household"
     },
     "🩺": {
       "name": "stethoscope",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "medical"
     },
     "🩹": {
       "name": "adhesive_bandage",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "medical"
     },
     "🩸": {
       "name": "drop_of_blood",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "medical"
     },
     "🦯": {
       "name": "probing_cane",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "tool"
     },
     "🪓": {
       "name": "axe",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "tool"
     },
     "🪔": {
       "name": "diya_lamp",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "light & video"
     },
     "🪕": {
       "name": "banjo",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "musical-instrument"
     },
     "🩰": {
       "name": "ballet_shoes",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "clothing"
     },
     "🩳": {
       "name": "shorts",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "clothing"
     },
     "🩲": {
       "name": "briefs",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "clothing"
     },
     "🩱": {
       "name": "one_piece_swimsuit",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "clothing"
     },
     "🥻": {
       "name": "sari",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "clothing"
     },
     "🦺": {
       "name": "safety_vest",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "clothing"
     },
     "🤿": {
       "name": "diving_mask",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "sport"
     },
     "🦼": {
       "name": "motorized_wheelchair",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "transport-ground"
     },
     "🦽": {
       "name": "manual_wheelchair",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "transport-ground"
     },
     "🛕": {
       "name": "hindu_temple",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "place-religious"
     },
     "🧉": {
       "name": "maté",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "drink"
     },
     "🧃": {
       "name": "beverage_box",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "drink"
     },
     "🦪": {
       "name": "oyster",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "food-marine"
     },
     "🧈": {
       "name": "butter",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "food-prepared"
     },
     "🧆": {
       "name": "falafel",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "food-prepared"
     },
     "🧅": {
       "name": "onion",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "food-vegetable"
     },
     "🧄": {
       "name": "garlic",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "food-vegetable"
     },
     "🦨": {
       "name": "skunk",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🦮": {
       "name": "guide_dog",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🧑‍🤝‍🧑": {
       "name": "people_holding_hands",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "family"
     },
     "👩‍🦽": {
       "name": "woman_in_manual_wheelchair",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "👨‍🦽": {
       "name": "man_in_manual_wheelchair",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "👩‍🦼": {
       "name": "woman_in_motorized_wheelchair",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "👨‍🦼": {
       "name": "man_in_motorized_wheelchair",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "👩‍🦯": {
       "name": "woman_with_probing_cane",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "👨‍🦯": {
       "name": "man_with_probing_cane",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "🧎‍♀️": {
       "name": "woman_kneeling",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "🧎‍♂️": {
       "name": "man_kneeling",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "🧍‍♂️": {
       "name": "man_standing",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "🧍‍♀️": {
       "name": "woman_standing",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
     },
     "🧏‍♀️": {
       "name": "deaf_woman",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-gesture"
     },
     "🧏‍♂️": {
       "name": "deaf_man",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-gesture"
     },
     "🦻": {
       "name": "hear_with_hearing_aid",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "body-parts"
     },
     "🦿": {
       "name": "mechanical_leg",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "body-parts"
     },
     "🦾": {
       "name": "mechanical_arm",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "body-parts"
     },
     "🤍": {
       "name": "white_heart",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "emotion"
     },
     "🤎": {
       "name": "brown_heart",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "emotion"
     }
   },
   "translations": {
