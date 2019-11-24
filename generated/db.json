@@ -8275,10 +8275,6 @@
       "fitzpatrick_scale": false,
       "category": "emotion"
     },
-    "⚧️": {
-      "name": "transgender_symbol",
-      "fitzpatrick_scale": false
-    },
     "🏳️‍⚧️": {
       "name": "transgender_flag",
       "fitzpatrick_scale": false
