@@ -4988,32 +4988,32 @@
     "❗": {
       "name": "exclamation",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "punctuation"
     },
     "❕": {
       "name": "grey_exclamation",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "punctuation"
     },
     "❓": {
       "name": "question",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "punctuation"
     },
     "❔": {
       "name": "grey_question",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "punctuation"
     },
     "‼": {
       "name": "bangbang",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "punctuation"
     },
     "⁉": {
       "name": "interrobang",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "punctuation"
     },
     "💯": {
       "name": "100",
@@ -5513,7 +5513,7 @@
     "〰": {
       "name": "wavy_dash",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "punctuation"
     },
     "➰": {
       "name": "curly_loop",
@@ -5533,32 +5533,32 @@
     "➕": {
       "name": "heavy_plus_sign",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "math"
     },
     "➖": {
       "name": "heavy_minus_sign",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "math"
     },
     "➗": {
       "name": "heavy_division_sign",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "math"
     },
     "✖": {
       "name": "heavy_multiplication_x",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "math"
     },
     "💲": {
       "name": "heavy_dollar_sign",
       "fitzpatrick_scale": false,
-      "category": "money"
+      "category": "currency"
     },
     "💱": {
       "name": "currency_exchange",
       "fitzpatrick_scale": false,
-      "category": "money"
+      "category": "currency"
     },
     "©": {
       "name": "copyright",
@@ -7908,7 +7908,7 @@
     "♾": {
       "name": "infinity",
       "fitzpatrick_scale": false,
-      "category": "other-symbol"
+      "category": "math"
     },
     "🏴‍☠️": {
       "name": "pirate_flag",
@@ -8277,7 +8277,287 @@
     },
     "🏳️‍⚧️": {
       "name": "transgender_flag",
+      "fitzpatrick_scale": false,
+      "category": "flag"
+    },
+    "🥲": {
+      "name": "smiling_face_with_tear",
+      "fitzpatrick_scale": false,
+      "category": "face-affection"
+    },
+    "🥸": {
+      "name": "disguised_face",
+      "fitzpatrick_scale": false,
+      "category": "face-hat"
+    },
+    "🤌": {
+      "name": "pinched_fingers",
+      "fitzpatrick_scale": false,
+      "category": "hand-fingers-partial"
+    },
+    "🫀": {
+      "name": "anatomical_heart",
       "fitzpatrick_scale": false
+    },
+    "🫁": {
+      "name": "lungs",
+      "fitzpatrick_scale": false
+    },
+    "🥷": {
+      "name": "ninja",
+      "fitzpatrick_scale": false,
+      "category": "person-role"
+    },
+    "": {
+      "name": "lungs",
+      "fitzpatrick_scale": false
+    },
+    "🧑‍🎄": {
+      "name": "mx_claus",
+      "fitzpatrick_scale": false
+    },
+    "🫂": {
+      "name": "people_hugging",
+      "fitzpatrick_scale": false,
+      "category": "person-symbol"
+    },
+    "🐈‍⬛": {
+      "name": "black_cat",
+      "fitzpatrick_scale": false
+    },
+    "🦬": {
+      "name": "bison",
+      "fitzpatrick_scale": false
+    },
+    "🦣": {
+      "name": "mammoth",
+      "fitzpatrick_scale": false
+    },
+    "🦫": {
+      "name": "beaver",
+      "fitzpatrick_scale": false
+    },
+    "🦤": {
+      "name": "dodo",
+      "fitzpatrick_scale": false
+    },
+    "🪶": {
+      "name": "feather",
+      "fitzpatrick_scale": false,
+      "category": "animal-bird"
+    },
+    "🦭": {
+      "name": "seal",
+      "fitzpatrick_scale": false
+    },
+    "🪲": {
+      "name": "beetle",
+      "fitzpatrick_scale": false
+    },
+    "🪳": {
+      "name": "cockroach",
+      "fitzpatrick_scale": false
+    },
+    "🪰": {
+      "name": "fly",
+      "fitzpatrick_scale": false
+    },
+    "🪱": {
+      "name": "worm",
+      "fitzpatrick_scale": false
+    },
+    "🪴": {
+      "name": "potted_plant",
+      "fitzpatrick_scale": false,
+      "category": "plant-other"
+    },
+    "🫐": {
+      "name": "blueberries",
+      "fitzpatrick_scale": false,
+      "category": "food-fruit"
+    },
+    "🫒": {
+      "name": "olive",
+      "fitzpatrick_scale": false,
+      "category": "food-fruit"
+    },
+    "🫑": {
+      "name": "bell_pepper",
+      "fitzpatrick_scale": false
+    },
+    "🫓": {
+      "name": "flatbread",
+      "fitzpatrick_scale": false,
+      "category": "food-prepared"
+    },
+    "🫔": {
+      "name": "tamale",
+      "fitzpatrick_scale": false,
+      "category": "food-prepared"
+    },
+    "🫕": {
+      "name": "fondue",
+      "fitzpatrick_scale": false,
+      "category": "food-prepared"
+    },
+    "🫖": {
+      "name": "teapot",
+      "fitzpatrick_scale": false
+    },
+    "🧋": {
+      "name": "bubble_tea",
+      "fitzpatrick_scale": false,
+      "category": "drink"
+    },
+    "🪨": {
+      "name": "rock",
+      "fitzpatrick_scale": false,
+      "category": "place-building"
+    },
+    "🪵": {
+      "name": "wood",
+      "fitzpatrick_scale": false,
+      "category": "place-building"
+    },
+    "🛖": {
+      "name": "hut",
+      "fitzpatrick_scale": false
+    },
+    "🛻": {
+      "name": "pickup_truck",
+      "fitzpatrick_scale": false
+    },
+    "🛼": {
+      "name": "roller_skate",
+      "fitzpatrick_scale": false,
+      "category": "transport-ground"
+    },
+    "🪄": {
+      "name": "magic_wand",
+      "fitzpatrick_scale": false,
+      "category": "game"
+    },
+    "🪅": {
+      "name": "piñata",
+      "fitzpatrick_scale": false,
+      "category": "game"
+    },
+    "🪆": {
+      "name": "nesting_dolls",
+      "fitzpatrick_scale": false,
+      "category": "game"
+    },
+    "🪡": {
+      "name": "sewing_needle",
+      "fitzpatrick_scale": false,
+      "category": "arts & crafts"
+    },
+    "🪢": {
+      "name": "knot",
+      "fitzpatrick_scale": false,
+      "category": "arts & crafts"
+    },
+    "🩴": {
+      "name": "thong_sandal",
+      "fitzpatrick_scale": false,
+      "category": "clothing"
+    },
+    "🪖": {
+      "name": "military_helmet",
+      "fitzpatrick_scale": false,
+      "category": "clothing"
+    },
+    "🪗": {
+      "name": "accordion",
+      "fitzpatrick_scale": false,
+      "category": "musical-instrument"
+    },
+    "🪘": {
+      "name": "long_drum",
+      "fitzpatrick_scale": false,
+      "category": "musical-instrument"
+    },
+    "🪙": {
+      "name": "coin",
+      "fitzpatrick_scale": false,
+      "category": "money"
+    },
+    "🪃": {
+      "name": "boomerang",
+      "fitzpatrick_scale": false,
+      "category": "tool"
+    },
+    "🪚": {
+      "name": "carpentry_saw",
+      "fitzpatrick_scale": false
+    },
+    "🪛": {
+      "name": "screwdriver",
+      "fitzpatrick_scale": false,
+      "category": "tool"
+    },
+    "🪝": {
+      "name": "hook",
+      "fitzpatrick_scale": false,
+      "category": "tool"
+    },
+    "🪜": {
+      "name": "ladder",
+      "fitzpatrick_scale": false,
+      "category": "tool"
+    },
+    "🪞": {
+      "name": "mirror",
+      "fitzpatrick_scale": false
+    },
+    "🪟": {
+      "name": "window",
+      "fitzpatrick_scale": false
+    },
+    "🪠": {
+      "name": "plunger",
+      "fitzpatrick_scale": false,
+      "category": "household"
+    },
+    "🪤": {
+      "name": "mouse_trap",
+      "fitzpatrick_scale": false
+    },
+    "🪣": {
+      "name": "bucket",
+      "fitzpatrick_scale": false,
+      "category": "household"
+    },
+    "🪥": {
+      "name": "toothbrush",
+      "fitzpatrick_scale": false,
+      "category": "household"
+    },
+    "🪦": {
+      "name": "headstone",
+      "fitzpatrick_scale": false
+    },
+    "🪧": {
+      "name": "placard",
+      "fitzpatrick_scale": false,
+      "category": "other-object"
+    },
+    "⚧️": {
+      "name": "transgender_symbol",
+      "fitzpatrick_scale": false
+    },
+    "👨‍🍼": {
+      "name": "man_feeding_baby",
+      "fitzpatrick_scale": false
+    },
+    "🧑‍🍼": {
+      "name": "person_feeding_baby",
+      "fitzpatrick_scale": false
+    },
+    "🐻‍❄️": {
+      "name": "polar_bear",
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     }
   },
   "translations": {
@@ -8435,6 +8715,9 @@
         "zodiac",
         "av-symbol",
         "gender",
+        "math",
+        "punctuation",
+        "currency",
         "other-symbol",
         "keycap",
         "alphanum",
