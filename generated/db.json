@@ -70,10 +70,9 @@
       "fitzpatrick_scale": false,
       "category": "face-smiling"
     },
-    "☺": {
+    "☺️": {
       "name": "relaxed",
-      "fitzpatrick_scale": false,
-      "category": "face-affection"
+      "fitzpatrick_scale": false
     },
     "😋": {
       "name": "yum",
@@ -235,10 +234,9 @@
       "fitzpatrick_scale": false,
       "category": "face-concerned"
     },
-    "☹": {
+    "☹️": {
       "name": "frowning_face",
-      "fitzpatrick_scale": false,
-      "category": "face-concerned"
+      "fitzpatrick_scale": false
     },
     "😣": {
       "name": "persevere",
@@ -8297,11 +8295,13 @@
     },
     "🫀": {
       "name": "anatomical_heart",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "body-parts"
     },
     "🫁": {
       "name": "lungs",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "body-parts"
     },
     "🥷": {
       "name": "ninja",
@@ -8314,7 +8314,8 @@
     },
     "🧑‍🎄": {
       "name": "mx_claus",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-fantasy"
     },
     "🫂": {
       "name": "people_hugging",
@@ -8323,23 +8324,28 @@
     },
     "🐈‍⬛": {
       "name": "black_cat",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🦬": {
       "name": "bison",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🦣": {
       "name": "mammoth",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🦫": {
       "name": "beaver",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-mammal"
     },
     "🦤": {
       "name": "dodo",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-bird"
     },
     "🪶": {
       "name": "feather",
@@ -8348,23 +8354,28 @@
     },
     "🦭": {
       "name": "seal",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-marine"
     },
     "🪲": {
       "name": "beetle",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-bug"
     },
     "🪳": {
       "name": "cockroach",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-bug"
     },
     "🪰": {
       "name": "fly",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-bug"
     },
     "🪱": {
       "name": "worm",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "animal-bug"
     },
     "🪴": {
       "name": "potted_plant",
@@ -8383,7 +8394,8 @@
     },
     "🫑": {
       "name": "bell_pepper",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "food-vegetable"
     },
     "🫓": {
       "name": "flatbread",
@@ -8402,7 +8414,8 @@
     },
     "🫖": {
       "name": "teapot",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "drink"
     },
     "🧋": {
       "name": "bubble_tea",
@@ -8421,11 +8434,13 @@
     },
     "🛖": {
       "name": "hut",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "place-building"
     },
     "🛻": {
       "name": "pickup_truck",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "transport-ground"
     },
     "🛼": {
       "name": "roller_skate",
@@ -8489,7 +8504,8 @@
     },
     "🪚": {
       "name": "carpentry_saw",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "tool"
     },
     "🪛": {
       "name": "screwdriver",
@@ -8508,11 +8524,13 @@
     },
     "🪞": {
       "name": "mirror",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "household"
     },
     "🪟": {
       "name": "window",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "household"
     },
     "🪠": {
       "name": "plunger",
@@ -8521,7 +8539,8 @@
     },
     "🪤": {
       "name": "mouse_trap",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "household"
     },
     "🪣": {
       "name": "bucket",
@@ -8535,7 +8554,8 @@
     },
     "🪦": {
       "name": "headstone",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "other-object"
     },
     "🪧": {
       "name": "placard",
@@ -8548,11 +8568,13 @@
     },
     "👨‍🍼": {
       "name": "man_feeding_baby",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-role"
     },
     "🧑‍🍼": {
       "name": "person_feeding_baby",
-      "fitzpatrick_scale": false
+      "fitzpatrick_scale": false,
+      "category": "person-role"
     },
     "🐻‍❄️": {
       "name": "polar_bear",
