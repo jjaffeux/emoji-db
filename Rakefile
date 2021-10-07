@@ -6,6 +6,7 @@ require "fileutils"
 
 CURRENT_EMOJI_LIST = "https://unicode.org/emoji/charts/full-emoji-list.html"
 EMOJI_ORDERING_LIST = "https://unicode.org/emoji/charts/emoji-ordering.html"
+EMOJI_SEARCH_ALIASES_LIST = "https://raw.githubusercontent.com/unicode-org/cldr/main/common/annotations/en.xml"
 
 TASKS = [
   {
@@ -33,7 +34,7 @@ end
 
 def write_emoji(path, image)
   open(path, "wb") { |file| file << image }
-  `pngout #{path} -s0`
+  `./pngout #{path} -s0`
   putc "."
 ensure
   if File.exists?(path) && !File.size?(path)
@@ -180,6 +181,20 @@ task :default do
   end
 
   sections.delete("component")
+
+  list = open(EMOJI_SEARCH_ALIASES_LIST).read
+  doc = Nokogiri::XML(list)
+  doc.xpath("//annotation").each do |node|
+    emoji = node.attr("cp")
+    next if emoji.nil? || emoji.strip.empty?
+    json = emojis[emoji]
+    next if json.nil?
+    
+    search_aliases = json[:search_aliases]
+    search_aliases ||= []
+    search_aliases += node.text.split("|").map(&:strip).reject { |a| a.gsub(" ", "_") == json[:name] }
+    emojis[emoji][:search_aliases] = search_aliases.uniq
+  end
 
   db_path = File.join("generated", "db.json")
   File.write(db_path, JSON.pretty_generate(emojis: emojis, translations: translations, sections: sections))
