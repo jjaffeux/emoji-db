@@ -34,7 +34,7 @@ end
 
 def write_emoji(path, image)
   open(path, "wb") { |file| file << image }
-  `./pngout #{path} -s0`
+  `pngout #{path} -s0`
   putc "."
 ensure
   if File.exists?(path) && !File.size?(path)
