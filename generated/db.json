@@ -1217,7 +1217,7 @@
     },
     "🤝": {
       "name": "handshake",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "hands",
       "search_aliases": [
         "agreement",
@@ -2023,13 +2023,12 @@
       ]
     },
     "🤵": {
-      "name": "man_in_tuxedo",
+      "name": "person_in_tuxedo",
       "fitzpatrick_scale": true,
       "category": "person-role",
       "search_aliases": [
         "groom",
         "person",
-        "person in tuxedo",
         "tuxedo"
       ]
     },
@@ -2103,7 +2102,7 @@
     },
     "👫": {
       "name": "couple",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "family",
       "search_aliases": [
         "hand",
@@ -2116,7 +2115,7 @@
     },
     "👬": {
       "name": "two_men_holding_hands",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "family",
       "search_aliases": [
         "couple",
@@ -2131,7 +2130,7 @@
     },
     "👭": {
       "name": "two_women_holding_hands",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "family",
       "search_aliases": [
         "couple",
@@ -2259,12 +2258,11 @@
       "category": "person-activity"
     },
     "💑": {
-      "name": "couple_with_heart_woman_man",
+      "name": "couple_with_heart",
       "fitzpatrick_scale": false,
       "category": "family",
       "search_aliases": [
         "couple",
-        "couple with heart",
         "love"
       ]
     },
@@ -2298,11 +2296,11 @@
       "category": "family"
     },
     "👪": {
-      "name": "family_man_woman_boy",
+      "name": "family",
       "fitzpatrick_scale": false,
       "category": "family",
       "search_aliases": [
-        "family"
+
       ]
     },
     "👨‍👩‍👧": {
@@ -3109,12 +3107,12 @@
       ]
     },
     "🐞": {
-      "name": "beetle",
+      "name": "lady_beetle",
       "fitzpatrick_scale": false,
       "category": "animal-bug",
       "search_aliases": [
+        "beetle",
         "insect",
-        "lady beetle",
         "ladybird",
         "ladybug"
       ]
@@ -12985,12 +12983,12 @@
       ]
     },
     "🧜": {
-      "name": "mermaid",
+      "name": "merperson",
       "fitzpatrick_scale": true,
       "category": "person-fantasy",
       "search_aliases": [
+        "mermaid",
         "merman",
-        "merperson",
         "merwoman"
       ]
     },
@@ -13468,47 +13466,47 @@
     },
     "👨‍🦰": {
       "name": "man_red_haired",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person"
     },
     "👨‍🦱": {
       "name": "man_curly_haired",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person"
     },
     "👨‍🦳": {
       "name": "man_white_haired",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person"
     },
     "👨‍🦲": {
       "name": "man_bald",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person"
     },
     "👩‍🦰": {
       "name": "woman_red_haired",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person"
     },
     "👩‍🦱": {
       "name": "woman_curly_haired",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person"
     },
     "👩‍🦳": {
       "name": "woman_white_haired",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person"
     },
     "👩‍🦲": {
       "name": "woman_bald",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person"
     },
     "🦸": {
       "name": "superhero",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-fantasy",
       "search_aliases": [
         "good",
@@ -13519,17 +13517,17 @@
     },
     "🦸‍♂️": {
       "name": "man_superhero",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-fantasy"
     },
     "🦸‍♀️": {
       "name": "woman_superhero",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-fantasy"
     },
     "🦹": {
       "name": "supervillain",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-fantasy",
       "search_aliases": [
         "criminal",
@@ -13540,17 +13538,17 @@
     },
     "🦹‍♀️": {
       "name": "woman_supervillain",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-fantasy"
     },
     "🦹‍♂️": {
       "name": "man_supervillain",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-fantasy"
     },
     "🦵": {
       "name": "leg",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "body-parts",
       "search_aliases": [
         "kick",
@@ -13559,7 +13557,7 @@
     },
     "🦶": {
       "name": "foot",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "body-parts",
       "search_aliases": [
         "kick",
@@ -14188,7 +14186,7 @@
     },
     "🤏": {
       "name": "pinching_hand",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "hand-fingers-partial",
       "search_aliases": [
         "small amount"
@@ -14621,7 +14619,7 @@
     },
     "🧑‍🤝‍🧑": {
       "name": "people_holding_hands",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "family",
       "search_aliases": [
         "couple",
@@ -14633,7 +14631,7 @@
     },
     "👩‍🦽": {
       "name": "woman_in_manual_wheelchair",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity",
       "search_aliases": [
         "accessibility",
@@ -14643,7 +14641,7 @@
     },
     "👨‍🦽": {
       "name": "man_in_manual_wheelchair",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity",
       "search_aliases": [
         "accessibility",
@@ -14653,7 +14651,7 @@
     },
     "👩‍🦼": {
       "name": "woman_in_motorized_wheelchair",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity",
       "search_aliases": [
         "accessibility",
@@ -14663,7 +14661,7 @@
     },
     "👨‍🦼": {
       "name": "man_in_motorized_wheelchair",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity",
       "search_aliases": [
         "accessibility",
@@ -14673,7 +14671,7 @@
     },
     "👩‍🦯": {
       "name": "woman_with_probing_cane",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity",
       "search_aliases": [
         "accessibility",
@@ -14684,7 +14682,7 @@
     },
     "👨‍🦯": {
       "name": "man_with_probing_cane",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity",
       "search_aliases": [
         "accessibility",
@@ -14695,37 +14693,37 @@
     },
     "🧎‍♀️": {
       "name": "woman_kneeling",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity"
     },
     "🧎‍♂️": {
       "name": "man_kneeling",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity"
     },
     "🧍‍♂️": {
       "name": "man_standing",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity"
     },
     "🧍‍♀️": {
       "name": "woman_standing",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-activity"
     },
     "🧏‍♀️": {
       "name": "deaf_woman",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-gesture"
     },
     "🧏‍♂️": {
       "name": "deaf_man",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-gesture"
     },
     "🦻": {
       "name": "hear_with_hearing_aid",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "body-parts",
       "search_aliases": [
         "accessibility",
@@ -14801,7 +14799,7 @@
     },
     "🤌": {
       "name": "pinched_fingers",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "hand-fingers-partial",
       "search_aliases": [
         "fingers",
@@ -14837,7 +14835,7 @@
     },
     "🥷": {
       "name": "ninja",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-role",
       "search_aliases": [
         "fighter",
@@ -14845,13 +14843,9 @@
         "stealth"
       ]
     },
-    "": {
-      "name": "lungs",
-      "fitzpatrick_scale": false
-    },
     "🧑‍🎄": {
       "name": "mx_claus",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-fantasy",
       "search_aliases": [
         "Claus, christmas"
@@ -15382,7 +15376,7 @@
     },
     "👨‍🍼": {
       "name": "man_feeding_baby",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-role",
       "search_aliases": [
         "baby",
@@ -15393,7 +15387,7 @@
     },
     "🧑‍🍼": {
       "name": "person_feeding_baby",
-      "fitzpatrick_scale": false,
+      "fitzpatrick_scale": true,
       "category": "person-role",
       "search_aliases": [
         "baby",
@@ -15406,6 +15400,1103 @@
       "name": "polar_bear",
       "fitzpatrick_scale": false,
       "category": "animal-mammal"
+    },
+    "🫠": {
+      "name": "melting_face",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "disappear",
+        "dissolve",
+        "liquid",
+        "melt"
+      ]
+    },
+    "☺": {
+      "name": "smiling_face",
+      "fitzpatrick_scale": false,
+      "category": "face-affection",
+      "search_aliases": [
+        "face",
+        "outlined",
+        "relaxed",
+        "smile"
+      ]
+    },
+    "🫢": {
+      "name": "face_with_open_eyes_and_hand_over_mouth",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "amazement",
+        "awe",
+        "disbelief",
+        "embarrass",
+        "scared",
+        "surprise"
+      ]
+    },
+    "🫣": {
+      "name": "face_with_peeking_eye",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "captivated",
+        "peep",
+        "stare"
+      ]
+    },
+    "🫡": {
+      "name": "saluting_face",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "OK",
+        "salute",
+        "sunny",
+        "troops",
+        "yes"
+      ]
+    },
+    "🫥": {
+      "name": "dotted_line_face",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "depressed",
+        "disappear",
+        "hide",
+        "introvert",
+        "invisible"
+      ]
+    },
+    "😶‍🌫️": {
+      "name": "face_in_clouds",
+      "fitzpatrick_scale": false
+    },
+    "😮‍💨": {
+      "name": "face_exhaling",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "exhale",
+        "gasp",
+        "groan",
+        "relief",
+        "whisper",
+        "whistle"
+      ]
+    },
+    "😵‍💫": {
+      "name": "face_with_spiral_eyes",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "dizzy",
+        "hypnotized",
+        "spiral",
+        "trouble",
+        "whoa"
+      ]
+    },
+    "🫤": {
+      "name": "face_with_diagonal_mouth",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "disappointed",
+        "meh",
+        "skeptical",
+        "unsure"
+      ]
+    },
+    "☹": {
+      "name": "frowning_face",
+      "fitzpatrick_scale": false,
+      "category": "face-concerned",
+      "search_aliases": [
+        "face",
+        "frown"
+      ]
+    },
+    "🥹": {
+      "name": "face_holding_back_tears",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "angry",
+        "cry",
+        "proud",
+        "resist",
+        "sad"
+      ]
+    },
+    "❤️‍🔥": {
+      "name": "heart_on_fire",
+      "fitzpatrick_scale": false
+    },
+    "❤️‍🩹": {
+      "name": "mending_heart",
+      "fitzpatrick_scale": false
+    },
+    "👁️‍🗨️": {
+      "name": "eye_in_speech_bubble",
+      "fitzpatrick_scale": false,
+      "category": "emotion"
+    },
+    "🫱": {
+      "name": "rightwards_hand",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "hand",
+        "right",
+        "rightward"
+      ]
+    },
+    "🫲": {
+      "name": "leftwards_hand",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "hand",
+        "left",
+        "leftward"
+      ]
+    },
+    "🫳": {
+      "name": "palm_down_hand",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "dismiss",
+        "drop",
+        "shoo"
+      ]
+    },
+    "🫴": {
+      "name": "palm_up_hand",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "beckon",
+        "catch",
+        "come",
+        "offer"
+      ]
+    },
+    "🫰": {
+      "name": "hand_with_index_finger_and_thumb_crossed",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "expensive",
+        "heart",
+        "love",
+        "money",
+        "snap"
+      ]
+    },
+    "🫵": {
+      "name": "index_pointing_at_the_viewer",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "point",
+        "you"
+      ]
+    },
+    "🫶": {
+      "name": "heart_hands",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "love"
+      ]
+    },
+    "🫦": {
+      "name": "biting_lip",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "anxious",
+        "fear",
+        "flirting",
+        "nervous",
+        "uncomfortable",
+        "worried"
+      ]
+    },
+    "🧔‍♂️": {
+      "name": "man_beard",
+      "fitzpatrick_scale": false
+    },
+    "🧔‍♀️": {
+      "name": "woman_beard",
+      "fitzpatrick_scale": false
+    },
+    "🧑‍🦰": {
+      "name": "person_red_hair",
+      "fitzpatrick_scale": true,
+      "category": "person"
+    },
+    "🧑‍🦱": {
+      "name": "person_curly_hair",
+      "fitzpatrick_scale": true,
+      "category": "person"
+    },
+    "🧑‍🦳": {
+      "name": "person_white_hair",
+      "fitzpatrick_scale": true,
+      "category": "person"
+    },
+    "🧑‍🦲": {
+      "name": "person_bald",
+      "fitzpatrick_scale": true,
+      "category": "person"
+    },
+    "👱‍♂️": {
+      "name": "man_blond_hair",
+      "fitzpatrick_scale": true,
+      "category": "person"
+    },
+    "🙍": {
+      "name": "person_frowning",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture",
+      "search_aliases": [
+        "frown",
+        "gesture"
+      ]
+    },
+    "🙎": {
+      "name": "person_pouting",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture",
+      "search_aliases": [
+        "gesture",
+        "pouting"
+      ]
+    },
+    "🙅": {
+      "name": "person_gesturing_no",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture",
+      "search_aliases": [
+        "forbidden",
+        "gesture",
+        "hand",
+        "person gesturing NO",
+        "prohibited"
+      ]
+    },
+    "🙆": {
+      "name": "person_gesturing_ok",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture",
+      "search_aliases": [
+        "gesture",
+        "hand",
+        "OK",
+        "person gesturing OK"
+      ]
+    },
+    "💁": {
+      "name": "person_tipping_hand",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture",
+      "search_aliases": [
+        "hand",
+        "help",
+        "information",
+        "sassy",
+        "tipping"
+      ]
+    },
+    "🙋": {
+      "name": "person_raising_hand",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture",
+      "search_aliases": [
+        "gesture",
+        "hand",
+        "happy",
+        "raised"
+      ]
+    },
+    "🧏": {
+      "name": "deaf_person",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture",
+      "search_aliases": [
+        "accessibility",
+        "deaf",
+        "ear",
+        "hear"
+      ]
+    },
+    "🙇‍♂️": {
+      "name": "man_bowing",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture"
+    },
+    "🤦": {
+      "name": "person_facepalming",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture",
+      "search_aliases": [
+        "disbelief",
+        "exasperation",
+        "face",
+        "palm"
+      ]
+    },
+    "🤷": {
+      "name": "person_shrugging",
+      "fitzpatrick_scale": true,
+      "category": "person-gesture",
+      "search_aliases": [
+        "doubt",
+        "ignorance",
+        "indifference",
+        "shrug"
+      ]
+    },
+    "🧑‍⚕️": {
+      "name": "health_worker",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "🧑‍🎓": {
+      "name": "student",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "graduate"
+      ]
+    },
+    "🧑‍🏫": {
+      "name": "teacher",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "instructor",
+        "professor"
+      ]
+    },
+    "🧑‍⚖️": {
+      "name": "judge",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "🧑‍🌾": {
+      "name": "farmer",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "gardener",
+        "rancher"
+      ]
+    },
+    "🧑‍🍳": {
+      "name": "cook",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "chef"
+      ]
+    },
+    "🧑‍🔧": {
+      "name": "mechanic",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "electrician",
+        "plumber",
+        "tradesperson"
+      ]
+    },
+    "🧑‍🏭": {
+      "name": "factory_worker",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "assembly",
+        "factory",
+        "industrial",
+        "worker"
+      ]
+    },
+    "🧑‍💼": {
+      "name": "office_worker",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "architect",
+        "business",
+        "manager",
+        "white-collar"
+      ]
+    },
+    "🧑‍🔬": {
+      "name": "scientist",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "biologist",
+        "chemist",
+        "engineer",
+        "physicist"
+      ]
+    },
+    "🧑‍💻": {
+      "name": "technologist",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "coder",
+        "developer",
+        "inventor",
+        "software"
+      ]
+    },
+    "🧑‍🎤": {
+      "name": "singer",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "actor",
+        "entertainer",
+        "rock",
+        "star"
+      ]
+    },
+    "🧑‍🎨": {
+      "name": "artist",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "palette"
+      ]
+    },
+    "🧑‍✈️": {
+      "name": "pilot",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "🧑‍🚀": {
+      "name": "astronaut",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "rocket"
+      ]
+    },
+    "🧑‍🚒": {
+      "name": "firefighter",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "firetruck"
+      ]
+    },
+    "👮‍♂️": {
+      "name": "man_police_officer",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "🕵️‍♂️": {
+      "name": "man_detective",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "💂‍♂️": {
+      "name": "man_guard",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "👷‍♂️": {
+      "name": "man_construction_worker",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "🫅": {
+      "name": "person_with_crown",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "monarch",
+        "noble",
+        "regal",
+        "royalty"
+      ]
+    },
+    "👳‍♂️": {
+      "name": "man_wearing_turban",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "🤵‍♂️": {
+      "name": "man_in_tuxedo",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "🤵‍♀️": {
+      "name": "woman_in_tuxedo",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "👰‍♂️": {
+      "name": "man_with_veil",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "👰‍♀️": {
+      "name": "woman_with_veil",
+      "fitzpatrick_scale": true,
+      "category": "person-role"
+    },
+    "🫃": {
+      "name": "pregnant_man",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "belly",
+        "bloated",
+        "full",
+        "pregnant"
+      ]
+    },
+    "🫄": {
+      "name": "pregnant_person",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "belly",
+        "bloated",
+        "full",
+        "pregnant"
+      ]
+    },
+    "👩‍🍼": {
+      "name": "woman_feeding_baby",
+      "fitzpatrick_scale": true,
+      "category": "person-role",
+      "search_aliases": [
+        "baby",
+        "feeding",
+        "nursing",
+        "woman"
+      ]
+    },
+    "🧙‍♂️": {
+      "name": "man_mage",
+      "fitzpatrick_scale": true,
+      "category": "person-fantasy"
+    },
+    "🧚‍♂️": {
+      "name": "man_fairy",
+      "fitzpatrick_scale": true,
+      "category": "person-fantasy"
+    },
+    "🧚‍♀️": {
+      "name": "woman_fairy",
+      "fitzpatrick_scale": true,
+      "category": "person-fantasy"
+    },
+    "🧛‍♂️": {
+      "name": "man_vampire",
+      "fitzpatrick_scale": true,
+      "category": "person-fantasy"
+    },
+    "🧛‍♀️": {
+      "name": "woman_vampire",
+      "fitzpatrick_scale": true,
+      "category": "person-fantasy"
+    },
+    "🧜‍♀️": {
+      "name": "mermaid",
+      "fitzpatrick_scale": true,
+      "category": "person-fantasy"
+    },
+    "🧝‍♂️": {
+      "name": "man_elf",
+      "fitzpatrick_scale": true,
+      "category": "person-fantasy"
+    },
+    "🧝‍♀️": {
+      "name": "woman_elf",
+      "fitzpatrick_scale": true,
+      "category": "person-fantasy"
+    },
+    "🧞‍♂️": {
+      "name": "man_genie",
+      "fitzpatrick_scale": false,
+      "category": "person-fantasy"
+    },
+    "🧟‍♂️": {
+      "name": "man_zombie",
+      "fitzpatrick_scale": false,
+      "category": "person-fantasy"
+    },
+    "🧌": {
+      "name": "troll",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "fairy tale",
+        "fantasy",
+        "monster"
+      ]
+    },
+    "💆": {
+      "name": "person_getting_massage",
+      "fitzpatrick_scale": true,
+      "category": "person-activity",
+      "search_aliases": [
+        "face",
+        "massage",
+        "salon"
+      ]
+    },
+    "💇": {
+      "name": "person_getting_haircut",
+      "fitzpatrick_scale": true,
+      "category": "person-activity",
+      "search_aliases": [
+        "barber",
+        "beauty",
+        "haircut",
+        "parlor"
+      ]
+    },
+    "🚶‍♂️": {
+      "name": "man_walking",
+      "fitzpatrick_scale": true,
+      "category": "person-activity"
+    },
+    "🧍": {
+      "name": "person_standing",
+      "fitzpatrick_scale": true,
+      "category": "person-activity",
+      "search_aliases": [
+        "stand",
+        "standing"
+      ]
+    },
+    "🧎": {
+      "name": "person_kneeling",
+      "fitzpatrick_scale": true,
+      "category": "person-activity",
+      "search_aliases": [
+        "kneel",
+        "kneeling"
+      ]
+    },
+    "🧑‍🦯": {
+      "name": "person_with_white_cane",
+      "fitzpatrick_scale": true,
+      "category": "person-activity",
+      "search_aliases": [
+        "accessibility",
+        "blind"
+      ]
+    },
+    "🧑‍🦼": {
+      "name": "person_in_motorized_wheelchair",
+      "fitzpatrick_scale": true,
+      "category": "person-activity",
+      "search_aliases": [
+        "accessibility",
+        "wheelchair"
+      ]
+    },
+    "🧑‍🦽": {
+      "name": "person_in_manual_wheelchair",
+      "fitzpatrick_scale": true,
+      "category": "person-activity",
+      "search_aliases": [
+        "accessibility",
+        "wheelchair"
+      ]
+    },
+    "🏃‍♂️": {
+      "name": "man_running",
+      "fitzpatrick_scale": true,
+      "category": "person-activity"
+    },
+    "👯‍♀️": {
+      "name": "women_with_bunny_ears",
+      "fitzpatrick_scale": false,
+      "category": "person-activity"
+    },
+    "🧖‍♂️": {
+      "name": "man_in_steamy_room",
+      "fitzpatrick_scale": true,
+      "category": "person-activity"
+    },
+    "🧗‍♂️": {
+      "name": "man_climbing",
+      "fitzpatrick_scale": true,
+      "category": "person-activity"
+    },
+    "🏌️‍♂️": {
+      "name": "man_golfing",
+      "fitzpatrick_scale": true,
+      "category": "person-sport"
+    },
+    "🏄‍♂️": {
+      "name": "man_surfing",
+      "fitzpatrick_scale": true,
+      "category": "person-sport"
+    },
+    "🚣‍♂️": {
+      "name": "man_rowing_boat",
+      "fitzpatrick_scale": true,
+      "category": "person-sport"
+    },
+    "🏊‍♂️": {
+      "name": "man_swimming",
+      "fitzpatrick_scale": true,
+      "category": "person-sport"
+    },
+    "⛹️‍♂️": {
+      "name": "man_bouncing_ball",
+      "fitzpatrick_scale": true,
+      "category": "person-sport"
+    },
+    "🏋️‍♂️": {
+      "name": "man_lifting_weights",
+      "fitzpatrick_scale": true,
+      "category": "person-sport"
+    },
+    "🚴‍♂️": {
+      "name": "man_biking",
+      "fitzpatrick_scale": true,
+      "category": "person-sport"
+    },
+    "🚵‍♂️": {
+      "name": "man_mountain_biking",
+      "fitzpatrick_scale": true,
+      "category": "person-sport"
+    },
+    "🤸": {
+      "name": "person_cartwheeling",
+      "fitzpatrick_scale": true,
+      "category": "person-sport",
+      "search_aliases": [
+        "cartwheel",
+        "gymnastics"
+      ]
+    },
+    "🤼": {
+      "name": "people_wrestling",
+      "fitzpatrick_scale": false,
+      "category": "person-sport",
+      "search_aliases": [
+        "wrestle",
+        "wrestler"
+      ]
+    },
+    "🤽": {
+      "name": "person_playing_water_polo",
+      "fitzpatrick_scale": true,
+      "category": "person-sport",
+      "search_aliases": [
+        "polo",
+        "water"
+      ]
+    },
+    "🤾": {
+      "name": "person_playing_handball",
+      "fitzpatrick_scale": true,
+      "category": "person-sport",
+      "search_aliases": [
+        "ball",
+        "handball"
+      ]
+    },
+    "🤹": {
+      "name": "person_juggling",
+      "fitzpatrick_scale": true,
+      "category": "person-sport",
+      "search_aliases": [
+        "balance",
+        "juggle",
+        "multitask",
+        "skill"
+      ]
+    },
+    "🧘‍♂️": {
+      "name": "man_in_lotus_position",
+      "fitzpatrick_scale": true,
+      "category": "person-resting"
+    },
+    "👩‍❤️‍💋‍👨": {
+      "name": "kiss_woman_man",
+      "fitzpatrick_scale": false,
+      "category": "family"
+    },
+    "👩‍❤️‍👨": {
+      "name": "couple_with_heart_woman_man",
+      "fitzpatrick_scale": false,
+      "category": "family"
+    },
+    "👨‍👩‍👦": {
+      "name": "family_man_woman_boy",
+      "fitzpatrick_scale": false,
+      "category": "family"
+    },
+    "🦰": {
+      "name": "red_hair",
+      "fitzpatrick_scale": false,
+      "category": "hair-style",
+      "search_aliases": [
+        "ginger",
+        "redhead"
+      ]
+    },
+    "🦱": {
+      "name": "curly_hair",
+      "fitzpatrick_scale": false,
+      "category": "hair-style",
+      "search_aliases": [
+        "afro",
+        "curly",
+        "ringlets"
+      ]
+    },
+    "🦳": {
+      "name": "white_hair",
+      "fitzpatrick_scale": false,
+      "category": "hair-style",
+      "search_aliases": [
+        "gray",
+        "hair",
+        "old",
+        "white"
+      ]
+    },
+    "🦲": {
+      "name": "bald",
+      "fitzpatrick_scale": false,
+      "category": "hair-style",
+      "search_aliases": [
+        "chemotherapy",
+        "hairless",
+        "no hair",
+        "shaven"
+      ]
+    },
+    "🪸": {
+      "name": "coral",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "ocean",
+        "reef"
+      ]
+    },
+    "🪷": {
+      "name": "lotus",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "Buddhism",
+        "flower",
+        "Hinduism",
+        "India",
+        "purity",
+        "Vietnam"
+      ]
+    },
+    "🪹": {
+      "name": "empty_nest",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "nesting"
+      ]
+    },
+    "🪺": {
+      "name": "nest_with_eggs",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "nesting"
+      ]
+    },
+    "🫘": {
+      "name": "beans",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "food",
+        "kidney",
+        "legume"
+      ]
+    },
+    "🫗": {
+      "name": "pouring_liquid",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "drink",
+        "empty",
+        "glass",
+        "spill"
+      ]
+    },
+    "🫙": {
+      "name": "jar",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "condiment",
+        "container",
+        "empty",
+        "sauce",
+        "store"
+      ]
+    },
+    "🛝": {
+      "name": "playground_slide",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "amusement park",
+        "play"
+      ]
+    },
+    "🛞": {
+      "name": "wheel",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "circle",
+        "tire",
+        "turn"
+      ]
+    },
+    "🛟": {
+      "name": "ring_buoy",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "float",
+        "life preserver",
+        "life saver",
+        "rescue",
+        "safety"
+      ]
+    },
+    "🪬": {
+      "name": "hamsa",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "amulet",
+        "Fatima",
+        "hand",
+        "Mary",
+        "Miriam",
+        "protection"
+      ]
+    },
+    "🪩": {
+      "name": "mirror_ball",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "dance",
+        "disco",
+        "glitter",
+        "party"
+      ]
+    },
+    "🪫": {
+      "name": "low_battery",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "electronic",
+        "low energy"
+      ]
+    },
+    "🩼": {
+      "name": "crutch",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "cane",
+        "disability",
+        "hurt",
+        "mobility aid",
+        "stick"
+      ]
+    },
+    "🩻": {
+      "name": "xray",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "bones",
+        "doctor",
+        "medical",
+        "skeleton",
+        "x-ray"
+      ]
+    },
+    "🛗": {
+      "name": "elevator",
+      "fitzpatrick_scale": false,
+      "category": "household",
+      "search_aliases": [
+        "accessibility",
+        "hoist",
+        "lift"
+      ]
+    },
+    "🫧": {
+      "name": "bubbles",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "burp",
+        "clean",
+        "soap",
+        "underwater"
+      ]
+    },
+    "🪪": {
+      "name": "identification_card",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "credentials",
+        "ID",
+        "license",
+        "security"
+      ]
+    },
+    "⏏": {
+      "name": "eject_button",
+      "fitzpatrick_scale": false,
+      "category": "av-symbol",
+      "search_aliases": [
+        "eject"
+      ]
+    },
+    "♀": {
+      "name": "female_sign",
+      "fitzpatrick_scale": false,
+      "category": "gender",
+      "search_aliases": [
+        "woman"
+      ]
+    },
+    "♂": {
+      "name": "male_sign",
+      "fitzpatrick_scale": false,
+      "category": "gender",
+      "search_aliases": [
+        "man"
+      ]
+    },
+    "🟰": {
+      "name": "heavy_equals_sign",
+      "fitzpatrick_scale": false,
+      "search_aliases": [
+        "equality",
+        "math"
+      ]
+    },
+    "⚕": {
+      "name": "medical_symbol",
+      "fitzpatrick_scale": false,
+      "category": "other-symbol",
+      "search_aliases": [
+        "aesculapius",
+        "medicine",
+        "staff"
+      ]
+    },
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": {
+      "name": "england",
+      "fitzpatrick_scale": false,
+      "category": "subdivision-flag"
+    },
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": {
+      "name": "scotland",
+      "fitzpatrick_scale": false,
+      "category": "subdivision-flag"
+    },
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": {
+      "name": "wales",
+      "fitzpatrick_scale": false,
+      "category": "subdivision-flag"
     }
   },
   "translations": {

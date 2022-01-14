@@ -3,14 +3,30 @@ require "open-uri"
 require "json"
 require "base64"
 require "fileutils"
+require 'hashdiff'
 
 CURRENT_EMOJI_LIST = "https://unicode.org/emoji/charts/full-emoji-list.html"
+CURRENT_TONEABLE_EMOJI_LIST = "https://www.unicode.org/emoji/charts/full-emoji-modifiers.html"
 EMOJI_ORDERING_LIST = "https://unicode.org/emoji/charts/emoji-ordering.html"
 EMOJI_SEARCH_ALIASES_LIST = "https://raw.githubusercontent.com/unicode-org/cldr/main/common/annotations/en.xml"
 
 TASKS = [
   {
+    :type => :base,
     :url => CURRENT_EMOJI_LIST,
+    :platform_cells => {
+      :apple => 3,
+      :google => 4,
+      :twitter => 7,
+      :emoji_one => 8,
+      :facebook => 5,
+      :samsung => 9,
+      :windows => 6
+    }
+  },
+  {
+    :type => :tones,
+    :url => CURRENT_TONEABLE_EMOJI_LIST,
     :platform_cells => {
       :apple => 3,
       :google => 4,
@@ -32,8 +48,9 @@ def code_to_emoji(code)
     .pack "U*"
 end
 
-def write_emoji(path, image)
+def write_emoji(path, image, resize=false)
   open(path, "wb") { |file| file << image }
+  `convert #{path} -fuzz 10% -fill none -draw "alpha 0,0 floodfill" -channel alpha -blur 0x1 -level 50x100% +channel -background transparent -flatten -resize 72x72 #{path}` if resize
   `pngout #{path} -s0`
   putc "."
 ensure
@@ -47,60 +64,146 @@ def cell_to_img(cell)
   Base64.decode64(img["src"][/base64,(.+)$/, 1])
 end
 
-task :default do
+def cldr_short_name_to_discourse_name(name)
+  name.text.delete_prefix("⊛ ").gsub(':', '_').gsub(/\s+/, "_").gsub(/\W/,'').gsub('__','_').downcase
+end
+
+def cldr_short_name_to_discourse_name_toneable(name)
+  name.text.split(':').first.delete_prefix("⊛ ").gsub(/\s+/, "_").gsub(/\W/,'').gsub('__','_').downcase
+end
+
+task :update_db do
+  base_db = JSON.parse(File.read("db.json"))
+  old_base_db = base_db.clone
+  diff_db = {}
+
+  task = TASKS.first
+  list = open(task[:url]).read
+
+  doc = Nokogiri::HTML(list)
+  table = doc.css("table")[0]
+  table.css("tr").each do |row|
+    cells = row.css("td")
+
+    if cells.size == 5
+      code = cells[1].at_css("a")["name"]
+      emoji = code_to_emoji(code)
+      unicode_name = cldr_short_name_to_discourse_name(cells[4])
+
+      if name = base_db[emoji]
+        diff_db[emoji] = {discourse: name, unicode: unicode_name} unless name == unicode_name
+      else
+        name = unicode_name
+        next if name.empty?
+        base_db[emoji] = name
+      end
+    elsif cells.size == 15
+      code = cells[1].at_css("a")["name"]
+      emoji = code_to_emoji(code)
+      unicode_name = cldr_short_name_to_discourse_name(cells[14])
+
+      if name = base_db[emoji]
+        diff_db[emoji] = {discourse: name, unicode: unicode_name} unless name == unicode_name
+      else
+        name = cldr_short_name_to_discourse_name(cells[14])
+        next if name.empty?
+        base_db[emoji] = name
+      end
+    end
+  end
+
+  puts "Differences between Discourse and Unicode shortcodes:"
+  puts JSON.pretty_generate(diff_db)
+  puts "#{diff_db.size} differences"
+
+  puts "Shortcodes shared by different emojis:"
+  base_db.each_with_object({}) { |(k,v),base_db| (base_db[v] ||= []) << k }.
+          select { |_,v| v.size > 1 }.
+          flat_map(&:last).
+          each_slice(2){|a, b| puts; print diff_db[a]; puts a; print diff_db[b]; puts b}
+
+  puts "New Emojis in the database:"
+  puts JSON.pretty_generate(Hashdiff.diff(old_base_db, base_db))
+  puts "#{base_db.size - old_base_db.size} new emojis added to the base_db"
+  File.write("db.json", JSON.pretty_generate(base_db))
+end
+
+
+task :update_emoji do
   base_db = JSON.parse(File.read("db.json"))
 
-  TASKS.each do |task|
-    list = open(task[:url]).read
+  task = TASKS.first
+  list = open(task[:url]).read
 
-    doc = Nokogiri::HTML(list)
-    table = doc.css("table")[0]
-    table.css("tr").each do |row|
-      cells = row.css("td")
+  doc = Nokogiri::HTML(list)
+  table = doc.css("table")[0]
+  table.css("tr").each do |row|
+    cells = row.css("td")
 
-      if cells.size == 5
-        code = cells[1].at_css("a")["name"]
-        emoji = code_to_emoji(code)
-        name = base_db[emoji]
-        next unless name
-        image = cells[3].at_css('img:last-of-type')
+    if cells.size == 5
+      code = cells[1].at_css("a")["name"]
+      emoji = code_to_emoji(code)
+
+      name = base_db[emoji]
+      next if name.empty?
+      image = cells[3].at_css('img:last-of-type')
+      next unless image
+      image = Base64.decode64(image["src"][/base64,(.+)$/, 1])
+
+      task[:platform_cells].each do |style, index|
+        style_path = File.join("generated", style.to_s)
+        FileUtils.mkdir_p(style_path)
+        write_emoji(File.join(style_path, "#{name}.png"), image, true)
+      end
+    elsif cells.size == 15
+      code = cells[1].at_css("a")["name"]
+      emoji = code_to_emoji(code)
+
+      name = base_db[emoji]
+      next if name.empty?
+
+      task[:platform_cells].each do |style, index|
+        image = cell_to_img(cells[index])
         next unless image
-        image = Base64.decode64(image["src"][/base64,(.+)$/, 1])
+        style_path = File.join("generated", style.to_s)
+        FileUtils.mkdir_p(style_path)
+        write_emoji(File.join(style_path, "#{name}.png"), image)
+      end
+    end
+  end
 
+  task = TASKS.last
+  list = open(task[:url]).read
+
+  doc = Nokogiri::HTML(list)
+  table = doc.css("table")[0]
+  table.css("tr").each do |row|
+    cells = row.css("td")
+
+    if cells.size == 5
+      next
+    elsif cells.size == 15
+      code = cells[1].at_css("a")["name"]
+      emoji = code_to_emoji(code)
+
+      unscaled_codes = code.split("_")
+      unscaled_codes.delete_at(1)
+      unscaled_code = unscaled_codes.join("_")
+      begin
+        scale_index = FITZPATRICK_SCALE.index(code.split("_")[1]) + 2
+        unscaled_emoji = code_to_emoji(unscaled_code)
+
+        name = base_db[unscaled_emoji] || cldr_short_name_to_discourse_name_toneable(cells[14])
         task[:platform_cells].each do |style, index|
-          style_path = File.join("generated", style.to_s)
+          image = cell_to_img(cells[index])
+          next unless image
+          style_path = File.join("generated", style.to_s, name)
           FileUtils.mkdir_p(style_path)
-          write_emoji(File.join(style_path, "#{name}.png"), image)
+          write_emoji(File.join(style_path, "#{scale_index}.png"), image)
         end
-      elsif cells.size == 15
-        code = cells[1].at_css("a")["name"]
-        emoji = code_to_emoji(code)
-
-        if name = base_db[emoji]
-          task[:platform_cells].each do |style, index|
-            image = cell_to_img(cells[index])
-            next unless image
-            style_path = File.join("generated", style.to_s)
-            FileUtils.mkdir_p(style_path)
-            write_emoji(File.join(style_path, "#{name}.png"), image)
-          end
-        elsif FITZPATRICK_SCALE.any? { |scale| code[scale] }
-          unscaled_codes = code.split("_")
-          unscaled_codes.delete_at(1)
-          unscaled_code = unscaled_codes.join("_")
-          scale_index = FITZPATRICK_SCALE.index(code.split("_")[1]) + 2
-          unscaled_emoji = code_to_emoji(unscaled_code)
-
-          if name = base_db[unscaled_emoji]
-            task[:platform_cells].each do |style, index|
-              image = cell_to_img(cells[index])
-              next unless image
-              style_path = File.join("generated", style.to_s, name)
-              FileUtils.mkdir_p(style_path)
-              write_emoji(File.join(style_path, "#{scale_index}.png"), image)
-            end
-          end
-        end
+      rescue StandardError => e
+        puts code
+        pp e
       end
     end
   end
